@@ -1,0 +1,24 @@
+[
+    {
+        "_id" : "g1_id_familiar_001",
+        "nombre" : "Francisca",
+        "apellidos" : "Pacheco Perez",
+        "dni" : "02058965R",
+        "fecha de nacimiento" : "18/09/1974",
+        "sexo" : "Mujer",
+        "email" : "franciscapacheco74@gmail.com",
+        "telefono" : "671234489",
+        "direccion" : "c/manzano 5, 3ºB",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "francisca_pacheco.png",
+        "paciente asociado" : "id_paciente_01",
+        "relacion" : "Madre",
+        "nivel de autorización" : "Parcial",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_003"},
+            {"mensaje" : "g1_id_mensaje_004"}
+        ]
+    }
+]

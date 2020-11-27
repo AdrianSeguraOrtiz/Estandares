@@ -1,0 +1,22 @@
+[
+    {
+        "_id" : "g1_id_psiquiatra_001",
+        "nombre" : "Sara",
+        "apellidos" : "Sánchez Ortiz",
+        "dni" : "92834561F",
+        "fecha de nacimiento" : "12/08/1986",
+        "sexo" : "Mujer",
+        "email" : "sarasanchez86@gmail.com",
+        "telefono" : "670345762",
+        "direccion" : "c/edison 2, 4ºC",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "sara_sanchez.png",
+        "titulacion" : "Graduada en Medicina",
+        "universidad" : "Universidad de Málaga (UMA)",
+        "especialidad" : "Psiquiatría general",
+        "años antiguedad en centro" : "7",
+        "numero de pacientes" : "5"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : "g1_id_admin_001",
+        "nombre" : "Pedro",
+        "apellidos" : "Ruiz Benitez",
+        "dni" : "01023456X",
+        "fecha de nacimiento" : "17/10/1982",
+        "sexo" : "Hombre",
+        "email" : "pedroruiz82@gmail.com",
+        "telefono" : "663296148",
+        "direccion" : "c/grilo 4, 3ºB",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "pedro-ruiz.png",
+        "titulacion" : "técnico informático",
+        "años antiguedad en centro" : "4",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_001"},
+            {"mensaje" : "g1_id_mensaje_002"}
+        ]
+    }
+]

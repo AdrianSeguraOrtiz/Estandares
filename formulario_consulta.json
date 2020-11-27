@@ -1,0 +1,62 @@
+[
+    {
+        "_id" : "g1_id_form_001",
+        "paciente" : "g1_id_paciente_001",
+        "psiquiatra" : "g1_id_psiquiatra_001",
+        "fecha consulta" : "27/12/2005",
+        "motivo consulta" : "Pesadillas y recuerdos continuos de un hecho traumático",
+        "desencadenante" : "Insomnio agudo",
+        "observaciones" : "Los recuerdos vividos por la paciente además de provocarle insomnio le causan graves episodios de estrés que propician un bajo rendimiento diario",
+        "diagnóstico" : "Trastorno de estrés postraumático (TEPT)",
+        "tratamiento" : "Se recomienda tomar Paroxetina",
+        "frecuencia tratamiento" : "1 vez al día durante 2 semanas"
+    },
+    {
+        "_id" : "g1_id_form_002",
+        "paciente" : "g1_id_paciente_001",
+        "psiquiatra" : "g1_id_psiquiatra_001",
+        "fecha consulta" : "14/02/2006",
+        "motivo consulta" : "Problemas laborales y falta de concentración",
+        "desencadenante" : "Despido laboral y estrés",
+        "observaciones" : "La paciente sigue reviviendo hechos del pasado que no le dejan avanzar, caída del ánimo debido al despido laboral que puede desencadenar un empeoramiento de su salud mental",
+        "diagnóstico" : "Trastorno de estrés postraumático (TEPT)",
+        "tratamiento" : "Se recomienda tomar Fluoxetina",
+        "frecuencia tratamiento" : "1 vez al día durante 2 semanas"
+    },
+    {
+        "_id" : "g1_id_form_003",
+        "paciente" : "g1_id_paciente_001",
+        "psiquiatra" : "g1_id_psiquiatra_001",
+        "fecha consulta" : "16/09/2009",
+        "motivo consulta" : "Depresión",
+        "desencadenante" : "Mala situación laboral y personal",
+        "observaciones" : "La paciente no encuentra trabajo y ha empeorado su relación con amigos y familiares. Se detecta un posible inicio de aislamiento social",
+        "diagnóstico" : "Depresión",
+        "tratamiento" : "Se recomienda mejorar la alimentación, realizar ejercicio al aire libre y fomentar la aparición de nuevas relaciones personales",
+        "frecuencia tratamiento" : "Perseverar durante 1 mes"
+    },
+    {
+        "_id" : "g1_id_form_004",
+        "paciente" : "g1_id_paciente_001",
+        "psiquiatra" : "g1_id_psiquiatra_001",
+        "fecha consulta" : "30/01/2010",
+        "motivo consulta" : "Depresión",
+        "desencadenante" : "Mala situación laboral y personal",
+        "observaciones" : "El tratamiento anterior no ha resultado ser suficiente, por lo que la paciente continúa depresiva y con falta de autoestima",
+        "diagnóstico" : "Depresión",
+        "tratamiento" : "Se recomienda tomar Sertralina y Lexatín 1.5 mmg",
+        "frecuencia tratamiento" : "Sertralina 1 vez al día durante 2 semanas y Lexatín en caso de sufrir ansiedad ocasional"
+    },
+    {
+        "_id" : "g1_id_form_005",
+        "paciente" : "g1_id_paciente_001",
+        "psiquiatra" : "g1_id_psiquiatra_001",
+        "fecha consulta" : "24/10/2020",
+        "motivo consulta" : "Preocupante pérdida de peso",
+        "desencadenante" : "Padecimiento de desmayos con alta frecuencia",
+        "observaciones" : "La paciente presenta palidez, falta de energía y delgadez extrema",
+        "diagnóstico" : "Trastorno alimenticio",
+        "tratamiento" : "Se recomienda tomar ciproheptadina para estimular el apetito",
+        "frecuencia tratamiento" : "1 vez al día durante 2 semanas"
+    }
+]

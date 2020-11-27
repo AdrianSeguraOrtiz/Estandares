@@ -1,0 +1,56 @@
+[
+    {
+        "_id" : "g1_id_paciente_001",
+        "nombre" : "Marta",
+        "apellidos" : "Romero Pacheco",
+        "dni" : "23456671C",
+        "fecha de nacimiento" : "21/02/1992",
+        "sexo" : "Mujer",
+        "email" : "martaromero92@gmail.com",
+        "telefono" : "669245569",
+        "direccion" : "c/manzano 5, 3ºB",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "marta_romero.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Trastorno de estrés postraumático (TEPT)",
+                "fecha inicio" : "04/12/2005",
+                "fecha final" : "18/06/2006",
+                "psiquiatra asignado" : "id_psiquiatra_01",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_001"},
+                    {"formulario" : "g1_id_form_002"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Paroxetina"},
+                    {"medicamento" : "Fluoxetina"}
+                ]
+            },
+            {
+                "patologia" : "Depresión",
+                "fecha inicio" : "23/08/2009",
+                "fecha final" : "03/02/2010",
+                "psiquiatra asignado" : "id_psiquiatra_01",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_003"},
+                    {"formulario" : "g1_id_form_004"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Sertralina"},
+                    {"medicamento" : "Lexatin"}
+                ]
+            }
+        ],
+        "patologia actual" : "Trastorno alimenticio",
+        "fecha inicio" : "15/10/2020",
+        "psiquiatra asignado" : "id_psiquiatra_01",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_005"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Ciproheptadina"}
+        ]
+    }
+]
