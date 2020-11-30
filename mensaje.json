@@ -1,24 +1,24 @@
 [
     {
         "_id" : "g1_id_mensaje_001",
-        "emisor" : "g1_id_psiquiatra_001",
+        "emisor" : "g1_id_psiquiatra_002",
         "receptor" : "g1_id_admin_001",
         "fecha de envio" : "22/02/2008",
-        "contenido" : "Informar al técnico de una avería de la persiana"
+        "contenido" : "Programar consulta en 10 dias para X"
     },
     {
         "_id" : "g1_id_mensaje_002",
-        "emisor" : "g1_id_psiquiatra_001",
+        "emisor" : "g1_id_psiquiatra_003",
         "receptor" : "g1_id_admin_001",
         "fecha de envio" : "24/10/2020",
-        "contenido" : "Programar analítica de sangre para Marta Romero"
+        "contenido" : "Programar analítica de sangre para Marta Romero."
     },
     {
         "_id" : "g1_id_mensaje_003",
         "emisor" : "g1_id_psiquiatra_001",
         "receptor" : "g1_id_familiar_001",
         "fecha de envio" : "27/12/2005",
-        "contenido" : "Marta presenta claros síntomas de padecer trastorno de estrés postraumático. Usted le puede servir de gran ayuda si se encarga de apartar de su vida cotidiana todos aquellos objetos, temas de conversación, programas de televisión, etc que le recuerden lo sucedido"
+        "contenido" : "Marta presenta claros síntomas de padecer trastorno de estrés postraumático. Usted le puede servir de gran ayuda si se encarga de apartar de su vida cotidiana todos aquellos objetos, temas de conversación, programas de televisión, etc que le recuerden lo sucedido."
     },
     {
         "_id" : "g1_id_mensaje_004",
@@ -26,5 +26,26 @@
         "receptor" : "g1_id_familiar_001",
         "fecha de envio" : "24/10/2020",
         "contenido" : "Marta necesita comer y sobre todo querer hacerlo. Intentar no forzar ingestas de comidas por obligación, si no demostrarle y hacerle ver que es lo mejor para ella. También es recomendable realizar paseos diarios de baja intensidad para que reconozca su agotamiento físico y la causa del mismo."
+    },
+    {
+        "_id" : "g1_id_mensaje_005",
+        "emisor" : "g1_id_psiquiatra_001",
+        "receptor" : "g1_id_admin_002",
+        "fecha de envio" : "21/10/2020",
+        "contenido" : "Error al actualizar información del paciente X"
+    },
+    {
+        "_id" : "g1_id_mensaje_004",
+        "emisor" : "g1_id_psiquiatra_001",
+        "receptor" : "g1_id_admin_003",
+        "fecha de envio" : "25/10/2020",
+        "contenido" : "Carencia de folios para la impresora"
+    },
+    {
+        "_id" : "g1_id_mensaje_005",
+        "emisor" : "g1_id_psiquiatra_001",
+        "receptor" : "g1_id_admin_004",
+        "fecha de envio" : "09/11/2020",
+        "contenido" : "Informar al técnico de una avería de la persiana."
     }
 ]
