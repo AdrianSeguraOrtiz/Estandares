@@ -2,7 +2,7 @@
     {
         "_id" : "g1_id_familiar_001",
         "nombre" : "Francisca",
-        "apellidos" : "Pacheco Perez",
+        "apellidos" : "Pacheco Pérez",
         "dni" : "02058965R",
         "fecha de nacimiento" : "18/09/1974",
         "sexo" : "Mujer",
@@ -13,12 +13,208 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "francisca_pacheco.png",
-        "paciente asociado" : "id_paciente_01",
+        "paciente asociado" : "g1_id_paciente_001",
         "relacion" : "Madre",
         "nivel de autorización" : "Parcial",
         "mensajes recibidos" : [
             {"mensaje" : "g1_id_mensaje_003"},
             {"mensaje" : "g1_id_mensaje_004"}
         ]
+    },
+    {
+        "_id" : "g1_id_familiar_002",
+        "nombre" : "Paco",
+        "apellidos" : "Segura Vera",
+        "dni" : "98345621C",
+        "fecha de nacimiento" : "03/04/1991",
+        "sexo" : "Hombre",
+        "email" : "pacosegura91@gmail.com",
+        "telefono" : "702345269",
+        "direccion" : "c/nueva burra 6, 2ºD",
+        "codigo postal" : "29004",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "paco_segura.png",
+        "paciente asociado" : "g1_id_paciente_002",
+        "relacion" : "Marido",
+        "nivel de autorización" : "Total",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_014"},
+            {"mensaje" : "g1_id_mensaje_015"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_003",
+        "nombre" : "Fran",
+        "apellidos" : "Romero Sánchez",
+        "dni" : "34612390R",
+        "fecha de nacimiento" : "18/09/1969",
+        "sexo" : "Hombre",
+        "email" : "franromero69@gmail.com",
+        "telefono" : "665234789",
+        "direccion" : "c/augusto 3, 1ºA",
+        "codigo postal" : "29004",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "fran_romero.png",
+        "paciente asociado" : "g1_id_paciente_003",
+        "relacion" : "Padre",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_016"},
+            {"mensaje" : "g1_id_mensaje_017"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_004",
+        "nombre" : "Ana",
+        "apellidos" : "Martín Pérez",
+        "dni" : "19223743K",
+        "fecha de nacimiento" : "18/09/1991",
+        "sexo" : "Mujer",
+        "email" : "anamartin91@gmail.com",
+        "telefono" : "634529812",
+        "direccion" : "c/astorga 3, 2ºD",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "ana_martin.png",
+        "paciente asociado" : "g1_id_paciente_004",
+        "relacion" : "Hermana",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_018"},
+            {"mensaje" : "g1_id_mensaje_019"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_005",
+        "nombre" : "María",
+        "apellidos" : "Huerta Ordoñez",
+        "dni" : "21324587N",
+        "fecha de nacimiento" : "22/09/1974",
+        "sexo" : "Mujer",
+        "email" : "mariahuerta74@gmail.com",
+        "telefono" : "674371443",
+        "direccion" : "c/ordoñez 2, 7ºB",
+        "codigo postal" : "29013",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "maria_huerta.png",
+        "paciente asociado" : "g1_id_paciente_005",
+        "relacion" : "Madre",
+        "nivel de autorización" : "Parcial",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_020"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_006",
+        "nombre" : "Juan",
+        "apellidos" : "Pirlo Molina",
+        "dni" : "02024965R",
+        "fecha de nacimiento" : "12/01/1990",
+        "sexo" : "Hombre",
+        "email" : "juanpirlo90@gmail.com",
+        "telefono" : "671234389",
+        "direccion" : "c/molina 2, 1ºB",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "juan_pirlo.png",
+        "paciente asociado" : "g1_id_paciente_006",
+        "relacion" : "Hermano",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_021"},
+            {"mensaje" : "g1_id_mensaje_022"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_007",
+        "nombre" : "Nerea",
+        "apellidos" : "Galiana Trujillo",
+        "dni" : "02134345H",
+        "fecha de nacimiento" : "12/01/1960",
+        "sexo" : "Mujer",
+        "email" : "nereagaliana60@gmail.com",
+        "telefono" : "642116785",
+        "direccion" : "c/trujillo 3, 8ºB",
+        "codigo postal" : "29003",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "nerea_galiana.png",
+        "paciente asociado" : "g1_id_paciente_007",
+        "relacion" : "Madre",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_023"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_008",
+        "nombre" : "Fernando",
+        "apellidos" : "Cintrano Ranea",
+        "dni" : "09083565X",
+        "fecha de nacimiento" : "13/12/1990",
+        "sexo" : "Hombre",
+        "email" : "fernandocintrano90@gmail.com",
+        "telefono" : "672345762",
+        "direccion" : "c/cintranos 3, 4ºB",
+        "codigo postal" : "29005",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "fernando_cintrano.png",
+        "paciente asociado" : "g1_id_paciente_008",
+        "relacion" : "Hermano",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_024"},
+            {"mensaje" : "g1_id_mensaje_025"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_009",
+        "nombre" : "Jesús",
+        "apellidos" : "Ruiz Segura",
+        "dni" : "98332456J",
+        "fecha de nacimiento" : "23/03/1985",
+        "sexo" : "Hombre",
+        "email" : "jesusruiz85@gmail.com",
+        "telefono" : "663649873",
+        "direccion" : "c/castillo 4, 2ºA",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "jesus_ruiz.png",
+        "paciente asociado" : "g1_id_paciente_009",
+        "relacion" : "Novio",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_026"},
+            {"mensaje" : "g1_id_mensaje_027"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_010",
+        "nombre" : "Estrella",
+        "apellidos" : "Rueda García",
+        "dni" : "02356299G",
+        "fecha de nacimiento" : "29/06/1999",
+        "sexo" : "Mujer",
+        "email" : "estrellarueda99@gmail.com",
+        "telefono" : "645332289",
+        "direccion" : "c/palacios 4, 5ºC",
+        "codigo postal" : "29003",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "estrella_rueda.png",
+        "paciente asociado" : "g1_id_paciente_010",
+        "relacion" : "Hija",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_028"}
+        ]
     }
+    
 ]
