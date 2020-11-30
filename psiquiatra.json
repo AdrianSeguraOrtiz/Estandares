@@ -17,7 +17,7 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "7",
-        "numero de pacientes" : "5"
+        "numero de pacientes" : "10"
     },
     {
         "_id" : "g1_id_psiquiatra_002",
@@ -37,7 +37,7 @@
         "universidad" : "Universidad de Granada (UGR)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "3",
-        "numero de pacientes" : "5"
+        "numero de pacientes" : "10"
     },
     {
         "_id" : "g1_id_psiquiatra_003",
@@ -57,7 +57,7 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Neuropsiquiatría",
         "años antiguedad en centro" : "7",
-        "numero de pacientes" : "5"
+        "numero de pacientes" : "10"
     },
     {
         "_id" : "g1_id_psiquiatra_004",
@@ -77,7 +77,7 @@
         "universidad" : "Universidad Rey Juan Carlos (Madrid)",
         "especialidad" : "Psiquiatría infanto-juvenil",
         "años antiguedad en centro" : "10",
-        "numero de pacientes" : "5"
+        "numero de pacientes" : "10"
     },
     {
         "_id" : "g1_id_psiquiatra_005",
@@ -97,7 +97,7 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "2",
-        "numero de pacientes" : "5"
+        "numero de pacientes" : "10"
     },
     {
         "_id" : "g1_id_psiquiatra_006",
@@ -117,6 +117,86 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "4",
-        "numero de pacientes" : "5"
+        "numero de pacientes" : "10"
+    },
+    {
+        "_id" : "g1_id_psiquiatra_007",
+        "nombre" : "Manuel",
+        "apellidos" : "Gómez Cabello",
+        "dni" : "63225471C",
+        "fecha de nacimiento" : "29/04/1975",
+        "sexo" : "Hombre",
+        "email" : "manuelgomez75@gmail.com",
+        "telefono" : "654112445",
+        "direccion" : "c/Marisol 3, 5ºE",
+        "codigo postal" : "29008",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "manuel-gomez.png",
+        "titulacion" : "Graduado en Medicina",
+        "universidad" : "Universidad de Granada (UGR)",
+        "especialidad" : "Neuropsiquiatría",
+        "años antiguedad en centro" : "9",
+        "numero de pacientes" : "10"
+    },
+    {
+        "_id" : "g1_id_psiquiatra_008",
+        "nombre" : "Lorena",
+        "apellidos" : "González Seco",
+        "dni" : "99854121F",
+        "fecha de nacimiento" : "20/01/1988",
+        "sexo" : "Mujer",
+        "email" : "lorena_gonz88@gmail.com",
+        "telefono" : "639784511",
+        "direccion" : "c/Roseta 8, 1ºE",
+        "codigo postal" : "29007",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "lorena-gonzalez.png",
+        "titulacion" : "Graduado en Medicina",
+        "universidad" : "Universidad de Murcia (UCAM)",
+        "especialidad" : "Psiquiatría general",
+        "años antiguedad en centro" : "1",
+        "numero de pacientes" : "10"
+    },
+    {
+        "_id" : "g1_id_psiquiatra_009",
+        "nombre" : "Antonio Jesús",
+        "apellidos" : "Ramírez Loto",
+        "dni" : "55214489X",
+        "fecha de nacimiento" : "07/07/1977",
+        "sexo" : "Hombre",
+        "email" : "antonioj_ramirez77@gmail.com",
+        "telefono" : "651112887",
+        "direccion" : "c/Moreno Villa 29",
+        "codigo postal" : "29012",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "antonio-jesus.png",
+        "titulacion" : "Graduado en Medicina",
+        "universidad" : "Universidad de UMA (UMA)",
+        "especialidad" : "Psiquiatría general",
+        "años antiguedad en centro" : "7",
+        "numero de pacientes" : "10"
+    },
+    {
+        "_id" : "g1_id_psiquiatra_010",
+        "nombre" : "Miguel",
+        "apellidos" : "Pérez López",
+        "dni" : "54411228K",
+        "fecha de nacimiento" : "21/11/1989",
+        "sexo" : "Hombre",
+        "email" : "miguelperez89@gmail.com",
+        "telefono" : "621458992",
+        "direccion" : "c/Prado 1, Ático A",
+        "codigo postal" : "29013",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "miguel-perez.png",
+        "titulacion" : "Graduado en Medicina",
+        "universidad" : "Universidad de UMA (UMA)",
+        "especialidad" : "Psiquiatría general",
+        "años antiguedad en centro" : "7",
+        "numero de pacientes" : "10"
     }
 ]
