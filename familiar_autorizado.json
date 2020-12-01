@@ -347,5 +347,115 @@
             {"mensaje" : "g1_id_mensaje_039"},
             {"mensaje" : "g1_id_mensaje_040"}
         ]
+    },
+    {
+        "_id" : "g1_id_familiar_017",
+        "nombre" : "Pedro",
+        "apellidos" : "Salado García",
+        "dni" : "22236353T",
+        "fecha de nacimiento" : "23/11/1969",
+        "sexo" : "Hombre",
+        "email" : "pedrosalado69@gmail.com",
+        "telefono" : "654452338",
+        "direccion" : "c/pelotas 2, 5ºA",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "pedro_salado.png",
+        "paciente asociado" : "g1_id_paciente_017",
+        "relacion" : "Padre",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_041"},
+            {"mensaje" : "g1_id_mensaje_042"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_018",
+        "nombre" : "María del Carmen",
+        "apellidos" : "Gallego Romero",
+        "dni" : "23456182L",
+        "fecha de nacimiento" : "01/12/1960",
+        "sexo" : "Mujer",
+        "email" : "maricarmengallego60@gmail.com",
+        "telefono" : "654337218",
+        "direccion" : "c/gallegos 3, 6ºE",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "maria_del_carmen_gallego.png",
+        "paciente asociado" : "g1_id_paciente_018",
+        "relacion" : "Madre",
+        "nivel de autorización" : "Parcial",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_043"},
+            {"mensaje" : "g1_id_mensaje_044"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_019",
+        "nombre" : "Fernando",
+        "apellidos" : "Cantos Martín",
+        "dni" : "34213465H",
+        "fecha de nacimiento" : "12/06/1992",
+        "sexo" : "Hombre",
+        "email" : "fernandocantos92@gmail.com",
+        "telefono" : "651232378",
+        "direccion" : "c/campos 1, 2ºA",
+        "codigo postal" : "29003",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "fernando_cantos.png",
+        "paciente asociado" : "g1_id_paciente_019",
+        "relacion" : "Hermano",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_045"},
+            {"mensaje" : "g1_id_mensaje_046"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_020",
+        "nombre" : "Juan",
+        "apellidos" : "Rodriguez Campos",
+        "dni" : "09083321U",
+        "fecha de nacimiento" : "22/12/1970",
+        "sexo" : "Hombre",
+        "email" : "juanrodriguez70@gmail.com",
+        "telefono" : "645332956",
+        "direccion" : "c/cesar 2, 6ºA",
+        "codigo postal" : "29001",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "juan_rodriguez.png",
+        "paciente asociado" : "g1_id_paciente_020",
+        "relacion" : "Padre",
+        "nivel de autorización" : "Parcial",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_047"},
+            {"mensaje" : "g1_id_mensaje_048"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_021",
+        "nombre" : "Sandra",
+        "apellidos" : "Torres Sánchez",
+        "dni" : "45236632T",
+        "fecha de nacimiento" : "09/02/1982",
+        "sexo" : "Mujer",
+        "email" : "sandratorres82@gmail.com",
+        "telefono" : "672193280",
+        "direccion" : "c/castillos 2, 4ºA",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "sandra_torres.png",
+        "paciente asociado" : "g1_id_paciente_021",
+        "relacion" : "Hermana",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_049"},
+            {"mensaje" : "g1_id_mensaje_050"}
+        ]
     }
 ]

@@ -37,7 +37,7 @@
         "universidad" : "Universidad de Granada (UGR)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "3",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "6"
     },
     {
         "_id" : "g1_id_psiquiatra_003",
@@ -57,7 +57,7 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Neuropsiquiatría",
         "años antiguedad en centro" : "7",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "5"
     },
     {
         "_id" : "g1_id_psiquiatra_004",

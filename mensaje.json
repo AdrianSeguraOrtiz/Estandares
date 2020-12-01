@@ -278,5 +278,124 @@
         "receptor" : "g1_id_familiar_016",
         "fecha de envio" : "29/11/2020",
         "contenido" : "Adrián a pesar de pasar los controles muestra claros síntomas de estar bajo los efectos de la droga. Deben encontrarle alguna explicación a sus resultados"
+    },
+    {
+        "_id" : "g1_id_mensaje_041",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_017",
+        "fecha de envio" : "21/05/2020",
+        "contenido" : "Resultaría conveniente que su hija Gabriela aumentase su vida social y pasase más tiempo fuera de casa. Su mayor tentación es no tener nada que hacer y usar el móvil."
+    },
+    {
+        "_id" : "g1_id_mensaje_042",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_017",
+        "fecha de envio" : "25/11/2020",
+        "contenido" : "Su hija está aumentando correctamente de peso. Además, tiene intención de comenzar a practicar algún deporte. Le recomiendo que la anime a ello, eso también le ayudará respecto a los problemas que tuvo a principios de año"
+    },
+    {
+        "_id" : "g1_id_mensaje_043",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_018",
+        "fecha de envio" : "28/11/2002",
+        "contenido" : "Irene afirma haber conocido a una nueva amiga en el colegio, es muy importante que no le mostreis excesiva importancia delante de ella. Es un gran paso que hay que tratar con normalidad como si se tratase de cualquier otra niña."
+    },
+    {
+        "_id" : "g1_id_mensaje_044",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_018",
+        "fecha de envio" : "22/01/2003",
+        "contenido" : "Irene ha conseguido mejorar sorprendentemente sus habilidades sociales, su comportamiento es bastante maduro para su edad y avanza bien en la terapia."
+    },
+    {
+        "_id" : "g1_id_mensaje_045",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_019",
+        "fecha de envio" : "18/10/2016",
+        "contenido" : "Marta se encuentra en pleno proceso de duelo por la pérdida de vuestra madre. Es importante comprender que ante la misma situación cada persona reacciona de forma distinta. Compartis el mismo dolor pero no la misma forma de afrontarlo. Necesita tu apoyo más que nunca y resulta preferible hablar de lo sucedido antes de forzar su censura."
+    },
+    {
+        "_id" : "g1_id_mensaje_046",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_019",
+        "fecha de envio" : "14/10/2020",
+        "contenido" : "Marta ha sido sometida a mucha presión por motivos que ya conoces. Es muy autoexigente y debes hacerle ver que es normal equivocarse y que en vez de culparse tiene que aprender a saber empezar de nuevo sin atormentarse"
+    },
+    {
+        "_id" : "g1_id_mensaje_047",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_020",
+        "fecha de envio" : "19/11/2020",
+        "contenido" : "Miguel no es capaz de comprender las consecuencias y las secuelas futuras que su consumición puede llegar a acarrearle. No ve problema en lo que hace y esto será lo primero que debemos hacerle ver. Sin ello, no verá motivos para dejar de consumir y por tanto no lo hará."
+    },
+    {
+        "_id" : "g1_id_mensaje_048",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_020",
+        "fecha de envio" : "01/12/2020",
+        "contenido" : "Miguel me ha prometido su compromiso en el proceso de desintoxicación y ha accedido a realizarse pruebas semanalmente. Es un gran paso que debéis agradecerle."
+    },
+    {
+        "_id" : "g1_id_mensaje_049",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_021",
+        "fecha de envio" : "13/12/2010",
+        "contenido" : "Álvaro ha conseguido mantenerse más de 1 mes sobrio. Es muy importante que se le felicite por su esfuerzo y sacrificio."
+    },
+    {
+        "_id" : "g1_id_mensaje_050",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_familiar_021",
+        "fecha de envio" : "22/07/2017",
+        "contenido" : "Álvaro además de haber conseguido no recurrir al alcohol durante todo su tratamiento esta mostrando señales de mejora y aprendendiendo acerca del control de sus emociones"
+    },
+    {
+        "_id" : "g1_id_mensaje_051",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_admin_001",
+        "fecha de envio" : "14/09/2020",
+        "contenido" : "Prueba de función tiroidea a David Lasa"
+    },
+    {
+        "_id" : "g1_id_mensaje_052",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_admin_001",
+        "fecha de envio" : "16/07/2012",
+        "contenido" : "Prueba de estimulación con TRH para Carmen Castro"
+    },
+    {
+        "_id" : "g1_id_mensaje_053",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_admin_002",
+        "fecha de envio" : "16/08/2020",
+        "contenido" : "Prueba de función tiroidea para Carmen Castro"
+    },
+    {
+        "_id" : "g1_id_mensaje_054",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_admin_002",
+        "fecha de envio" : "13/09/2020",
+        "contenido" : "Prueba de función tiroidea para Clara Labrador"
+    },
+    {
+        "_id" : "g1_id_mensaje_055",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_admin_003",
+        "fecha de envio" : "15/04/1997",
+        "contenido" : "Prueba de glicemia postpandrial para Jimena Benitez"
+    },
+    {
+        "_id" : "g1_id_mensaje_056",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_admin_003",
+        "fecha de envio" : "14/11/2020",
+        "contenido" : "Prueba de función tiroidea para Marta Cantos"
+    },
+    {
+        "_id" : "g1_id_mensaje_057",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_admin_004",
+        "fecha de envio" : "18/03/2017",
+        "contenido" : "Prueba de estimulación con TRH para Álvaro Torres"
     }
 ]

@@ -155,7 +155,7 @@
             {"formulario" : "g1_id_form_013"}
         ],
         "medicamentos asignados" : [
-            {"medicamento" : "Donepezilo"}
+            {"medicamento" : "Donepezilo"},
             {"medicamento" : "Memantina"}
         ]
     },
@@ -546,4 +546,171 @@
             {"formulario" : "g1_id_form_38"}
         ]
     },
+    {
+        "_id" : "g1_id_paciente_017",
+        "nombre" : "Gabriela",
+        "apellidos" : "Salado San Millán",
+        "dni" : "23788219K",
+        "fecha de nacimiento" : "21/07/1999",
+        "sexo" : "Mujer",
+        "email" : "gabrielasalado99@gmail.com",
+        "telefono" : "674553729",
+        "direccion" : "c/capitanes 4, 2ºA",
+        "codigo postal" : "29005",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "gabriela_salado.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Ninfomanía",
+                "fecha inicio" : "12/03/2020",
+                "fecha final" : "14/07/2020",
+                "psiquiatra asignado" : "id_psiquiatra_003",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_39"},
+                    {"formulario" : "g1_id_form_40"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Naltrexona"}
+                ]
+            }
+        ],
+        "patologia actual" : "Anorexia",
+        "fecha inicio" : "15/10/2020",
+        "psiquiatra asignado" : "id_psiquiatra_003",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_41"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_018",
+        "nombre" : "Irene",
+        "apellidos" : "Carrasco Gallego",
+        "dni" : "04067923C",
+        "fecha de nacimiento" : "01/12/1990",
+        "sexo" : "Mujer",
+        "email" : "irenecarrasco90@gmail.com",
+        "telefono" : "663640389",
+        "direccion" : "c/lipezcua 6, 5ºE",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "irene_carracsco.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Síndrome de Asperger",
+                "fecha inicio" : "13/10/2002",
+                "fecha final" : "28/02/2003",
+                "psiquiatra asignado" : "id_psiquiatra_003",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_42"},
+                    {"formulario" : "g1_id_form_43"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Risperidal"}
+                ]
+            }
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_019",
+        "nombre" : "Marta",
+        "apellidos" : "Cantos Martín",
+        "dni" : "16773490C",
+        "fecha de nacimiento" : "23/08/1995",
+        "sexo" : "Mujer",
+        "email" : "martacantos95@gmail.com",
+        "telefono" : "634528965",
+        "direccion" : "c/edison 3, 1ºA",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "marta_cantos.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Depresión",
+                "fecha inicio" : "15/09/2016",
+                "fecha final" : "03/01/2017",
+                "psiquiatra asignado" : "id_psiquiatra_003",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_44"},
+                    {"formulario" : "g1_id_form_45"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Sertralina"}
+                ]
+            }
+        ],
+        "patologia actual" : "Ansiedad",
+        "fecha inicio" : "10/10/2020",
+        "psiquiatra asignado" : "id_psiquiatra_003",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_46"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Lexatin"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_020",
+        "nombre" : "Miguel",
+        "apellidos" : "Rodriguez Galvez",
+        "dni" : "29764719X",
+        "fecha de nacimiento" : "18/04/2001",
+        "sexo" : "Hombre",
+        "email" : "miguelrodriguez01@gmail.com",
+        "telefono" : "624542731",
+        "direccion" : "c/galvez 15, 2ºB",
+        "codigo postal" : "29007",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "miguel_rodriguez.png",
+        "patologia actual" : "Drogadicción",
+        "fecha inicio" : "17/11/2020",
+        "psiquiatra asignado" : "id_psiquiatra_003",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_47"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_021",
+        "nombre" : "Álvaro",
+        "apellidos" : "Torres Sánchez",
+        "dni" : "23499671C",
+        "fecha de nacimiento" : "19/05/1987",
+        "sexo" : "Hombre",
+        "email" : "alvarotorres87@gmail.com",
+        "telefono" : "663456621",
+        "direccion" : "c/palomas 2, 3ºB",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "alvaro_torres.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Alcoholismo",
+                "fecha inicio" : "11/11/2010",
+                "fecha final" : "02/03/2011",
+                "psiquiatra asignado" : "id_psiquiatra_003",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_048"},
+                    {"formulario" : "g1_id_form_049"}
+                ]
+            },
+            {
+                "patologia" : "Depresión",
+                "fecha inicio" : "13/02/2017",
+                "fecha final" : "15/08/2017",
+                "psiquiatra asignado" : "id_psiquiatra_003",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_050"},
+                    {"formulario" : "g1_id_form_051"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Sertralina"},
+                    {"medicamento" : "Lexatin"}
+                ]
+            }
+        ]
+    }
 ]
