@@ -67,11 +67,32 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "olivia_canete.png",
-        "patologias previas" : "ninguna",
+        "patologias previas" : [
+            {
+                "patologia" : "Trastorno de la Ansiedad",
+                "fecha inicio" : "21/10/2014",
+                "fecha final" : "08/12/2015",
+                "psiquiatra asignado" : "id_psiquiatra_001",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_006"},
+                    {"formulario" : "g1_id_form_007"},
+                    {"formulario" : "g1_id_form_008"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Escitalopram"},
+                    {"medicamento" : "Duloxetina"}
+                ]
+            }
+        ],
         "patologia actual" : "Trastorno bipolar",
         "fecha inicio" : "10/10/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_009"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Olanzapina"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_003",
@@ -87,18 +108,22 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "lucas_romero.png",
-        "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno de la personalidad",
         "fecha inicio" : "30/10/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_009"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Amitriptilina"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_004",
         "nombre" : "Mario",
         "apellidos" : "Martín Pérez",
         "dni" : "85457744B",
-        "fecha de nacimiento" : "13/06/1988",
+        "fecha de nacimiento" : "13/06/1960",
         "sexo" : "Hombre",
         "email" : "mariomp1998@gmail.com",
         "telefono" : "652225874",
@@ -107,11 +132,32 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "mario_martin.png",
-        "patologias previas" : "ninguna",
-        "patologia actual" : "Depresión crónica",
+        "patologias previas" : [
+            {
+                "patologia" : "Depresión",
+                "fecha inicio" : "19/03/2011",
+                "fecha final" : "01/02/2012",
+                "psiquiatra asignado" : "id_psiquiatra_001",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_006"},
+                    {"formulario" : "g1_id_form_007"},
+                    {"formulario" : "g1_id_form_008"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Protriptilina"}
+                ]
+            }
+        ],
+        "patologia actual" : "Demencia",
         "fecha inicio" : "01/11/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_013"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Donepezilo"}
+            {"medicamento" : "Memantina"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_005",
@@ -127,11 +173,15 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "silvia_roman.png",
-        "patologias previas" : "ninguna",
-        "patologia actual" : "Trastorno obsesivo-compulsivo",
+        "patologia actual" : "Trastorno obsesivo-compulsivo (TOC)",
         "fecha inicio" : "22/10/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_014"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Fluvoxamine"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_006",
@@ -147,11 +197,30 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "lucas_pirlo.png",
-        "patologias previas" : "ninguna",
-        "patologia actual" : "Trastorno de ansiedad",
+        "patologias previas" : [
+            {
+                "patologia" : "Trastorno de Ansiedad",
+                "fecha inicio" : "24/03/2014",
+                "fecha final" : "01/11/2014",
+                "psiquiatra asignado" : "id_psiquiatra_001",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_015"},
+                    {"formulario" : "g1_id_form_016"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Escitalopram"}
+                ]
+            }
+        ],
+        "patologia actual" : "Síndrome de Diógenes",
         "fecha inicio" : "31/10/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_017"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Citalopram"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_007",
@@ -167,11 +236,16 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "jose_ramon.png",
-        "patologias previas" : "ninguna",
         "patologia actual" : "Esquizofrenia",
         "fecha inicio" : "07/11/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_018"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Aripiprazol"},
+            {"medicamento" : "Clozapina"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_008",
@@ -187,11 +261,29 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "margarita_cintrano.png",
-        "patologias previas" : "ninguna",
+        "patologias previas" : [
+            {
+                "patologia" : "Trastorno de Ansiedad Social",
+                "fecha inicio" : "03/01/2018",
+                "psiquiatra asignado" : "id_psiquiatra_001",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_019"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Sertralina"}
+                ]
+            }
+        ],
         "patologia actual" : "Trastorno del Espectro Autista",
         "fecha inicio" : "08/11/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_020"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Risperidona"},
+            {"medicamento" : "Aripiprazol"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_009",
@@ -207,11 +299,15 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "melania_castillo.png",
-        "patologias previas" : "ninguna",
         "patologia actual" : "Déficit de Atención e Hiperactividad",
         "fecha inicio" : "11/11/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_021"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Methylphenidate "}
+        ]
     },
     {
         "_id" : "g1_id_paciente_010",
@@ -227,11 +323,15 @@
         "localidad" : "Málaga",
         "provincia" : "Málaga",
         "fotografia" : "pilar_rueda.png",
-        "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno de estrés postraumático (TEPT)",
         "fecha inicio" : "10/11/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
-        "formularios consultas" : "",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_022"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Sertralina"}
+        ]
     },
     {
         "_id" : "g1_id_paciente_011",
