@@ -354,8 +354,8 @@
                 "fecha final" : "17/08/2016",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
-                    {"formulario" : "g1_id_form_"},
-                    {"formulario" : "g1_id_form_"}
+                    {"formulario" : "g1_id_form_023"},
+                    {"formulario" : "g1_id_form_024"}
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Ciproheptadina"}
@@ -366,7 +366,7 @@
         "fecha inicio" : "11/09/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_"}
+            {"formulario" : "g1_id_form_025"}
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Lexatin"}
@@ -393,8 +393,8 @@
                 "fecha final" : "03/02/2010",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
-                    {"formulario" : "g1_id_form_"},
-                    {"formulario" : "g1_id_form_"}
+                    {"formulario" : "g1_id_form_26"},
+                    {"formulario" : "g1_id_form_27"}
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Sertralina"},
@@ -407,8 +407,8 @@
                 "fecha final" : "15/01/2013",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
-                    {"formulario" : "g1_id_form_"},
-                    {"formulario" : "g1_id_form_"}
+                    {"formulario" : "g1_id_form_28"},
+                    {"formulario" : "g1_id_form_29"}
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Sertralina"},
@@ -420,7 +420,7 @@
         "fecha inicio" : "07/08/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_"}
+            {"formulario" : "g1_id_form_30"}
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Lexatin"}
@@ -447,8 +447,8 @@
                 "fecha final" : "01/04/09",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
-                    {"formulario" : "g1_id_form_"},
-                    {"formulario" : "g1_id_form_"}
+                    {"formulario" : "g1_id_form_31"},
+                    {"formulario" : "g1_id_form_32"}
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Ritalina"}
@@ -459,7 +459,7 @@
         "fecha inicio" : "14/07/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_"}
+            {"formulario" : "g1_id_form_33"}
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Ciproheptadina"}
@@ -483,7 +483,7 @@
         "fecha inicio" : "11/09/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_"}
+            {"formulario" : "g1_id_form_34"}
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Sertralina"}
@@ -510,8 +510,8 @@
                 "fecha final" : "19/01/98",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
-                    {"formulario" : "g1_id_form_"},
-                    {"formulario" : "g1_id_form_"}
+                    {"formulario" : "g1_id_form_35"},
+                    {"formulario" : "g1_id_form_36"}
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Ritalina"}
@@ -522,7 +522,7 @@
         "fecha inicio" : "08/09/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_"}
+            {"formulario" : "g1_id_form_37"}
         ]
     },
     {
@@ -543,7 +543,7 @@
         "fecha inicio" : "13/11/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_"}
+            {"formulario" : "g1_id_form_38"}
         ]
     },
 ]
