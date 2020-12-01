@@ -215,6 +215,137 @@
         "mensajes recibidos" : [
             {"mensaje" : "g1_id_mensaje_028"}
         ]
+    },
+    {
+        "_id" : "g1_id_familiar_011",
+        "nombre" : "Nuria",
+        "apellidos" : "Fernandez García",
+        "dni" : "03478299Z",
+        "fecha de nacimiento" : "23/06/1997",
+        "sexo" : "Mujer",
+        "email" : "nuriafernandez97@gmail.com",
+        "telefono" : "664552987",
+        "direccion" : "c/nuevo campo 3, 4ºC",
+        "codigo postal" : "29001",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "nuria_fernandez.png",
+        "paciente asociado" : "g1_id_paciente_011",
+        "relacion" : "Novia",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_029"},
+            {"mensaje" : "g1_id_mensaje_030"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_012",
+        "nombre" : "Miguel",
+        "apellidos" : "Aguilar Castro",
+        "dni" : "03273299Z",
+        "fecha de nacimiento" : "12/04/2000",
+        "sexo" : "Hombre",
+        "email" : "miguelaguilar00@gmail.com",
+        "telefono" : "674552937",
+        "direccion" : "c/estrida 6, 4ºC",
+        "codigo postal" : "29003",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "miguel_aguilar.png",
+        "paciente asociado" : "g1_id_paciente_012",
+        "relacion" : "Hijo",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_031"},
+            {"mensaje" : "g1_id_mensaje_032"},
+            {"mensaje" : "g1_id_mensaje_033"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_013",
+        "nombre" : "Francisco",
+        "apellidos" : "Valderrama García",
+        "dni" : "03473399G",
+        "fecha de nacimiento" : "12/08/1965",
+        "sexo" : "Hombre",
+        "email" : "franciscovalderrama65@gmail.com",
+        "telefono" : "664534987",
+        "direccion" : "c/hernandez 3, 4ºC",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "francisco_valderrama.png",
+        "paciente asociado" : "g1_id_paciente_013",
+        "relacion" : "Padre",
+        "nivel de autorización" : "Parcial",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_034"},
+            {"mensaje" : "g1_id_mensaje_035"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_014",
+        "nombre" : "Margarita",
+        "apellidos" : "Vera Sánchez",
+        "dni" : "32472199G",
+        "fecha de nacimiento" : "11/09/1969",
+        "sexo" : "Mujer",
+        "email" : "margaritavera69@gmail.com",
+        "telefono" : "629885276",
+        "direccion" : "c/tulipanes 7, 1ºC",
+        "codigo postal" : "29004",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "margarita_vera.png",
+        "paciente asociado" : "g1_id_paciente_014",
+        "relacion" : "Madre",
+        "nivel de autorización" : "Normal",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_036"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_015",
+        "nombre" : "Marina",
+        "apellidos" : "Benitez Castro",
+        "dni" : "09086643T",
+        "fecha de nacimiento" : "21/11/1989",
+        "sexo" : "Mujer",
+        "email" : "marinabenitez89@gmail.com",
+        "telefono" : "654223987",
+        "direccion" : "c/herrera 2, 5ºA",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "marina_benitez.png",
+        "paciente asociado" : "g1_id_paciente_015",
+        "relacion" : "Hermana",
+        "nivel de autorización" : "Parcial",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_037"},
+            {"mensaje" : "g1_id_mensaje_038"}
+        ]
+    },
+    {
+        "_id" : "g1_id_familiar_016",
+        "nombre" : "Alejandro",
+        "apellidos" : "Pacheco Piriz",
+        "dni" : "22236643T",
+        "fecha de nacimiento" : "01/12/1969",
+        "sexo" : "Hombre",
+        "email" : "alejandropacheco69@gmail.com",
+        "telefono" : "654332988",
+        "direccion" : "c/flores 1, 2ºA",
+        "codigo postal" : "29005",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "alejandro_pacheco.png",
+        "paciente asociado" : "g1_id_paciente_016",
+        "relacion" : "Padre",
+        "nivel de autorización" : "Total",
+        "mensajes recibidos" : [
+            {"mensaje" : "g1_id_mensaje_039"},
+            {"mensaje" : "g1_id_mensaje_040"}
+        ]
     }
-    
 ]

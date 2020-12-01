@@ -18,7 +18,7 @@
                 "patologia" : "Trastorno de estrés postraumático (TEPT)",
                 "fecha inicio" : "04/12/2005",
                 "fecha final" : "18/06/2006",
-                "psiquiatra asignado" : "id_psiquiatra_01",
+                "psiquiatra asignado" : "id_psiquiatra_001",
                 "formularios consultas" : [
                     {"formulario" : "g1_id_form_001"},
                     {"formulario" : "g1_id_form_002"}
@@ -32,7 +32,7 @@
                 "patologia" : "Depresión",
                 "fecha inicio" : "23/08/2009",
                 "fecha final" : "03/02/2010",
-                "psiquiatra asignado" : "id_psiquiatra_01",
+                "psiquiatra asignado" : "id_psiquiatra_001",
                 "formularios consultas" : [
                     {"formulario" : "g1_id_form_003"},
                     {"formulario" : "g1_id_form_004"}
@@ -45,7 +45,7 @@
         ],
         "patologia actual" : "Trastorno alimenticio",
         "fecha inicio" : "15/10/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : [
             {"formulario" : "g1_id_form_005"}
         ],
@@ -70,7 +70,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno bipolar",
         "fecha inicio" : "10/10/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -90,7 +90,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno de la personalidad",
         "fecha inicio" : "30/10/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -110,7 +110,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Depresión crónica",
         "fecha inicio" : "01/11/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -130,7 +130,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno obsesivo-compulsivo",
         "fecha inicio" : "22/10/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -150,7 +150,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno de ansiedad",
         "fecha inicio" : "31/10/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -170,7 +170,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Esquizofrenia",
         "fecha inicio" : "07/11/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -190,7 +190,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno del Espectro Autista",
         "fecha inicio" : "08/11/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -210,7 +210,7 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Déficit de Atención e Hiperactividad",
         "fecha inicio" : "11/11/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
     },
     {
@@ -230,7 +230,220 @@
         "patologias previas" : "ninguna",
         "patologia actual" : "Trastorno de estrés postraumático (TEPT)",
         "fecha inicio" : "10/11/2020",
-        "psiquiatra asignado" : "id_psiquiatra_01",
+        "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : "",
-    }
+    },
+    {
+        "_id" : "g1_id_paciente_011",
+        "nombre" : "David",
+        "apellidos" : "Lasa Ordoñez",
+        "dni" : "23567210K",
+        "fecha de nacimiento" : "18/01/1996",
+        "sexo" : "Hombre",
+        "email" : "davidlasa96@gmail.com",
+        "telefono" : "662537784",
+        "direccion" : "c/aceras 2, 4ºB",
+        "codigo postal" : "29003",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "david_lasa.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Trastorno alimenticio",
+                "fecha inicio" : "10/03/2016",
+                "fecha final" : "17/08/2016",
+                "psiquiatra asignado" : "id_psiquiatra_002",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_"},
+                    {"formulario" : "g1_id_form_"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Ciproheptadina"}
+                ]
+            }
+        ],
+        "patologia actual" : "Trastorno de ansiedad",
+        "fecha inicio" : "11/09/2020",
+        "psiquiatra asignado" : "id_psiquiatra_002",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Lexatin"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_012",
+        "nombre" : "Carmen",
+        "apellidos" : "Castro Romero",
+        "dni" : "23446631C",
+        "fecha de nacimiento" : "27/08/1980",
+        "sexo" : "Mujer",
+        "email" : "carmencastro80@gmail.com",
+        "telefono" : "623445237",
+        "direccion" : "c/romeros 7, 3ºB",
+        "codigo postal" : "29005",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "carmen_castro.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Depresión",
+                "fecha inicio" : "12/10/2009",
+                "fecha final" : "03/02/2010",
+                "psiquiatra asignado" : "id_psiquiatra_002",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_"},
+                    {"formulario" : "g1_id_form_"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Sertralina"},
+                    {"medicamento" : "Lexatin"}
+                ]
+            },
+            {
+                "patologia" : "Depresión",
+                "fecha inicio" : "14/07/2012",
+                "fecha final" : "15/01/2013",
+                "psiquiatra asignado" : "id_psiquiatra_002",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_"},
+                    {"formulario" : "g1_id_form_"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Sertralina"},
+                    {"medicamento" : "Lexatin"}
+                ]
+            }
+        ],
+        "patologia actual" : "Ansiedad",
+        "fecha inicio" : "07/08/2020",
+        "psiquiatra asignado" : "id_psiquiatra_002",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Lexatin"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_013",
+        "nombre" : "Eduardo",
+        "apellidos" : "Valderrama Ortiz",
+        "dni" : "23767219K",
+        "fecha de nacimiento" : "22/12/1997",
+        "sexo" : "Hombre",
+        "email" : "eduardovalderrama97@gmail.com",
+        "telefono" : "662523781",
+        "direccion" : "c/palmeros 5, 6ºA",
+        "codigo postal" : "29002",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "eduardo_valderrama.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Deficit de atención",
+                "fecha inicio" : "15/12/2008",
+                "fecha final" : "01/04/09",
+                "psiquiatra asignado" : "id_psiquiatra_002",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_"},
+                    {"formulario" : "g1_id_form_"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Ritalina"}
+                ]
+            }
+        ],
+        "patologia actual" : "Trastorno alimenticio",
+        "fecha inicio" : "14/07/2020",
+        "psiquiatra asignado" : "id_psiquiatra_002",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Ciproheptadina"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_014",
+        "nombre" : "Clara",
+        "apellidos" : "Labrador Vera",
+        "dni" : "23763319X",
+        "fecha de nacimiento" : "19/09/2000",
+        "sexo" : "Mujer",
+        "email" : "claralabrador00@gmail.com",
+        "telefono" : "624567731",
+        "direccion" : "c/aragoneses 2, 1ºA",
+        "codigo postal" : "29004",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "clara_labrador.png",
+        "patologia actual" : "Depresión",
+        "fecha inicio" : "11/09/2020",
+        "psiquiatra asignado" : "id_psiquiatra_002",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_"}
+        ],
+        "medicamentos asignados" : [
+            {"medicamento" : "Sertralina"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_015",
+        "nombre" : "Jimena",
+        "apellidos" : "Benitez Castro",
+        "dni" : "23717219K",
+        "fecha de nacimiento" : "12/11/1986",
+        "sexo" : "Mujer",
+        "email" : "jimenabenitez86@gmail.com",
+        "telefono" : "672523721",
+        "direccion" : "c/cabrero 1, 4ºA",
+        "codigo postal" : "29003",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "jimena_benitez.png",
+        "patologias previas" : [
+            {
+                "patologia" : "Hiperactividad",
+                "fecha inicio" : "15/08/1996",
+                "fecha final" : "19/01/98",
+                "psiquiatra asignado" : "id_psiquiatra_002",
+                "formularios consultas" : [
+                    {"formulario" : "g1_id_form_"},
+                    {"formulario" : "g1_id_form_"}
+                ],
+                "medicamentos asignados" : [
+                    {"medicamento" : "Ritalina"}
+                ]
+            }
+        ],
+        "patologia actual" : "Alcoholemia",
+        "fecha inicio" : "08/09/2020",
+        "psiquiatra asignado" : "id_psiquiatra_002",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_"}
+        ]
+    },
+    {
+        "_id" : "g1_id_paciente_016",
+        "nombre" : "Adrián",
+        "apellidos" : "Pacheco Segura",
+        "dni" : "23223319J",
+        "fecha de nacimiento" : "03/12/2000",
+        "sexo" : "Hombre",
+        "email" : "adrianpacheco00@gmail.com",
+        "telefono" : "634167739",
+        "direccion" : "c/hernandez 2, 1ºA",
+        "codigo postal" : "29006",
+        "localidad" : "Málaga",
+        "provincia" : "Málaga",
+        "fotografia" : "adrian_pacheco.png",
+        "patologia actual" : "Drogadicción",
+        "fecha inicio" : "13/11/2020",
+        "psiquiatra asignado" : "id_psiquiatra_002",
+        "formularios consultas" : [
+            {"formulario" : "g1_id_form_"}
+        ]
+    },
 ]

@@ -194,5 +194,89 @@
         "receptor" : "g1_id_familiar_010",
         "fecha de envio" : "11/11/2020",
         "contenido" : "Pilar no supera lo sucedido. Revive ese momento una y otra vez culpándose constantemente. Nuestra terapia y su trato deben centrarse en conseguir que se perdone a sí misma"
+    },
+    {
+        "_id" : "g1_id_mensaje_029",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_011",
+        "fecha de envio" : "22/04/2016",
+        "contenido" : "David ha bajado drásticamente de peso y me he considerado necesario recetarle un medicamento para la estimulación de su apetito. No obstante, es un simple parche, debemos estar preparados para conseguir despertarle alguna motivación que le haga cambiar de opinión"
+    },
+    {
+        "_id" : "g1_id_mensaje_030",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_011",
+        "fecha de envio" : "11/10/2020",
+        "contenido" : "David se encuentra angustiado por sus problemas laborales, es necesario que le apoye en ello y le muestre esperanza para que él también la sienta"
+    },
+    {
+        "_id" : "g1_id_mensaje_031",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_012",
+        "fecha de envio" : "09/08/2020",
+        "contenido" : "Su madre ha tenido un percance durante la consulta, no obstante hemos logrado estabilizarla. En caso de sufrir otro ataque pongase en contacto con nosotros. Le he dado cita en unos días dado su estado"
+    },
+    {
+        "_id" : "g1_id_mensaje_032",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_012",
+        "fecha de envio" : "22/08/2020",
+        "contenido" : "Su madre no se deja ayudar a pesar de venir a las consultas. Es de vital importancia que nos cuente todas sus preocupaciones para que podamos ayudarla. Espero que logre convencerla"
+    },
+    {
+        "_id" : "g1_id_mensaje_033",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_012",
+        "fecha de envio" : "28/11/2020",
+        "contenido" : "Carmen ha mostrado grandes mejoras desde su comienzo en terapia. Ya mismo deberá continuar sola y es muy importante que la apoye en los primeros días. En caso de sufrir una recaída espero que vuelvan a confiar en nosotros."
+    },
+    {
+        "_id" : "g1_id_mensaje_034",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_013",
+        "fecha de envio" : "16/07/2020",
+        "contenido" : "Eduardo se preocupa demasiado por la imagen que puedan tener las personas de él. Resultaría beneficioso hacerle ver que lo que el piensa no debe extrapolarlo a los demás. Trabajad en ello."
+    },
+    {
+        "_id" : "g1_id_mensaje_035",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_013",
+        "fecha de envio" : "22/08/2020",
+        "contenido" : "Eduardo está cogiendo peso convenientemente, espero que siga así esta semana. No hay que confiarse y hay que seguir apoyándole."
+    },
+    {
+        "_id" : "g1_id_mensaje_036",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_014",
+        "fecha de envio" : "15/09/2020",
+        "contenido" : "Clara está afectada por motivos personales. Si no se siente cómoda hablándolo es muy importante que durante los primeros días se la respete. Es una situación delicada que requiere paciencia"
+    },
+    {
+        "_id" : "g1_id_mensaje_037",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_015",
+        "fecha de envio" : "08/09/2020",
+        "contenido" : "Es importante que Jimena recuerde cada día la lucha que está librando contra su adicción. Es necesario estar pendiente de que no reincida pero sin hacer persión para que note que confiamos en ella"
+    },
+    {
+        "_id" : "g1_id_mensaje_038",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_015",
+        "fecha de envio" : "10/10/2020",
+        "contenido" : "Me temo que Jimena ha vuelto a beber. Resultan normales este tipo de recaídas durante el proceso, no obstante, debe aprender que beber no es una solución a sus problemas."
+    },
+    {
+        "_id" : "g1_id_mensaje_039",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_016",
+        "fecha de envio" : "15/11/2020",
+        "contenido" : "Adrián presenta un largo camino de desintoxicación por delante. Les recomiendo realizar controles semanales que prueben su compromiso"
+    },
+    {
+        "_id" : "g1_id_mensaje_040",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_familiar_016",
+        "fecha de envio" : "29/11/2020",
+        "contenido" : "Adrián ha pesar de pasar los controles muestra claros síntomas de estar bajo los efectos de la droga. Deben encontrarle alguna explicación a sus resultados"
     }
 ]
