@@ -94,7 +94,7 @@
         "_id" : "g1_id_mensaje_014",
         "emisor" : "g1_id_psiquiatra_001",
         "receptor" : "g1_id_familiar_002",
-        "fecha de envio" : "12/10/2020",
+        "fecha de envio" : "10/10/2020",
         "contenido" : "Olivia ha realizado adecuadamente la consulta médica y dado que presenta síntomas de bipolaridad le aconsejamos tener una conducta paciente y por ahora ser flexible con ella hasta tener los resultados de la prueba."
     },
     {
@@ -123,14 +123,14 @@
         "emisor" : "g1_id_psiquiatra_001",
         "receptor" : "g1_id_familiar_004",
         "fecha de envio" : "02/11/2020",
-        "contenido" : "Mario necesita cambiar de rutina y probar hacer cosas nuevas. Le he recomendado hacer deporte, necesito que lo anime usted también. A ver si entre ambos conseguimos hacer que suba un poco su ánimo."
+        "contenido" : "Si Mario sufre un episodio de demencia, debe tomar Donepezilo 1gr junto con un sobre de Memantina."
     },
     {
         "_id" : "g1_id_mensaje_019",
         "emisor" : "g1_id_psiquiatra_001",
         "receptor" : "g1_id_familiar_004",
         "fecha de envio" : "24/11/2020",
-        "contenido" : "Mario presenta cierta mejora respecto a presentar nuevas motivaciones. No le ayuda actualmente en su depresión pero resulta un buen comienzo. Sigue así."
+        "contenido" : "Mario presenta cierta mejora. Sigue así."
     },
     {
         "_id" : "g1_id_mensaje_020",
@@ -144,7 +144,7 @@
         "emisor" : "g1_id_psiquiatra_001",
         "receptor" : "g1_id_familiar_006",
         "fecha de envio" : "31/10/2020",
-        "contenido" : "Lucas presenta altos niveles de preocupación debido a problemas laborales. En caso de sufrir una crisis deberá tomar lexatín 1.5mg e intentar recordarle el tema lo menos posible"
+        "contenido" : "En caso de sufrir una crisis, Lucas deberá tomar Citalopram 1.5mg"
     },
     {
         "_id" : "g1_id_mensaje_022",
@@ -277,6 +277,6 @@
         "emisor" : "g1_id_psiquiatra_002",
         "receptor" : "g1_id_familiar_016",
         "fecha de envio" : "29/11/2020",
-        "contenido" : "Adrián ha pesar de pasar los controles muestra claros síntomas de estar bajo los efectos de la droga. Deben encontrarle alguna explicación a sus resultados"
+        "contenido" : "Adrián a pesar de pasar los controles muestra claros síntomas de estar bajo los efectos de la droga. Deben encontrarle alguna explicación a sus resultados"
     }
 ]
