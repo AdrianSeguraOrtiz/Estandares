@@ -69,7 +69,7 @@
         "fotografia" : "olivia_canete.png",
         "patologias previas" : [
             {
-                "patologia" : "Trastorno de la Ansiedad",
+                "patologia" : "Trastorno de ansiedad",
                 "fecha inicio" : "21/10/2014",
                 "fecha final" : "08/12/2015",
                 "psiquiatra asignado" : "id_psiquiatra_001",
@@ -199,7 +199,7 @@
         "fotografia" : "lucas_pirlo.png",
         "patologias previas" : [
             {
-                "patologia" : "Trastorno de Ansiedad",
+                "patologia" : "Trastorno de ansiedad",
                 "fecha inicio" : "24/03/2014",
                 "fecha final" : "01/11/2014",
                 "psiquiatra asignado" : "id_psiquiatra_001",
@@ -263,7 +263,7 @@
         "fotografia" : "margarita_cintrano.png",
         "patologias previas" : [
             {
-                "patologia" : "Trastorno de Ansiedad Social",
+                "patologia" : "Trastorno de ansiedad social",
                 "fecha inicio" : "03/01/2018",
                 "psiquiatra asignado" : "id_psiquiatra_001",
                 "formularios consultas" : [
@@ -416,7 +416,7 @@
                 ]
             }
         ],
-        "patologia actual" : "Ansiedad",
+        "patologia actual" : "Trastorno de ansiedad",
         "fecha inicio" : "07/08/2020",
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
@@ -444,7 +444,7 @@
             {
                 "patologia" : "Deficit de atención",
                 "fecha inicio" : "15/12/2008",
-                "fecha final" : "01/04/09",
+                "fecha final" : "01/04/2009",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
                     {"formulario" : "g1_id_form_31"},
@@ -507,7 +507,7 @@
             {
                 "patologia" : "Hiperactividad",
                 "fecha inicio" : "15/08/1996",
-                "fecha final" : "19/01/98",
+                "fecha final" : "19/01/1998",
                 "psiquiatra asignado" : "id_psiquiatra_002",
                 "formularios consultas" : [
                     {"formulario" : "g1_id_form_35"},
