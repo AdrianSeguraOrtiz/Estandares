@@ -77,7 +77,7 @@
         "universidad" : "Universidad Rey Juan Carlos (Madrid)",
         "especialidad" : "Psiquiatría infanto-juvenil",
         "años antiguedad en centro" : "10",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "4"
     },
     {
         "_id" : "g1_id_psiquiatra_005",
@@ -97,7 +97,7 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "2",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "4"
     },
     {
         "_id" : "g1_id_psiquiatra_006",
@@ -117,7 +117,7 @@
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "4",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "5"
     },
     {
         "_id" : "g1_id_psiquiatra_007",
@@ -137,7 +137,7 @@
         "universidad" : "Universidad de Granada (UGR)",
         "especialidad" : "Neuropsiquiatría",
         "años antiguedad en centro" : "9",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "4"
     },
     {
         "_id" : "g1_id_psiquiatra_008",
@@ -157,7 +157,7 @@
         "universidad" : "Universidad de Murcia (UCAM)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "1",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "4"
     },
     {
         "_id" : "g1_id_psiquiatra_009",
@@ -177,7 +177,7 @@
         "universidad" : "Universidad de UMA (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "7",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "4"
     },
     {
         "_id" : "g1_id_psiquiatra_010",
@@ -197,6 +197,6 @@
         "universidad" : "Universidad de UMA (UMA)",
         "especialidad" : "Psiquiatría general",
         "años antiguedad en centro" : "7",
-        "numero de pacientes" : "10"
+        "numero de pacientes" : "4"
     }
 ]
