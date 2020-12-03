@@ -1138,7 +1138,7 @@
         "fotografia" : "lola_flores.png",
         "patologias previas" : [
             {
-                "patologia" : "Bipolaridad",
+                "patologia" : "Trastorno bipolar",
                 "fecha inicio" : "14/08/2016",
                 "fecha final" : "03/02/2017",
                 "psiquiatra asignado" : "id_psiquiatra_007",
