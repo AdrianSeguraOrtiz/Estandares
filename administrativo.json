@@ -19,7 +19,9 @@
             {"mensaje" : "g1_id_mensaje_001"},
             {"mensaje" : "g1_id_mensaje_002"},
             {"mensaje" : "g1_id_mensaje_080"},
-            {"mensaje" : "g1_id_mensaje_081"}
+            {"mensaje" : "g1_id_mensaje_081"},
+            {"mensaje" : "g1_id_mensaje_094"},
+            {"mensaje" : "g1_id_mensaje_095"}
         ]
     },
     {
@@ -43,7 +45,9 @@
             {"mensaje" : "g1_id_mensaje_006"},
             {"mensaje" : "g1_id_mensaje_007"},
             {"mensaje" : "g1_id_mensaje_082"},
-            {"mensaje" : "g1_id_mensaje_083"}
+            {"mensaje" : "g1_id_mensaje_083"},
+            {"mensaje" : "g1_id_mensaje_093"},
+            {"mensaje" : "g1_id_mensaje_096"}
         ]
     },
     {
@@ -67,7 +71,9 @@
             {"mensaje" : "g1_id_mensaje_009"},
             {"mensaje" : "g1_id_mensaje_010"},
             {"mensaje" : "g1_id_mensaje_084"},
-            {"mensaje" : "g1_id_mensaje_085"}
+            {"mensaje" : "g1_id_mensaje_085"},
+            {"mensaje" : "g1_id_mensaje_091"},
+            {"mensaje" : "g1_id_mensaje_092"}
         ]
     },
     {
