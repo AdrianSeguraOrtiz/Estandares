@@ -16,7 +16,7 @@
         "titulacion" : "Graduada en Medicina",
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
-        "años antiguedad en centro" : "17",
+        "años antiguedad en centro" : "15",
         "numero de pacientes" : "10"
     },
     {
@@ -24,7 +24,7 @@
         "nombre" : "Roberto",
         "apellidos" : "Fernández Rojas",
         "dni" : "32568415D",
-        "fecha de nacimiento" : "26/03/1990",
+        "fecha de nacimiento" : "26/03/1970",
         "sexo" : "Hombre",
         "email" : "roberto_hr90@gmail.com",
         "telefono" : "645852112",
@@ -36,7 +36,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de Granada (UGR)",
         "especialidad" : "Psiquiatría general",
-        "años antiguedad en centro" : "3",
+        "años antiguedad en centro" : "24",
         "numero de pacientes" : "6"
     },
     {
@@ -44,7 +44,7 @@
         "nombre" : "Lucía",
         "apellidos" : "Manrique Pérez",
         "dni" : "77485124M",
-        "fecha de nacimiento" : "02/02/1985",
+        "fecha de nacimiento" : "02/02/1980",
         "sexo" : "Mujer",
         "email" : "manrique_lucia@gmail.com",
         "telefono" : "621452228",
@@ -56,7 +56,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Neuropsiquiatría",
-        "años antiguedad en centro" : "7",
+        "años antiguedad en centro" : "18",
         "numero de pacientes" : "5"
     },
     {
@@ -76,7 +76,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad Rey Juan Carlos (Madrid)",
         "especialidad" : "Psiquiatría infanto-juvenil",
-        "años antiguedad en centro" : "10",
+        "años antiguedad en centro" : "5",
         "numero de pacientes" : "4"
     },
     {
@@ -96,7 +96,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
-        "años antiguedad en centro" : "2",
+        "años antiguedad en centro" : "3",
         "numero de pacientes" : "4"
     },
     {
@@ -116,7 +116,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de Málaga (UMA)",
         "especialidad" : "Psiquiatría general",
-        "años antiguedad en centro" : "4",
+        "años antiguedad en centro" : "5",
         "numero de pacientes" : "5"
     },
     {
@@ -136,7 +136,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de Granada (UGR)",
         "especialidad" : "Neuropsiquiatría",
-        "años antiguedad en centro" : "9",
+        "años antiguedad en centro" : "8",
         "numero de pacientes" : "4"
     },
     {
@@ -156,7 +156,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de Murcia (UCAM)",
         "especialidad" : "Psiquiatría general",
-        "años antiguedad en centro" : "1",
+        "años antiguedad en centro" : "4",
         "numero de pacientes" : "4"
     },
     {
@@ -196,7 +196,7 @@
         "titulacion" : "Graduado en Medicina",
         "universidad" : "Universidad de UMA (UMA)",
         "especialidad" : "Psiquiatría general",
-        "años antiguedad en centro" : "7",
+        "años antiguedad en centro" : "2",
         "numero de pacientes" : "4"
     }
 ]
