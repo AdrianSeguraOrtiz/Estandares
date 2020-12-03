@@ -628,5 +628,47 @@
         "receptor" : "g1_id_admin_004",
         "fecha de envio" : "30/04/2019",
         "contenido" : "Analítica de sangre para Oscar Benitez"
+    },
+    {
+        "_id" : "g1_id_mensaje_091",
+        "emisor" : "g1_id_psiquiatra_010",
+        "receptor" : "g1_id_admin_003",
+        "fecha de envio" : "30/04/2019",
+        "contenido" : "Analítica de orina para Oscar Benitez"
+    },
+    {
+        "_id" : "g1_id_mensaje_092",
+        "emisor" : "g1_id_psiquiatra_002",
+        "receptor" : "g1_id_admin_003",
+        "fecha de envio" : "15/11/2020",
+        "contenido" : "Analítica de orina para Adrián Pacheco"
+    },
+    {
+        "_id" : "g1_id_mensaje_093",
+        "emisor" : "g1_id_psiquiatra_003",
+        "receptor" : "g1_id_admin_002",
+        "fecha de envio" : "25/11/2020",
+        "contenido" : "Analítica de orina para Miguel Rodríguez"
+    },
+    {
+        "_id" : "g1_id_mensaje_094",
+        "emisor" : "g1_id_psiquiatra_005",
+        "receptor" : "g1_id_admin_001",
+        "fecha de envio" : "20/12/2020",
+        "contenido" : "Analítica de orina para Fernando Sánchez"
+    },
+    {
+        "_id" : "g1_id_mensaje_095",
+        "emisor" : "g1_id_psiquiatra_006",
+        "receptor" : "g1_id_admin_001",
+        "fecha de envio" : "15/01/2019",
+        "contenido" : "Analítica de orina para Lucía Sánchez"
+    },
+    {
+        "_id" : "g1_id_mensaje_096",
+        "emisor" : "g1_id_psiquiatra_006",
+        "receptor" : "g1_id_admin_002",
+        "fecha de envio" : "25/10/2020",
+        "contenido" : "Analítica de orina para Alejandro Ortiz"
     }
 ]
