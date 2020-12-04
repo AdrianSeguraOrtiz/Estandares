@@ -1,7 +1,0 @@
-{
-    "_id" : STRING,
-    "emisor" : STRING,
-    "receptor" : STRING,
-    "fecha de envio" : DATE,
-    "contenido" : STRING
-}
