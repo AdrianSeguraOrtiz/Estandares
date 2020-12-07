@@ -112,7 +112,7 @@
         "fecha inicio" : "30/10/2020",
         "psiquiatra asignado" : "id_psiquiatra_001",
         "formularios consultas" : [
-            {"formulario" : "g1_id_form_009"}
+            {"formulario" : "g1_id_form_010"}
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Amitriptilina"}
@@ -139,9 +139,8 @@
                 "fecha final" : "01/02/2012",
                 "psiquiatra asignado" : "id_psiquiatra_001",
                 "formularios consultas" : [
-                    {"formulario" : "g1_id_form_006"},
-                    {"formulario" : "g1_id_form_007"},
-                    {"formulario" : "g1_id_form_008"}
+                    {"formulario" : "g1_id_form_011"},
+                    {"formulario" : "g1_id_form_012"}
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Protriptilina"}
