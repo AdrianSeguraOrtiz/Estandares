@@ -1,0 +1,3016 @@
+[
+    {
+        "_id": "g1_id_paciente_001",
+        "nombre": "Marta",
+        "apellidos": "Romero Pacheco",
+        "dni": "23456671C",
+        "fecha_de_nacimiento": "21/02/1992",
+        "sexo": "Mujer",
+        "email": "martaromero92@gmail.com",
+        "telefono": "669245569",
+        "direccion": "c/manzano 5, 3\u00baB",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "marta_romero.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                "fecha inicio": "04/12/2005",
+                "fecha final": "18/06/2006",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_001"
+                    },
+                    {
+                        "formulario": "g1_id_form_002"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Paroxetina"
+                    },
+                    {
+                        "medicamento": "Fluoxetina"
+                    }
+                ],
+                "pruebas complementarias": [
+                    {
+                        "prueba": "Prueba de glicemia postpandrial"
+                    }
+                ]
+            },
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "23/08/2009",
+                "fecha final": "03/02/2010",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_003"
+                    },
+                    {
+                        "formulario": "g1_id_form_004"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    },
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno alimenticio",
+        "fecha inicio": "15/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_005"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Ciproheptadina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_005",
+                "paciente": "g1_id_paciente_001",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "24/10/2020",
+                "motivo consulta": "Preocupante p\u00e9rdida de peso",
+                "desencadenante": "Padecimiento de desmayos con alta frecuencia",
+                "observaciones": "La paciente presenta palidez, falta de energ\u00eda y delgadez extrema",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar ciproheptadina para estimular el apetito",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_001",
+                "paciente": "g1_id_paciente_001",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "27/12/2005",
+                "motivo consulta": "Pesadillas y recuerdos continuos de un hecho traum\u00e1tico",
+                "desencadenante": "Insomnio agudo",
+                "observaciones": "Los recuerdos vividos por la paciente adem\u00e1s de provocarle insomnio le causan graves episodios de estr\u00e9s que propician un bajo rendimiento diario",
+                "diagnostico": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                "tratamiento": "Se recomienda tomar Paroxetina",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            },
+            {
+                "_id": "g1_id_form_002",
+                "paciente": "g1_id_paciente_001",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "14/02/2006",
+                "motivo consulta": "Problemas laborales y falta de concentraci\u00f3n",
+                "desencadenante": "Despido laboral y estr\u00e9s",
+                "observaciones": "La paciente sigue reviviendo hechos del pasado que no le dejan avanzar, ca\u00edda del \u00e1nimo debido al despido laboral que puede desencadenar un empeoramiento de su salud mental",
+                "diagnostico": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                "tratamiento": "Se recomienda tomar Fluoxetina",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            },
+            {
+                "_id": "g1_id_form_003",
+                "paciente": "g1_id_paciente_001",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "16/09/2009",
+                "motivo consulta": "Depresi\u00f3n",
+                "desencadenante": "Mala situaci\u00f3n laboral y personal",
+                "observaciones": "La paciente no encuentra trabajo y ha empeorado su relaci\u00f3n con amigos y familiares. Se detecta un posible inicio de aislamiento social",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda mejorar la alimentaci\u00f3n, realizar ejercicio al aire libre y fomentar la aparici\u00f3n de nuevas relaciones personales",
+                "frecuencia tratamiento": "Perseverar durante 1 mes"
+            },
+            {
+                "_id": "g1_id_form_004",
+                "paciente": "g1_id_paciente_001",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "30/01/2010",
+                "motivo consulta": "Depresi\u00f3n",
+                "desencadenante": "Mala situaci\u00f3n laboral y personal",
+                "observaciones": "El tratamiento anterior no ha resultado ser suficiente, por lo que la paciente contin\u00faa depresiva y con falta de autoestima",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina y Lexat\u00edn 1.5 mmg",
+                "frecuencia tratamiento": "Sertralina 1 vez al d\u00eda durante 2 semanas y Lexat\u00edn en caso de sufrir ansiedad ocasional"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_002",
+        "nombre": "Olivia",
+        "apellidos": "Ca\u00f1ete Dom\u00ednguez",
+        "dni": "74825691Z",
+        "fecha_de_nacimiento": "05/12/1990",
+        "sexo": "Mujer",
+        "email": "oliviacanete_d90@gmail.com",
+        "telefono": "695874412",
+        "direccion": "c/Pintor Ru\u00edz 12, 4\u00baE",
+        "codigo postal": "29007",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "olivia_canete.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno de ansiedad",
+                "fecha inicio": "21/10/2014",
+                "fecha final": "08/12/2015",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_006"
+                    },
+                    {
+                        "formulario": "g1_id_form_007"
+                    },
+                    {
+                        "formulario": "g1_id_form_008"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Escitalopram"
+                    },
+                    {
+                        "medicamento": "Duloxetina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno bipolar",
+        "fecha inicio": "10/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_009"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Olanzapina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_009",
+                "paciente": "g1_id_paciente_002",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "10/10/2020",
+                "motivo consulta": "Sentimientos de euforia anormales",
+                "desencadenante": "Discusi\u00f3n familiar",
+                "observaciones": "La paciente presenta cambios en su estado de \u00e1nimo frecuentes",
+                "diagnostico": "Trastorno bipolar",
+                "tratamiento": "Se recomienda tomar Olanzapina para estabilizar el \u00e1nimo",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 1 mes semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_006",
+                "paciente": "g1_id_paciente_002",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "21/10/2014",
+                "motivo consulta": "Ataque de ansiedad",
+                "desencadenante": "Estr\u00e9s por los estudios",
+                "observaciones": "La paciente presenta un ritmo card\u00edaco alto, sudores y dificultad para respirar",
+                "diagnostico": "Trastorno de ansiedad",
+                "tratamiento": "Se recomienda tomar Escitalopram para bajar la frecuencia card\u00edaca",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 1 mes"
+            },
+            {
+                "_id": "g1_id_form_007",
+                "paciente": "g1_id_paciente_002",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "30/05/2015",
+                "motivo consulta": "Revisi\u00f3n seismesina",
+                "observaciones": "La paciente presenta una notable mejor\u00eda, pero a\u00fan debe tomar medicaci\u00f3n",
+                "tratamiento": "Se recomienda tomar Duloxetina en caso de ataque de ansiedad",
+                "frecuencia tratamiento": "Cuando sea necesario, m\u00e1ximo una toma al d\u00eda, durante 6 meses"
+            },
+            {
+                "_id": "g1_id_form_008",
+                "paciente": "g1_id_paciente_002",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "08/12/2015",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "La paciente se ha recuperado completamente"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_003",
+        "nombre": "Lucas",
+        "apellidos": "Romero Padilla",
+        "dni": "85554412E",
+        "fecha_de_nacimiento": "15/01/1995",
+        "sexo": "Hombre",
+        "email": "lucas_romero95@gmail.com",
+        "telefono": "632545885",
+        "direccion": "c/Paseo Verde 56",
+        "codigo postal": "29014",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "lucas_romero.png",
+        "patologia actual": "Trastorno de la personalidad",
+        "fecha inicio": "30/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_010"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Amitriptilina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_010",
+                "paciente": "g1_id_paciente_003",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "30/10/2020",
+                "motivo consulta": "Comportamiento extra\u00f1o e il\u00f3gico",
+                "desencadenante": "Exposici\u00f3n a una situaci\u00f3n estresante",
+                "observaciones": "El paciente presenta conducta impulsiva, imagen personal inestable y cambios en el estado de \u00e1nimo",
+                "diagnostico": "Trastorno de la personalidad",
+                "tratamiento": "Se recomienda tomar Amitriptilina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 meses, con descansos de 3 dias cada 2 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_004",
+        "nombre": "Mario",
+        "apellidos": "Mart\u00edn P\u00e9rez",
+        "dni": "85457744B",
+        "fecha_de_nacimiento": "13/06/1960",
+        "sexo": "Hombre",
+        "email": "mariomp1998@gmail.com",
+        "telefono": "652225874",
+        "direccion": "c/Castilla 39, Bajo B",
+        "codigo postal": "29007",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "mario_martin.png",
+        "patologias previas": [
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "19/03/2011",
+                "fecha final": "01/02/2012",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_011"
+                    },
+                    {
+                        "formulario": "g1_id_form_012"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Protriptilina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Demencia",
+        "fecha inicio": "01/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_013"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Donepezilo"
+            },
+            {
+                "medicamento": "Memantina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_013",
+                "paciente": "g1_id_paciente_004",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "01/11/2020",
+                "motivo consulta": "Olvido de la ruta de vuelta a casa",
+                "observaciones": "El paciente muestra p\u00e9rdidas de memoria, deficultad para comunicarse y dificultad para manejar tareas complejas",
+                "diagnostico": "Demencia",
+                "tratamiento": "Se recomienda tomar Donepezilo para mejorar la memoria y Memantina para el aumento de la actividad cerebral",
+                "frecuencia tratamiento": "2 veces al d\u00eda"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_011",
+                "paciente": "g1_id_paciente_004",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "19/03/2011",
+                "motivo consulta": "Intento de suicidio",
+                "desencadenante": "Fallecimiento de su c\u00f3nyuge",
+                "observaciones": "El paciente est\u00e1 decaido y presenta un muy bajo estado de \u00e1nimo",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Protriptilina",
+                "frecuencia tratamiento": "1 veces al d\u00eda durante 12 meses"
+            },
+            {
+                "_id": "g1_id_form_012",
+                "paciente": "g1_id_paciente_004",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "01/02/2012",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "El paciente ha superado la enfermedad",
+                "tratamiento": "Se recomienda ir al psicologo para evitar una recaida",
+                "frecuencia tratamiento": "1 vez a la semana"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_005",
+        "nombre": "Silvia",
+        "apellidos": "Rom\u00e1n Huerta",
+        "dni": "65448452F",
+        "fecha_de_nacimiento": "08/02/2000",
+        "sexo": "Mujer",
+        "email": "silvia_roman00@gmail.com",
+        "telefono": "698554782",
+        "direccion": "c/Pintor Molina 12, \u00c1tico B",
+        "codigo postal": "29010",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "silvia_roman.png",
+        "patologia actual": "Trastorno obsesivo-compulsivo (TOC)",
+        "fecha inicio": "22/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_014"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Fluvoxamine"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_014",
+                "paciente": "g1_id_paciente_005",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "22/10/2020",
+                "motivo consulta": "Ataque de nervios",
+                "desencadenante": "La paciente ha llegado a su casa y estaba todo desordenado",
+                "observaciones": "El paciente muestra movimientos c\u00edclicos y reiterados y obsesi\u00f3n con el orden y la limpieza",
+                "diagnostico": "Trastorno obsesivo-compulsivo (TOC)",
+                "tratamiento": "Se recomienda tomar Fluvoxamine",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 3 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_006",
+        "nombre": "Lucas",
+        "apellidos": "Pirlo Molina",
+        "dni": "32525114S",
+        "fecha_de_nacimiento": "09/04/1993",
+        "sexo": "Hombre",
+        "email": "pirlo_lucas93@gmail.com",
+        "telefono": "652748411",
+        "direccion": "c/Jos\u00e9 Estrada 2",
+        "codigo postal": "29008",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "lucas_pirlo.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno de ansiedad",
+                "fecha inicio": "24/03/2014",
+                "fecha final": "01/11/2014",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_015"
+                    },
+                    {
+                        "formulario": "g1_id_form_016"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Escitalopram"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "S\u00edndrome de Di\u00f3genes",
+        "fecha inicio": "31/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_017"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Citalopram"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_017",
+                "paciente": "g1_id_paciente_006",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "31/10/2020",
+                "motivo consulta": "Colecci\u00f3n de basura encontrada en casa del paciente",
+                "observaciones": "El paciente vive en una reclusi\u00f3n y aislamiento social autoimpuesto y presenta un abandono de la higiene personal",
+                "diagnostico": "S\u00edndrome de Di\u00f3genes",
+                "tratamiento": "Se recomienda tomar Citalopram",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 1 mes"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_015",
+                "paciente": "g1_id_paciente_006",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "24/03/2014",
+                "motivo consulta": "Ataque de ansiedad",
+                "desencadenante": "El paciente ha sido despedido de su trabajo",
+                "observaciones": "El paciente presenta un ritmo card\u00edaco alto, sudores y dificultad para respirar",
+                "diagnostico": "Trastorno de la Ansiedad",
+                "tratamiento": "Se recomienda tomar Escitalopram para bajar la frecuencia card\u00edaca",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 8 meses"
+            },
+            {
+                "_id": "g1_id_form_016",
+                "paciente": "g1_id_paciente_006",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "01/11/2014",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "El paciente se ha recuperado"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_007",
+        "nombre": "Jos\u00e9 Ram\u00f3n",
+        "apellidos": "L\u00f3pez Galiana",
+        "dni": "85445577G",
+        "fecha_de_nacimiento": "02/03/1984",
+        "sexo": "Hombre",
+        "email": "jramon_lg84@gmail.com",
+        "telefono": "652112332",
+        "direccion": "c/Emiliano 14, Portal 3, 3\u00baA",
+        "codigo postal": "29010",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "jose_ramon.png",
+        "patologia actual": "Esquizofrenia",
+        "fecha inicio": "07/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_018"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Aripiprazol"
+            },
+            {
+                "medicamento": "Clozapina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_018",
+                "paciente": "g1_id_paciente_007",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "07/11/2020",
+                "motivo consulta": "Alucinaciones",
+                "desencadenante": "Drogadicci\u00f3n",
+                "observaciones": "El paciente presenta habla desorganizada, fantas\u00edas, dificultad de atenci\u00f3n y falta de memoria",
+                "diagnostico": "Esquizofrenia",
+                "tratamiento": "Se recomienda tomar Aripiprazol y Clozapina",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_008",
+        "nombre": "Margarita",
+        "apellidos": "Cintrano Ranea",
+        "dni": "78451129D",
+        "fecha_de_nacimiento": "01/09/1994",
+        "sexo": "Mujer",
+        "email": "margarita_cr94@gmail.com",
+        "telefono": "698554771",
+        "direccion": "c/Ruise\u00f1or 25",
+        "codigo postal": "29012",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "margarita_cintrano.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno de ansiedad social",
+                "fecha inicio": "03/01/2018",
+                "fecha final": "24/06/2018",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_019"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno del Espectro Autista",
+        "fecha inicio": "08/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_020"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Risperidona"
+            },
+            {
+                "medicamento": "Aripiprazol"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_020",
+                "paciente": "g1_id_paciente_008",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "08/11/2020",
+                "motivo consulta": "Desaparici\u00f3n repentina",
+                "desencadenante": "La paciente se sinti\u00f3 acorralado",
+                "observaciones": "La paciente presenta movimientos estereotipados, anomal\u00edas en la expresi\u00f3n no verbal y anomal\u00edas comunicativas",
+                "diagnostico": "Trastorno del Espectro Autista",
+                "tratamiento": "Se recomienda tomar Risperidona y Aripiprazol",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 1 mes"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_019",
+                "paciente": "g1_id_paciente_008",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "03/01/2018",
+                "motivo consulta": "Ataque de ansiedad",
+                "desencadenante": "El paciente acaba de ingresar en la Universidad",
+                "observaciones": "El paciente presenta temblores, sudoraci\u00f3n y sentimiento de mente en blanco",
+                "diagnostico": "Trastorno de Ansiedad Social",
+                "tratamiento": "Se recomienda tomar Sertralina como ansiol\u00edtico",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_009",
+        "nombre": "Melania",
+        "apellidos": "Castillo del R\u00edo",
+        "dni": "54548124K",
+        "fecha_de_nacimiento": "12/11/1986",
+        "sexo": "Mujer",
+        "email": "melaniacastillo86@gmail.com",
+        "telefono": "632255891",
+        "direccion": "c/Pereira 3, 6\u00baA",
+        "codigo postal": "29015",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "melania_castillo.png",
+        "patologia actual": "D\u00e9ficit de Atenci\u00f3n e Hiperactividad",
+        "fecha inicio": "11/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_021"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Methylphenidate "
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_021",
+                "paciente": "g1_id_paciente_009",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "11/11/2020",
+                "motivo consulta": "Dificultad al concentrarse",
+                "desencadenante": "Despido en su trabajo",
+                "observaciones": "La paciente presenta impulsividad, desorganizaci\u00f3n, escasa planificaci\u00f3n y problemas al realizar m\u00faltiples tareas a la vez",
+                "diagnostico": "D\u00e9ficit de Atenci\u00f3n e Hiperactividad",
+                "tratamiento": "Se recomienda tomar Methylphenidate para la estimulaci\u00f3n",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 2 meses"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_010",
+        "nombre": "Pilar",
+        "apellidos": "Rueda \u00c1lvarez",
+        "dni": "787445932J",
+        "fecha_de_nacimiento": "18/03/1981",
+        "sexo": "Mujer",
+        "email": "pilarrueda81@gmail.com",
+        "telefono": "654228955",
+        "direccion": "c/Leon 15, 2\u00baA",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "pilar_rueda.png",
+        "patologia actual": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+        "fecha inicio": "10/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_001",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_022"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_022",
+                "paciente": "g1_id_paciente_010",
+                "psiquiatra": "g1_id_psiquiatra_001",
+                "fecha consulta": "10/11/2020",
+                "motivo consulta": "Constante sensaci\u00f3n de miedo",
+                "desencadenante": "Secuestro",
+                "observaciones": "El paciente presenta flashbacks de cuando le secuestraron, pesadillas y alucianciones",
+                "diagnostico": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                "tratamiento": "Se recomienda tomar Sertralina para la estimulaci\u00f3n",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_011",
+        "nombre": "David",
+        "apellidos": "Lasa Ordo\u00f1ez",
+        "dni": "23567210K",
+        "fecha_de_nacimiento": "18/01/1996",
+        "sexo": "Hombre",
+        "email": "davidlasa96@gmail.com",
+        "telefono": "662537784",
+        "direccion": "c/aceras 2, 4\u00baB",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "david_lasa.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno alimenticio",
+                "fecha inicio": "10/03/2016",
+                "fecha final": "17/08/2016",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_023"
+                    },
+                    {
+                        "formulario": "g1_id_form_024"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno de ansiedad",
+        "fecha inicio": "11/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_002",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_025"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Lexatin"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_025",
+                "paciente": "g1_id_paciente_011",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "11/09/2020",
+                "motivo consulta": "Ataque de ansiedad",
+                "desencadenante": "Discusi\u00f3n en el trabajo",
+                "observaciones": "El paciente presenta un ritmo card\u00edaco alto, sudores y dificultad para respirar",
+                "diagnostico": "Trastorno de ansiedad",
+                "tratamiento": "Se recomienda tomar Lexatin",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 3 semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_023",
+                "paciente": "g1_id_paciente_011",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "22/04/2016",
+                "motivo consulta": "Preocupante p\u00e9rdida de peso",
+                "desencadenante": "Padecimiento de desmayos con alta frecuencia",
+                "observaciones": "El paciente presenta palidez, falta de energ\u00eda y delgadez extrema",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar ciproheptadina para estimular el apetito",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            },
+            {
+                "_id": "g1_id_form_024",
+                "paciente": "g1_id_paciente_011",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "13/05/2016",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "El paciente presenta un claro aumento de peso y gran mejor\u00eda psicol\u00f3gica",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar ciproheptadina para estimular el apetito",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 2 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_012",
+        "nombre": "Carmen",
+        "apellidos": "Castro Romero",
+        "dni": "23446631C",
+        "fecha_de_nacimiento": "27/08/1980",
+        "sexo": "Mujer",
+        "email": "carmencastro80@gmail.com",
+        "telefono": "623445237",
+        "direccion": "c/romeros 7, 3\u00baB",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "carmen_castro.png",
+        "patologias previas": [
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "12/10/2009",
+                "fecha final": "03/02/2010",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_026"
+                    },
+                    {
+                        "formulario": "g1_id_form_027"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    },
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "14/07/2012",
+                "fecha final": "15/01/2013",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_028"
+                    },
+                    {
+                        "formulario": "g1_id_form_029"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    },
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno de ansiedad",
+        "fecha inicio": "07/08/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_002",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_030"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Lexatin"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_030",
+                "paciente": "g1_id_paciente_012",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "09/08/2020",
+                "motivo consulta": "Ataque de ansiedad",
+                "desencadenante": "Incidente en el trabajo",
+                "observaciones": "La paciente ha sufrido un episodio de p\u00e1nico durante la terapia",
+                "diagnostico": "Trastorno de ansiedad",
+                "tratamiento": "Se recomienda tomar Lexatin",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_026",
+                "paciente": "g1_id_paciente_012",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "14/10/2009",
+                "motivo consulta": "Despresi\u00f3n",
+                "desencadenante": "Malestar personal",
+                "observaciones": "La paciente presenta falta de autoestima",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 semanas"
+            },
+            {
+                "_id": "g1_id_form_027",
+                "paciente": "g1_id_paciente_012",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "30/10/2009",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "La paciente contin\u00faa igual de depresiva y no presenta mejor\u00eda",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Lexatin",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 2 semanas"
+            },
+            {
+                "_id": "g1_id_form_028",
+                "paciente": "g1_id_paciente_012",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "14/07/2012",
+                "motivo consulta": "Tristeza recurrente",
+                "desencadenante": "Experiencia personal traum\u00e1tica",
+                "observaciones": "La paciente presenta distanciamiento social y falta de autoestima",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 semanas"
+            },
+            {
+                "_id": "g1_id_form_029",
+                "paciente": "g1_id_paciente_012",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "05/09/2012",
+                "motivo consulta": "Ataque de ansiedad",
+                "desencadenante": "Incidente dom\u00e9stico",
+                "observaciones": "La paciente est\u00e1 decaida y se culpabiliza de todo",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Lexatin",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_013",
+        "nombre": "Eduardo",
+        "apellidos": "Valderrama Ortiz",
+        "dni": "23767219K",
+        "fecha_de_nacimiento": "22/12/1997",
+        "sexo": "Hombre",
+        "email": "eduardovalderrama97@gmail.com",
+        "telefono": "662523781",
+        "direccion": "c/palmeros 5, 6\u00baA",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "eduardo_valderrama.png",
+        "patologias previas": [
+            {
+                "patologia": "Deficit de atenci\u00f3n",
+                "fecha inicio": "15/12/2008",
+                "fecha final": "01/04/2009",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_031"
+                    },
+                    {
+                        "formulario": "g1_id_form_032"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ritalina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno alimenticio",
+        "fecha inicio": "14/07/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_002",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_033"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Ciproheptadina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_033",
+                "paciente": "g1_id_paciente_013",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "16/07/2020",
+                "motivo consulta": "Preocupante p\u00e9rdida de peso",
+                "desencadenante": "Padecimiento de desmayos con alta frecuencia",
+                "observaciones": "El paciente presenta palidez, falta de energ\u00eda y delgadez extrema",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar Ciproheptadina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_031",
+                "paciente": "g1_id_paciente_013",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "11/01/2009",
+                "motivo consulta": "Dificultad para atender en clase",
+                "desencadenante": "Malas calificaciones en la Universidad",
+                "observaciones": "El paciente presenta falta de atenci\u00f3n y falta de capacidad de concentraci\u00f3n",
+                "diagnostico": "Deficit de atenci\u00f3n",
+                "tratamiento": "Se recomienda tomar Ritalina",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_032",
+                "paciente": "g1_id_paciente_013",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "01/04/2009",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "El paciente se ha recuperado"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_014",
+        "nombre": "Clara",
+        "apellidos": "Labrador Vera",
+        "dni": "23763319X",
+        "fecha_de_nacimiento": "19/09/2000",
+        "sexo": "Mujer",
+        "email": "claralabrador00@gmail.com",
+        "telefono": "624567731",
+        "direccion": "c/aragoneses 2, 1\u00baA",
+        "codigo postal": "29004",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "clara_labrador.png",
+        "patologia actual": "Depresi\u00f3n",
+        "fecha inicio": "11/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_002",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_034"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_034",
+                "paciente": "g1_id_paciente_014",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "15/09/2020",
+                "motivo consulta": "Sensaci\u00f3n de abandono",
+                "desencadenante": "Distanciamiento de su pareja sentimental",
+                "observaciones": "La paciente presenta falta de autoestima y tristeza continua",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 1 mes"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_015",
+        "nombre": "Jimena",
+        "apellidos": "Benitez Castro",
+        "dni": "23717219K",
+        "fecha_de_nacimiento": "12/11/1986",
+        "sexo": "Mujer",
+        "email": "jimenabenitez86@gmail.com",
+        "telefono": "672523721",
+        "direccion": "c/cabrero 1, 4\u00baA",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "jimena_benitez.png",
+        "patologias previas": [
+            {
+                "patologia": "Hiperactividad",
+                "fecha inicio": "15/08/1996",
+                "fecha final": "19/01/1998",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_035"
+                    },
+                    {
+                        "formulario": "g1_id_form_036"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ritalina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Alcoholemia",
+        "fecha inicio": "08/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_002",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_037"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_037",
+                "paciente": "g1_id_paciente_015",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "08/09/2020",
+                "motivo consulta": "Abuso de sustancias alcoh\u00f3licas",
+                "desencadenante": "Despido laboral",
+                "observaciones": "La paciente presenta un cuadro de ansiedad y insomnio",
+                "diagnostico": "Alcoholemia",
+                "tratamiento": "Se recomienda acudir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_035",
+                "paciente": "g1_id_paciente_015",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "15/08/1996",
+                "motivo consulta": "Bajo rendimiento en el colegio",
+                "observaciones": "La paciente presenta falta de antenci\u00f3n y continua inquietud",
+                "diagnostico": "Hiperactividad",
+                "tratamiento": "Se recomienda tomar Ritalina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 meses"
+            },
+            {
+                "_id": "g1_id_form_036",
+                "paciente": "g1_id_paciente_015",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "09/12/1997",
+                "motivo consulta": "Revision",
+                "observaciones": "La paciente ha respondido bien al tratamiento, pero a\u00fan necesita asistencia",
+                "diagnostico": "Hiperactividad",
+                "tratamiento": "Se recomienda tomar Ritalina",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 1 mes"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_016",
+        "nombre": "Adri\u00e1n",
+        "apellidos": "Pacheco Segura",
+        "dni": "23223319J",
+        "fecha_de_nacimiento": "03/12/2000",
+        "sexo": "Hombre",
+        "email": "adrianpacheco00@gmail.com",
+        "telefono": "634167739",
+        "direccion": "c/hernandez 2, 1\u00baA",
+        "codigo postal": "29006",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "adrian_pacheco.png",
+        "patologia actual": "Drogadicci\u00f3n",
+        "fecha inicio": "13/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_002",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_038"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_038",
+                "paciente": "g1_id_paciente_016",
+                "psiquiatra": "g1_id_psiquiatra_002",
+                "fecha consulta": "13/11/2020",
+                "motivo consulta": "Abuso de sustancias cannabicas",
+                "desencadenante": "Nuevo c\u00edrculo de amistades",
+                "observaciones": "El paciente presenta una leve falta de atenci\u00f3n y irritaci\u00f3n ocular",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda acudir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_017",
+        "nombre": "Gabriela",
+        "apellidos": "Salado San Mill\u00e1n",
+        "dni": "23788219K",
+        "fecha_de_nacimiento": "21/07/1999",
+        "sexo": "Mujer",
+        "email": "gabrielasalado99@gmail.com",
+        "telefono": "674553729",
+        "direccion": "c/capitanes 4, 2\u00baA",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "gabriela_salado.png",
+        "patologias previas": [
+            {
+                "patologia": "Ninfoman\u00eda",
+                "fecha inicio": "12/03/2020",
+                "fecha final": "14/07/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_039"
+                    },
+                    {
+                        "formulario": "g1_id_form_040"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Naltrexona"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Trastorno alimenticio",
+        "fecha inicio": "15/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_003",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_041"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_041",
+                "paciente": "g1_id_paciente_017",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "17/10/2020",
+                "motivo consulta": "Preocupante p\u00e9rdida de peso",
+                "desencadenante": "Padecimiento de desmayos con alta frecuencia",
+                "observaciones": "La paciente presenta palidez, falta de energ\u00eda y delgadez extrema",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda ir a terapia",
+                "frecuencia tratamiento": "2 veces a la semana durante 3 semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_039",
+                "paciente": "g1_id_paciente_017",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "12/03/2020",
+                "motivo consulta": "Insatisfacci\u00f3n sexsual",
+                "desencadenante": "M\u00faltiples relaciones en un corto periodo de tiempo",
+                "observaciones": "La paciente presenta obsesi\u00f3n sexual y aumento desmedido del deseo sexual",
+                "diagnostico": "Ninfoman\u00eda",
+                "tratamiento": "Se recomienda tomar Naltrexona",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_040",
+                "paciente": "g1_id_paciente_017",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "18/05/2020",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "La paciente responde bien al tratamiento pero a\u00fan as\u00ed deber\u00e1 seguir tom\u00e1ndolo",
+                "diagnostico": "Ninfoman\u00eda",
+                "tratamiento": "Se recomienda tomar Naltrexona",
+                "frecuencia tratamiento": "1 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_018",
+        "nombre": "Irene",
+        "apellidos": "Carrasco Gallego",
+        "dni": "04067923C",
+        "fecha_de_nacimiento": "01/12/1990",
+        "sexo": "Mujer",
+        "email": "irenecarrasco90@gmail.com",
+        "telefono": "663640389",
+        "direccion": "c/lipezcua 6, 5\u00baE",
+        "codigo postal": "29006",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "irene_carracsco.png",
+        "patologias previas": [
+            {
+                "patologia": "S\u00edndrome de Asperger",
+                "fecha inicio": "13/10/2002",
+                "fecha final": "28/02/2003",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_042"
+                    },
+                    {
+                        "formulario": "g1_id_form_043"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Risperidal"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_042",
+                "paciente": "g1_id_paciente_018",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "13/10/2002",
+                "motivo consulta": "Comportamiento inusual",
+                "desencadenante": "Enfrentamiento en el instituto",
+                "observaciones": "La paciente presenta dificultades para conprender el lenguaje corporal, as\u00ed como problemas para comprender los sentimientos de otras personas y para expresar sus propios sentimientos",
+                "diagnostico": "S\u00edndrome de Asperger",
+                "tratamiento": "Se recomienda tomar Risperidal",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_043",
+                "paciente": "g1_id_paciente_018",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "28/02/2003",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "La paciente presenta claros signos de mejor\u00eda y pude dejar la medicaci\u00f3n",
+                "diagnostico": "S\u00edndrome de Asperger"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_019",
+        "nombre": "Marta",
+        "apellidos": "Cantos Mart\u00edn",
+        "dni": "16773490C",
+        "fecha_de_nacimiento": "23/08/1995",
+        "sexo": "Mujer",
+        "email": "martacantos95@gmail.com",
+        "telefono": "634528965",
+        "direccion": "c/edison 3, 1\u00baA",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "marta_cantos.png",
+        "patologias previas": [
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "15/09/2016",
+                "fecha final": "03/01/2017",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_044"
+                    },
+                    {
+                        "formulario": "g1_id_form_045"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Ansiedad",
+        "fecha inicio": "10/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_003",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_046"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Lexatin"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_046",
+                "paciente": "g1_id_paciente_019",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "10/10/2020",
+                "motivo consulta": "Exceso de estr\u00e9s",
+                "desencadenante": "Malas calificaciones",
+                "observaciones": "La paciente presenta sensaci\u00f3n de p\u00e1nico al creer que no va a tener un buen futuro laboral",
+                "diagnostico": "Ansiedad",
+                "tratamiento": "Se recomienda tomar Lexatin para la relajaci\u00f3n",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_044",
+                "paciente": "g1_id_paciente_019",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "15/09/2016",
+                "motivo consulta": "Decaida emocional",
+                "desencadenante": "Fallecimiento de la madre",
+                "observaciones": "La paciente est\u00e1 decaida y presenta un muy bajo estado de \u00e1nimo",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina para mejorar la estabilidad emocional",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_045",
+                "paciente": "g1_id_paciente_019",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "20/09/2016",
+                "motivo consulta": "Intento de suicidio",
+                "desencadenante": "Funeral de la madre",
+                "observaciones": "La paciente presenta pensamientos suicidas y poca estabilidad mental",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina en dosis m\u00e1s altas",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 2 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_020",
+        "nombre": "Miguel",
+        "apellidos": "Rodriguez Galvez",
+        "dni": "29764719X",
+        "fecha_de_nacimiento": "18/04/2001",
+        "sexo": "Hombre",
+        "email": "miguelrodriguez01@gmail.com",
+        "telefono": "624542731",
+        "direccion": "c/galvez 15, 2\u00baB",
+        "codigo postal": "29007",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "miguel_rodriguez.png",
+        "patologia actual": "Drogadicci\u00f3n",
+        "fecha inicio": "17/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_003",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_047"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_047",
+                "paciente": "g1_id_paciente_020",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "17/11/2020",
+                "motivo consulta": "Reciente sobredosis",
+                "desencadenante": "Abandono de los estudios",
+                "observaciones": "El paciente presenta claros s\u00edntomas de estar bajo los efectos de las drogas, probablemente coca\u00edna",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda asistir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_021",
+        "nombre": "\u00c1lvaro",
+        "apellidos": "Torres S\u00e1nchez",
+        "dni": "23499671C",
+        "fecha_de_nacimiento": "19/05/1987",
+        "sexo": "Hombre",
+        "email": "alvarotorres87@gmail.com",
+        "telefono": "663456621",
+        "direccion": "c/palomas 2, 3\u00baB",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "alvaro_torres.png",
+        "patologias previas": [
+            {
+                "patologia": "Alcoholismo",
+                "fecha inicio": "11/11/2010",
+                "fecha final": "02/03/2011",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_048"
+                    },
+                    {
+                        "formulario": "g1_id_form_049"
+                    }
+                ]
+            },
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "13/02/2017",
+                "fecha final": "15/08/2017",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_050"
+                    },
+                    {
+                        "formulario": "g1_id_form_051"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    },
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_048",
+                "paciente": "g1_id_paciente_021",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "11/11/2010",
+                "motivo consulta": "Reciente coma et\u00edlico",
+                "desencadenante": "Despido laboral",
+                "observaciones": "El paciente presenta claros s\u00edntomas de estar bajo los efectos del alcohol",
+                "diagnostico": "Alcoholismo",
+                "tratamiento": "Se recomienda asistir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            },
+            {
+                "_id": "g1_id_form_049",
+                "paciente": "g1_id_paciente_021",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "13/12/2010",
+                "motivo consulta": "Revisi\u00f3n tras un mes de terapia",
+                "observaciones": "El paciente ha respondido bien a la terapia",
+                "diagnostico": "Alcoholismo",
+                "tratamiento": "Se recomienda seguir asistiendo a la terapia grupal",
+                "frecuencia tratamiento": "1 veces a la semana durante 3 meses"
+            },
+            {
+                "_id": "g1_id_form_050",
+                "paciente": "g1_id_paciente_021",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "14/02/2017",
+                "motivo consulta": "Continuo estado de tristeza",
+                "desencadenante": "Fallecimiento de su perro",
+                "observaciones": "El paciente presenta insomnio y sentimientos de inutilidad",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina para el aumento de la producci\u00f3n de serotonina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 meses"
+            },
+            {
+                "_id": "g1_id_form_051",
+                "paciente": "g1_id_paciente_021",
+                "psiquiatra": "g1_id_psiquiatra_003",
+                "fecha consulta": "22/04/2017",
+                "motivo consulta": "Revisi\u00f3n post-tratamiento",
+                "observaciones": "El paciente ha respondido bien al tratamiento, pero a\u00fan sigue un poco depresivo",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Lexat\u00edn",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 1 mes"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_022",
+        "nombre": "Inmaculada",
+        "apellidos": "Reyes S\u00e1nchez",
+        "dni": "16213490C",
+        "fecha_de_nacimiento": "15/02/1999",
+        "sexo": "Mujer",
+        "email": "inmareyes99@gmail.com",
+        "telefono": "634528215",
+        "direccion": "c/genezaret 3, 1\u00baA",
+        "codigo postal": "29006",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "inmaculada_reyes.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno alimenticio",
+                "fecha inicio": "17/08/2019",
+                "fecha final": "23/12/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_004",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_052"
+                    },
+                    {
+                        "formulario": "g1_id_form_053"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_052",
+                "paciente": "g1_id_paciente_022",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "17/08/2019",
+                "motivo consulta": "Aumento de peso en los \u00faltimos meses",
+                "desencadenante": "Ruptura sentimental",
+                "observaciones": "La paciente presenta mareos y desmayos cont\u00ednuos por inanici\u00f3n, debido a que no se encuentra c\u00f3moda con su cuerpo",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar Ciproheptadina para el aumento de apetito",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_053",
+                "paciente": "g1_id_paciente_022",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "27/09/2019",
+                "motivo consulta": "Extrema delgadez",
+                "desencadenante": "Insatisfacci\u00f3n f\u00edsica",
+                "observaciones": "La paciente presenta un temor intenso al sobrepeso",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar Ciproheptadina en mayores dosis",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_023",
+        "nombre": "Paula",
+        "apellidos": "Pesta\u00f1a Cochar",
+        "dni": "34214469J",
+        "fecha_de_nacimiento": "17/09/1999",
+        "sexo": "Mujer",
+        "email": "paulapesti99@gmail.com",
+        "telefono": "633128221",
+        "direccion": "c/aceras 2, 1\u00baB",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "paula_pesta\u00f1a.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno bipolar",
+                "fecha inicio": "02/12/2018",
+                "fecha final": "14/04/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_004",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_054"
+                    },
+                    {
+                        "formulario": "g1_id_form_055"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Olanzapina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_054",
+                "paciente": "g1_id_paciente_023",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "09/01/2019",
+                "motivo consulta": "Continuos enfrentamientos dom\u00e9sticos",
+                "observaciones": "La paciente presenta irritabilidad excesiva, comportamiento agresivo e impaciencia",
+                "diagnostico": "Trastorno bipolar",
+                "tratamiento": "Se recomienda tomar Olanzapina para la estabilidad mental",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_055",
+                "paciente": "g1_id_paciente_023",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "19/02/2019",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "La paciente presenta una lenta recuperaci\u00f3n",
+                "diagnostico": "Trastorno bipolar",
+                "tratamiento": "Se recomienda tomar Olanzapina para la estabilidad mental",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 1 mes"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_024",
+        "nombre": "Raquel",
+        "apellidos": "Sutton Rivera",
+        "dni": "12632189R",
+        "fecha_de_nacimiento": "07/11/1997",
+        "sexo": "Mujer",
+        "email": "raquelsutton97@gmail.com",
+        "telefono": "619565731",
+        "direccion": "c/riverano 19, 2\u00baE",
+        "codigo postal": "29001",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "raquel_sutton.png",
+        "patologia actual": "Depresi\u00f3n",
+        "fecha inicio": "12/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_004",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_056"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_056",
+                "paciente": "g1_id_paciente_024",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "12/09/2020",
+                "motivo consulta": "Depresi\u00f3n",
+                "desencadenante": "Accidente de tr\u00e1fico",
+                "observaciones": "La paciente tuvo un accidente reciente que la dej\u00f3 paralitica y no quiere salir de su domicilio",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_025",
+        "nombre": "Paloma",
+        "apellidos": "Trinidad Conejo",
+        "dni": "34714412J",
+        "fecha_de_nacimiento": "13/11/1996",
+        "sexo": "Mujer",
+        "email": "palomatrinidad96@gmail.com",
+        "telefono": "621321780",
+        "direccion": "c/trinidad 2, 1\u00baB",
+        "codigo postal": "29004",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "paloma_trinidad.png",
+        "patologias previas": [
+            {
+                "patologia": "Psicosis",
+                "fecha inicio": "05/08/2016",
+                "fecha final": "22/01/2017",
+                "psiquiatra asignado": "g1_id_psiquiatra_004",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_057"
+                    },
+                    {
+                        "formulario": "g1_id_form_058"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Aripiprazol"
+                    },
+                    {
+                        "medicamento": "Asenapina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_057",
+                "paciente": "g1_id_paciente_025",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "07/08/2016",
+                "motivo consulta": "Alucinaciones",
+                "desencadenante": "Altibajos sentimentales",
+                "observaciones": "La paciente presenta pensamientos desordenados y delirios",
+                "diagnostico": "Psicosis",
+                "tratamiento": "Se recomienda tomar Aripiprazol",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 4 meses"
+            },
+            {
+                "_id": "g1_id_form_058",
+                "paciente": "g1_id_paciente_025",
+                "psiquiatra": "g1_id_psiquiatra_004",
+                "fecha consulta": "28/12/2016",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "La paciente no diferencia la realidad de su imaginaci\u00f3n",
+                "diagnostico": "Psicosis",
+                "tratamiento": "Se recomienda tomar Asenapina",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_026",
+        "nombre": "Fernando",
+        "apellidos": "S\u00e1nchez Rodriguez",
+        "dni": "19932189D",
+        "fecha_de_nacimiento": "27/03/2000",
+        "sexo": "Hombre",
+        "email": "fernandosanchez00@gmail.com",
+        "telefono": "622564731",
+        "direccion": "c/ristori 12, 4\u00baE",
+        "codigo postal": "29001",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "fernando_sanchez.png",
+        "patologia actual": "Drogadicci\u00f3n",
+        "fecha inicio": "01/12/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_005",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_059"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_059",
+                "paciente": "g1_id_paciente_026",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "02/12/2020",
+                "motivo consulta": "Sus padres lo vieron fumando hach\u00eds",
+                "desencadenante": "Asistencia a fiestas repetidas veces a la semana",
+                "observaciones": "El paciente presenta claros s\u00edntomas de estar bajo los efectos de las drogas y no presenta iniciativa para dejarlas",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda asistir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_027",
+        "nombre": "Alberto",
+        "apellidos": "\u00c1lvarez Mart\u00edn",
+        "dni": "16773430C",
+        "fecha_de_nacimiento": "11/06/1995",
+        "sexo": "Hombre",
+        "email": "albertoalvarez95@gmail.com",
+        "telefono": "634548965",
+        "direccion": "c/martinez 3, 1\u00baA",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "alberto_alvarez.png",
+        "patologias previas": [
+            {
+                "patologia": "Depresi\u00f3n",
+                "fecha inicio": "18/08/2018",
+                "fecha final": "02/01/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_005",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_060"
+                    },
+                    {
+                        "formulario": "g1_id_form_061"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            }
+        ],
+        "patologia actual": "Ansiedad",
+        "fecha inicio": "03/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_005",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_062"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Lexatin"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_062",
+                "paciente": "g1_id_paciente_027",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "03/10/2020",
+                "motivo consulta": "Agobio acad\u00e9mico",
+                "desencadenante": "Semana de ex\u00e1menes en la Universidad",
+                "observaciones": "El paciente se encuentra muy agobiado con las calificaciones de la Universidad y es muy autoexigente. Se bloquea cuando estudia a causa del agobio",
+                "diagnostico": "Ansiedad",
+                "tratamiento": "Se recomienda tomar Lexatin",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 1 mes"
+            }
+        ],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_060",
+                "paciente": "g1_id_paciente_027",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "18/08/2018",
+                "motivo consulta": "Depresi\u00f3n",
+                "desencadenante": "Mala situaci\u00f3n personal",
+                "observaciones": "El paciente ha empeorado su relaci\u00f3n con amigos y familiares. Se detecta un posible inicio de aislamiento social",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina en peque\u00f1as dosis",
+                "frecuencia tratamiento": "1 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_061",
+                "paciente": "g1_id_paciente_027",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "13/09/2018",
+                "motivo consulta": "Seguimiento",
+                "observaciones": "El paciente no presenta mejor\u00eda tras el tratamiento, sigue con depresi\u00f3n",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina en altas dosis",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_028",
+        "nombre": "Carlos",
+        "apellidos": "Puga Conejo",
+        "dni": "34716412J",
+        "fecha_de_nacimiento": "12/07/2000",
+        "sexo": "Hombre",
+        "email": "carlospuga00@gmail.com",
+        "telefono": "621322680",
+        "direccion": "c/puganos 2, 1\u00baB",
+        "codigo postal": "29001",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "carlos_puga.png",
+        "patologias previas": [
+            {
+                "patologia": "Retraso mental severo",
+                "fecha inicio": "17/05/2017",
+                "fecha final": "20/12/2017",
+                "psiquiatra asignado": "g1_id_psiquiatra_005",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_063"
+                    },
+                    {
+                        "formulario": "g1_id_form_064"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_063",
+                "paciente": "g1_id_paciente_028",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "17/05/2017",
+                "motivo consulta": "Comportamiento infantil",
+                "observaciones": "El paciente presenta falta de desarrollo de habilidades motoras, insuficiencia para crecer intelectualmente y retraso en las destrezas del lenguaje",
+                "diagnostico": "Retraso mental severo",
+                "tratamiento": "Se recomienda ir a terapia ocupacional",
+                "frecuencia tratamiento": "3 veces a la semana durante 1 mes"
+            },
+            {
+                "_id": "g1_id_form_064",
+                "paciente": "g1_id_paciente_028",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "18/08/2017",
+                "motivo consulta": "Supervisi\u00f3n de la terapia ocupacional recomendada",
+                "observaciones": "El paciente presenta una ligera mejor\u00eda respecto al desarrollo de sus habilidades motoras, pero no responde bien debido a que piensa que debe mejorar su inteligencia con el tratamiento",
+                "diagnostico": "Retraso mental severo",
+                "tratamiento": "Se recomienda ir a terapia ocupacional",
+                "frecuencia tratamiento": "3 veces a la semana durante 4 meses"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_029",
+        "nombre": "Martina",
+        "apellidos": "S\u00e1nchez Rodriguez",
+        "dni": "11932989D",
+        "fecha_de_nacimiento": "10/09/1965",
+        "sexo": "Mujer",
+        "email": "martinasanchez65@gmail.com",
+        "telefono": "622564831",
+        "direccion": "c/\u00e1rboles 6, 4\u00baE",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "martina_sanchez.png",
+        "patologia actual": "Demencia",
+        "fecha inicio": "10/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_005",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_065"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Donepezilo"
+            },
+            {
+                "medicamento": "Memantina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_065",
+                "paciente": "g1_id_paciente_029",
+                "psiquiatra": "g1_id_psiquiatra_005",
+                "fecha consulta": "10/11/2020",
+                "motivo consulta": "Crisis existencial",
+                "desencadenante": "No ha acudido al trabajo en 1 semana",
+                "observaciones": "La paciente presenta peque\u00f1as p\u00e9rdidas de memoria, as\u00ed como dificultad para razonar y para comunicarse",
+                "diagnostico": "Demencia",
+                "tratamiento": "Se recomienda tomar Donepezilo para las p\u00e9rdidas de memoria y Memantina para la estabilidad mental",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas (ambas), con una diferencia de 4 horas entre una y otra"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_030",
+        "nombre": "Pepe",
+        "apellidos": "Jimenez Ortiz",
+        "dni": "18394672U",
+        "fecha_de_nacimiento": "11/06/1985",
+        "sexo": "Hombre",
+        "email": "pepejimenez85@gmail.com",
+        "telefono": "629564831",
+        "direccion": "c/alameda 1, 4\u00baA",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "pepe_jimenez.png",
+        "patologia actual": "Alcoholismo",
+        "fecha inicio": "13/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_006",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_066"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_066",
+                "paciente": "g1_id_paciente_030",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "13/10/2020",
+                "motivo consulta": "Adicci\u00f3n al alcohol",
+                "desencadenante": "Fallecimiento reciente de un ser querido",
+                "observaciones": "El paciente presenta fuertes deseos de beber alcohol",
+                "diagnostico": "Alcoholismo",
+                "tratamiento": "Se recomienda acudir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_031",
+        "nombre": "Luc\u00eda",
+        "apellidos": "Sanchez Lasa",
+        "dni": "34716242J",
+        "fecha_de_nacimiento": "14/03/1999",
+        "sexo": "Mujer",
+        "email": "luciasanchez99@gmail.com",
+        "telefono": "621322670",
+        "direccion": "c/tulipanes 2, 1\u00baB",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "lucia_sanchez.png",
+        "patologias previas": [
+            {
+                "patologia": "Drogadicci\u00f3n",
+                "fecha inicio": "02/01/2019",
+                "fecha final": "20/08/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_006",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_067"
+                    },
+                    {
+                        "formulario": "g1_id_form_068"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_067",
+                "paciente": "g1_id_paciente_031",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "04/01/2019",
+                "motivo consulta": "Dependencia de MDMA",
+                "desencadenante": "Viaje Erasmus",
+                "observaciones": "La paciente presenta problemas de conducta y pupilas dilatadas",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda acudir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            },
+            {
+                "_id": "g1_id_form_068",
+                "paciente": "g1_id_paciente_031",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "04/03/2019",
+                "motivo consulta": "Seguimiento despues de 2 meses de terapia",
+                "observaciones": "La paciente presenta mejoras gracias a la terapia grupal, as\u00ed como sumo inter\u00e9s en dsintoxicarse.",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda acudir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_032",
+        "nombre": "Cristina",
+        "apellidos": "Chamizo Ortiz",
+        "dni": "02056800G",
+        "fecha_de_nacimiento": "27/04/1995",
+        "sexo": "Mujer",
+        "email": "cristinachamizo95@gmail.com",
+        "telefono": "621300670",
+        "direccion": "c/pistolas 2, 5\u00baC",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "cristina_chamizo.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno de la personalidad",
+                "fecha inicio": "13/05/2015",
+                "fecha final": "21/12/2015",
+                "psiquiatra asignado": "g1_id_psiquiatra_006",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_069"
+                    },
+                    {
+                        "formulario": "g1_id_form_070"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Amitriptilina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_069",
+                "paciente": "g1_id_paciente_032",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "15/05/2015",
+                "motivo consulta": "Comportamientos incoherentes",
+                "observaciones": "La paciente presenta conducta impulsiva, imagen personal inestable y cambios en el estado de \u00e1nimo",
+                "diagnostico": "Trastorno de la personalidad",
+                "tratamiento": "Se recomienda tomar Amitriptilina para estabilizarla",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 1 mes"
+            },
+            {
+                "_id": "g1_id_form_070",
+                "paciente": "g1_id_paciente_032",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "26/06/2015",
+                "motivo consulta": "Ataque de nervios",
+                "desencadenante": "Pensamiento de no mejor\u00eda",
+                "observaciones": "La paciente presenta desmotivaci\u00f3n y mal estar al creer que no va a mejorar",
+                "diagnostico": "Trastorno de la personalidad",
+                "tratamiento": "Se recomienda tomar Amitriptilina para estabilizarla",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_033",
+        "nombre": "Alejandro",
+        "apellidos": "Ortiz Ortega",
+        "dni": "23412893F",
+        "fecha_de_nacimiento": "17/08/1998",
+        "sexo": "Hombre",
+        "email": "alejandroortiz98@gmail.com",
+        "telefono": "620564131",
+        "direccion": "c/ortega 1, 2\u00baF",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "alejandro_ortiz.png",
+        "patologia actual": "Drogadicci\u00f3n",
+        "fecha inicio": "07/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_006",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_071"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_071",
+                "paciente": "g1_id_paciente_033",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "07/10/2020",
+                "motivo consulta": "Constante consumo de drogas",
+                "desencadenante": "Ruptura sentimental",
+                "observaciones": "El paciente presenta una fuerte dependencia de las drogas, sufriendo sudoraci\u00f3n y nerviosismo al llevar tiempo sin tomarlas",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda ir a terapia grupal",
+                "frecuencia tratamiento": "3 veces a la semana durante 6 mes"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_034",
+        "nombre": "Oswaldo",
+        "apellidos": "Otrelles Mart\u00edn",
+        "dni": "02056250G",
+        "fecha_de_nacimiento": "18/07/1960",
+        "sexo": "Hombre",
+        "email": "oswaldootrelles60@gmail.com",
+        "telefono": "621355670",
+        "direccion": "c/estufas 2, 1\u00baC",
+        "codigo postal": "29007",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "oswaldo_otrelles.png",
+        "patologias previas": [
+            {
+                "patologia": "Demencia",
+                "fecha inicio": "02/12/2016",
+                "fecha final": "03/01/2018",
+                "psiquiatra asignado": "g1_id_psiquiatra_006",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_072"
+                    },
+                    {
+                        "formulario": "g1_id_form_073"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Donepezilo"
+                    },
+                    {
+                        "medicamento": "Memantina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_072",
+                "paciente": "g1_id_paciente_034",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "02/12/2016",
+                "motivo consulta": "Se olvid\u00f3 de su lugar de trabajo",
+                "desencadenante": "Edad avanzada",
+                "observaciones": "El paciente presenta muestra p\u00e9rdidas de memoria, deficultad para comunicarse y dificultad para manejar tareas complejas",
+                "diagnostico": "Demencia",
+                "tratamiento": "Se recomienda tomar Donepezilo para combatir las p\u00e9rdidas de memoria",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            },
+            {
+                "_id": "g1_id_form_073",
+                "paciente": "g1_id_paciente_034",
+                "psiquiatra": "g1_id_psiquiatra_006",
+                "fecha consulta": "21/03/2017",
+                "motivo consulta": "Revisi\u00f3n",
+                "observaciones": "El paciente presenta un gran deterioro de su actividad cerebral, llegando a tener dificultad con las habilidades visuales",
+                "diagnostico": "Demencia",
+                "tratamiento": "Se recomienda tomar Donepezilo para combatir las p\u00e9rdidas de memoria y Memantina para la mejora de la funci\u00f3n cerebral",
+                "frecuencia tratamiento": "Donepezilo 2 veces al d\u00eda durante 3 semanas y Memantina 1 vez al d\u00eda durante 3 semanas, con una diferencia de 4 horas entre una y otra"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_035",
+        "nombre": "Ra\u00fal",
+        "apellidos": "Manzano Olivares",
+        "dni": "23410093F",
+        "fecha_de_nacimiento": "01/01/1997",
+        "sexo": "Hombre",
+        "email": "raulmanzano97@gmail.com",
+        "telefono": "626743980",
+        "direccion": "c/olivares 1, 5\u00baF",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "raul_manzano.png",
+        "patologia actual": "Alcoholismo",
+        "fecha inicio": "13/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_007",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_074"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_074",
+                "paciente": "g1_id_paciente_035",
+                "psiquiatra": "g1_id_psiquiatra_007",
+                "fecha consulta": "15/10/2020",
+                "motivo consulta": "Varios a\u00f1os de constante consumo de alcohol",
+                "desencadenante": "Vida laboral complicada",
+                "observaciones": "El paciente presenta incapacidad para limitar la cantidad de alcohol que consume, as\u00ed como comportamiento agresivo",
+                "diagnostico": "Alcoholismo",
+                "tratamiento": "Se recomienda asistir a terapia grupal",
+                "frecuencia tratamiento": "3 veces a la semana durante 5 meses"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_036",
+        "nombre": "Rosa",
+        "apellidos": "Cuevas Mart\u00edn",
+        "dni": "02032250G",
+        "fecha_de_nacimiento": "23/12/1990",
+        "sexo": "Mujer",
+        "email": "rosacuevas90@gmail.com",
+        "telefono": "624955670",
+        "direccion": "c/olivos 2, 5\u00baC",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "rosa_cuevas.png",
+        "patologias previas": [
+            {
+                "patologia": "Psicosis",
+                "fecha inicio": "23/10/2018",
+                "fecha final": "15/04/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_007",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_075"
+                    },
+                    {
+                        "formulario": "g1_id_form_076"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Aripiprazol"
+                    },
+                    {
+                        "medicamento": "Asenapina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_075",
+                "paciente": "g1_id_paciente_036",
+                "psiquiatra": "g1_id_psiquiatra_007",
+                "fecha consulta": "25/10/2018",
+                "motivo consulta": "Creencias falsas que no est\u00e1n basadas en la realidad",
+                "desencadenante": "Reciente maltrato psicol\u00f3gico conyugal",
+                "observaciones": "La paciente presenta pensamientos desordenados y delirios, as\u00ed como alucinaciones",
+                "diagnostico": "Psicosis",
+                "tratamiento": "Se recomienda tomar Aripiprazol y Asenapina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 meses (ambas), con una diferencia de 4 horas entre una y otra"
+            },
+            {
+                "_id": "g1_id_form_076",
+                "paciente": "g1_id_paciente_036",
+                "psiquiatra": "g1_id_psiquiatra_007",
+                "fecha consulta": "12/12/2018",
+                "motivo consulta": "Revisi\u00f3n tras 2 meses de medicaci\u00f3n",
+                "observaciones": "La paciente presenta una mejora progresiva. Responde bien al tratamiento",
+                "diagnostico": "Psicosis",
+                "tratamiento": "Se recomienda tomar Aripiprazol y Asenapina",
+                "frecuencia tratamiento": "1 vez al d\u00eda durante 3 semanas (ambas), con una diferencia de 4 horas entre una y otra"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_037",
+        "nombre": "Lola",
+        "apellidos": "Flores Maldonado",
+        "dni": "82535738D",
+        "fecha_de_nacimiento": "15/11/1986",
+        "sexo": "Mujer",
+        "email": "lolaflores86@gmail.com",
+        "telefono": "622055670",
+        "direccion": "c/flores 2, 1\u00baC",
+        "codigo postal": "29001",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "lola_flores.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno bipolar",
+                "fecha inicio": "14/08/2016",
+                "fecha final": "03/02/2017",
+                "psiquiatra asignado": "g1_id_psiquiatra_007",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_077"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Olanzapina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_077",
+                "paciente": "g1_id_paciente_037",
+                "psiquiatra": "g1_id_psiquiatra_007",
+                "fecha consulta": "16/08/2016",
+                "motivo consulta": "Cambios extremos de actitud",
+                "desencadenante": "Malestar dom\u00e9stico continuado",
+                "observaciones": "La paciente presenta irritabilidad excesiva, comportamiento agresivo e impaciencia",
+                "diagnostico": "Trastorno bipolar",
+                "tratamiento": "Se recomienda tomar Olanzapina para mejorar la estabilidad emocional",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_038",
+        "nombre": "Jorge",
+        "apellidos": "V\u00e1zquez Rivera",
+        "dni": "12632100V",
+        "fecha_de_nacimiento": "29/03/1980",
+        "sexo": "Hombre",
+        "email": "jorgevazquez80@gmail.com",
+        "telefono": "619507301",
+        "direccion": "c/riverano 2, 2\u00baA",
+        "codigo postal": "29001",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "jorge_vazquez.png",
+        "patologia actual": "Depresi\u00f3n",
+        "fecha inicio": "12/11/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_007",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_078"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_078",
+                "paciente": "g1_id_paciente_038",
+                "psiquiatra": "g1_id_psiquiatra_007",
+                "fecha consulta": "12/11/2020",
+                "motivo consulta": "Constante sentimiento de culpa inexplicable",
+                "observaciones": "El paciente asegura sentirse mal constantemente consigo mismo sin saber por qu\u00e9",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_039",
+        "nombre": "Rebeca",
+        "apellidos": "Ortiz Segura",
+        "dni": "82505748H",
+        "fecha_de_nacimiento": "19/08/1996",
+        "sexo": "Mujer",
+        "email": "rebecaortiz96@gmail.com",
+        "telefono": "602155690",
+        "direccion": "c/macetas 2, 1\u00baC",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "rebeca_ortiz.png",
+        "patologias previas": [
+            {
+                "patologia": "Drogadicci\u00f3n",
+                "fecha inicio": "13/01/2018",
+                "fecha final": "02/08/2018",
+                "psiquiatra asignado": "g1_id_psiquiatra_008",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_079"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_079",
+                "paciente": "g1_id_paciente_039",
+                "psiquiatra": "g1_id_psiquiatra_008",
+                "fecha consulta": "13/01/2018",
+                "motivo consulta": "Consumo de cannabis diario",
+                "desencadenante": "Mala influencia de sus amistades",
+                "observaciones": "La paciente presenta cambios de conducta y la necesidad de estar consumiendo marihuana constantemente",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda asistir a terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 3 meses"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_040",
+        "nombre": "Mireya",
+        "apellidos": "Grande Salado",
+        "dni": "82125738D",
+        "fecha_de_nacimiento": "03/11/1990",
+        "sexo": "Mujer",
+        "email": "mireyagrande90@gmail.com",
+        "telefono": "622012670",
+        "direccion": "c/plazas 3, 4\u00baC",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "mireya_grande.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno alimenticio",
+                "fecha inicio": "17/09/2016",
+                "fecha final": "02/02/2017",
+                "psiquiatra asignado": "g1_id_psiquiatra_008",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_080"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_080",
+                "paciente": "g1_id_paciente_040",
+                "psiquiatra": "g1_id_psiquiatra_008",
+                "fecha consulta": "17/09/2016",
+                "motivo consulta": "Inanici\u00f3n voluntaria",
+                "desencadenante": "Mala influencia de las redes sociales",
+                "observaciones": "La paciente asegura que hasta que no tenga el cuerpo de las modelos que ve en redes sociales no comer\u00e1",
+                "diagnostico": "Trastorno alimenticio",
+                "tratamiento": "Se recomienda tomar Ciproheptadina para estimular el apetito",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_041",
+        "nombre": "Jorge",
+        "apellidos": "Ca\u00f1ete Vera",
+        "dni": "12602465W",
+        "fecha_de_nacimiento": "01/07/1999",
+        "sexo": "Hombre",
+        "email": "jorgeca\u00f1ete99@gmail.com",
+        "telefono": "623560731",
+        "direccion": "c/ca\u00f1izos 8, 4\u00baA",
+        "codigo postal": "29008",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "jorge_ca\u00f1ete.png",
+        "patologia actual": "Depresi\u00f3n",
+        "fecha inicio": "15/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_008",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_081"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_081",
+                "paciente": "g1_id_paciente_041",
+                "psiquiatra": "g1_id_psiquiatra_008",
+                "fecha consulta": "18/09/2020",
+                "motivo consulta": "Confinamiento voluntario",
+                "desencadenante": "Ruptura sentimental",
+                "observaciones": "La paciente asegura que no tiene ganas de levantarse de la cama, ni ir a la Universidad. Presenta estado de \u00e1nimo irritable e insomnio",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina para mejorar su estabilidad emocional",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 semanas"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_042",
+        "nombre": "Miguel",
+        "apellidos": "Carrasco Ruiz",
+        "dni": "12601465O",
+        "fecha_de_nacimiento": "29/11/1980",
+        "sexo": "Hombre",
+        "email": "miguelcarrasco80@gmail.com",
+        "telefono": "695560131",
+        "direccion": "c/avestruz 1, 6\u00baB",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "miguel_carrasco.png",
+        "patologia actual": "Trastorno de la personalidad",
+        "fecha inicio": "17/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_008",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_082"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Amitriptilina"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_082",
+                "paciente": "g1_id_paciente_042",
+                "psiquiatra": "g1_id_psiquiatra_008",
+                "fecha consulta": "18/09/2020",
+                "motivo consulta": "Comportamientos extra\u00f1os",
+                "observaciones": "El paciente conducta impulsiva, imagen personal inestable y cambios en el estado de \u00e1nimo",
+                "diagnostico": "Trastorno de la personalidad",
+                "tratamiento": "Se recomienda tomar Amitriptilina para mejorar su estabilidad mental",
+                "frecuencia tratamiento": "3 veces al d\u00eda durante 1 mes"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_043",
+        "nombre": "Juan",
+        "apellidos": "Valverde Salado",
+        "dni": "85335738D",
+        "fecha_de_nacimiento": "13/08/1990",
+        "sexo": "Hombre",
+        "email": "juanvalverde90@gmail.com",
+        "telefono": "662356189",
+        "direccion": "c/apolo 1, 9\u00baC",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "juan_valverde.png",
+        "patologias previas": [
+            {
+                "patologia": "Psicosis",
+                "fecha inicio": "05/05/2016",
+                "fecha final": "13/12/2016",
+                "psiquiatra asignado": "g1_id_psiquiatra_009",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_083"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Asenapina"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_083",
+                "paciente": "g1_id_paciente_043",
+                "psiquiatra": "g1_id_psiquiatra_009",
+                "fecha consulta": "07/05/2016",
+                "motivo consulta": "Comportamientos extra\u00f1os",
+                "desencadenante": "Drogadicci\u00f3n pasada sin tratar",
+                "observaciones": "El paciente conducta impulsiva, alucinaciones y delirios",
+                "diagnostico": "Psicosis",
+                "tratamiento": "Se recomienda tomar Asenapina para evitar ataques psic\u00f3ticos",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_044",
+        "nombre": "Antonio",
+        "apellidos": "Vargas Almodovar",
+        "dni": "33215679L",
+        "fecha_de_nacimiento": "19/06/1999",
+        "sexo": "Hombre",
+        "email": "antoniovargas99@gmail.com",
+        "telefono": "662056089",
+        "direccion": "c/j\u00fapiter 3, 1\u00baC",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "antonio_vargas.png",
+        "patologias previas": [
+            {
+                "patologia": "Trastorno del Espectro Autista",
+                "fecha inicio": "29/07/2013",
+                "fecha final": "14/01/2014",
+                "psiquiatra asignado": "g1_id_psiquiatra_009",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_084"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Risperidona"
+                    },
+                    {
+                        "medicamento": "Aripiprazol"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_084",
+                "paciente": "g1_id_paciente_044",
+                "psiquiatra": "g1_id_psiquiatra_009",
+                "fecha consulta": "29/07/2013",
+                "motivo consulta": "Dificultad en las habilidades sociales",
+                "desencadenante": "Infancia traum\u00e1tica con aislamiento social",
+                "observaciones": "El paciente presenta movimientos estereotipados, anomal\u00edas en la expresi\u00f3n no verbal y anomal\u00edas comunicativas",
+                "diagnostico": "Trastorno del Espectro Autista",
+                "tratamiento": "Se recomienda tomar Risperidona y Aripiprazol",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 1 mes (ambas), con una diferencia de 4 horas entre una y otra"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_045",
+        "nombre": "Ana",
+        "apellidos": "Soria Vera",
+        "dni": "21760319X",
+        "fecha_de_nacimiento": "22/11/1991",
+        "sexo": "Mujer",
+        "email": "anasoria91@gmail.com",
+        "telefono": "645321987",
+        "direccion": "c/plutarco 2, 2\u00baA",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "ana_soria.png",
+        "patologia actual": "Depresi\u00f3n",
+        "fecha inicio": "05/07/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_009",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_085"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            },
+            {
+                "medicamento": "Lexat\u00edn"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_085",
+                "paciente": "g1_id_paciente_045",
+                "psiquiatra": "g1_id_psiquiatra_009",
+                "fecha consulta": "05/07/2020",
+                "motivo consulta": "Constantes ganas de llorar y aislamiento social",
+                "desencadenante": "Experiencia traum\u00e1tica en el pasado",
+                "observaciones": "La paciente presenta est\u00e1 decaida y presenta un muy bajo estado de \u00e1nimo",
+                "diagnostico": "Depresi\u00f3n",
+                "tratamiento": "Se recomienda tomar Sertralina para estabilizarla y Lexat\u00edn en caso de ataque de nervios",
+                "frecuencia tratamiento": "Sertralina 2 veces al d\u00eda durante 3 semanas y Lexat\u00edn m\u00e1ximo 1 al d\u00eda, con una diferencia de 4 horas entre una y otra"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_046",
+        "nombre": "Sandra",
+        "apellidos": "Conejo Labrador",
+        "dni": "30215119L",
+        "fecha_de_nacimiento": "27/12/1993",
+        "sexo": "Mujer",
+        "email": "sandraconejo93@gmail.com",
+        "telefono": "622056049",
+        "direccion": "c/arist\u00f3teles 3, 1\u00baC",
+        "codigo postal": "29002",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "sandra_conejo.png",
+        "patologias previas": [
+            {
+                "patologia": "Ansiedad",
+                "fecha inicio": "28/09/2018",
+                "fecha final": "30/01/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_009",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_086"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_086",
+                "paciente": "g1_id_paciente_046",
+                "psiquiatra": "g1_id_psiquiatra_009",
+                "fecha consulta": "30/09/2018",
+                "motivo consulta": "Estr\u00e9s continuo",
+                "desencadenante": "Realizaci\u00f3n de m\u00faltiples actividades laborales",
+                "observaciones": "La paciente tiene 3 trabajos distintos y se siente agobiada por ello, de manera que no sabe organizarse para dejar tiempo para su salud mental",
+                "diagnostico": "Ansiedad",
+                "tratamiento": "Se recomienda tomar Lexatin",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 3 semanas"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_047",
+        "nombre": "Roc\u00edo",
+        "apellidos": "Saravia S\u00e1nchez",
+        "dni": "07053427T",
+        "fecha_de_nacimiento": "14/02/1990",
+        "sexo": "Mujer",
+        "email": "rociosaravia90@gmail.com",
+        "telefono": "662312135",
+        "direccion": "c/flamenco 3, 7\u00baA",
+        "codigo postal": "29001",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "rocio_saravia.png",
+        "patologia actual": "Depresi\u00f3n post-parto",
+        "fecha inicio": "17/09/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_010",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_087"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Sertralina"
+            },
+            {
+                "medicamento": "Lexat\u00edn"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_087",
+                "paciente": "g1_id_paciente_047",
+                "psiquiatra": "g1_id_psiquiatra_010",
+                "fecha consulta": "20/09/2020",
+                "motivo consulta": "Sentimiento de incapacidad para criar a un beb\u00e9",
+                "desencadenante": "Parto reciente",
+                "observaciones": "La paciente se siente agobiada y no se ve capaz de que una persona dependa de ella. Cree que no va a saber cuidarlo y se distancia de el constantemente",
+                "diagnostico": "Depresi\u00f3n post-parto",
+                "tratamiento": "Se recomienda tomar Sertralina y Lexatin",
+                "frecuencia tratamiento": "2 veces al d\u00eda durante 2 semanas (ambas), con una diferencia de 4 horas entre una y otra"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_048",
+        "nombre": "Antonio",
+        "apellidos": "Ruiz Conejo",
+        "dni": "30215679L",
+        "fecha_de_nacimiento": "19/01/1995",
+        "sexo": "Hombre",
+        "email": "antonioruiz95@gmail.com",
+        "telefono": "663278968",
+        "direccion": "c/pajaros 1, 6\u00baC",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "antonio_ruiz.png",
+        "patologias previas": [
+            {
+                "patologia": "Alcoholismo",
+                "fecha inicio": "05/01/2018",
+                "fecha final": "10/10/2018",
+                "psiquiatra asignado": "g1_id_psiquiatra_010",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_088"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_088",
+                "paciente": "g1_id_paciente_048",
+                "psiquiatra": "g1_id_psiquiatra_010",
+                "fecha consulta": "05/01/2018",
+                "motivo consulta": "Dependencia de bebidas alcoh\u00f3licas",
+                "desencadenante": "Ruptura sentimental",
+                "observaciones": "El paciente siente una fuerte necesidad de consumir alcohol, oues asegura que cuando no esta bajos los efectos de este, se siente deprimido",
+                "diagnostico": "Alcoholismo",
+                "tratamiento": "Se recomienda asistir a terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 4 meses"
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_paciente_049",
+        "nombre": "Ana Mar\u00eda",
+        "apellidos": "Nevado S\u00e1nchez",
+        "dni": "07052127P",
+        "fecha_de_nacimiento": "17/08/1999",
+        "sexo": "Mujer",
+        "email": "anamarianevado99@gmail.com",
+        "telefono": "662122135",
+        "direccion": "c/naranjos 6, 7\u00baC",
+        "codigo postal": "29003",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "ana_maria_nevado.png",
+        "patologia actual": "Ansiedad",
+        "fecha inicio": "15/10/2020",
+        "psiquiatra asignado": "g1_id_psiquiatra_010",
+        "formularios consultas": [
+            {
+                "formulario": "g1_id_form_089"
+            }
+        ],
+        "medicamentos asignados": [
+            {
+                "medicamento": "Lexat\u00edn"
+            }
+        ],
+        "formularios actuales": [
+            {
+                "_id": "g1_id_form_089",
+                "paciente": "g1_id_paciente_049",
+                "psiquiatra": "g1_id_psiquiatra_010",
+                "fecha consulta": "15/10/2020",
+                "motivo consulta": "Ataques de ansiedad constantes",
+                "desencadenante": "La paciente sufre cancer de mama",
+                "observaciones": "La paciente al no creer que va a superar la enfermedad, presenta insomnio y sensaci\u00f3n de p\u00e1nico",
+                "diagnostico": "Ansiedad",
+                "tratamiento": "Se recomienda tomar Lexatin para evitar los ataques de ansiedad, as\u00ed como asistir a terapia grupal",
+                "frecuencia tratamiento": "Lexatin 2 veces al d\u00eda durante 2 semanas y acudir a terapia grupal 2 veces a la semana durante 1 mes"
+            }
+        ],
+        "formularios previos": []
+    },
+    {
+        "_id": "g1_id_paciente_050",
+        "nombre": "Oscar",
+        "apellidos": "Benitez Cuevas",
+        "dni": "09076543D",
+        "fecha_de_nacimiento": "23/11/1993",
+        "sexo": "Hombre",
+        "email": "oscarbenitez93@gmail.com",
+        "telefono": "669278960",
+        "direccion": "c/cocodrilo 3, 1\u00baC",
+        "codigo postal": "29004",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "oscar_benitez.png",
+        "patologias previas": [
+            {
+                "patologia": "Drogadicci\u00f3n",
+                "fecha inicio": "27/04/2019",
+                "fecha final": "23/10/2019",
+                "psiquiatra asignado": "g1_id_psiquiatra_010",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_090"
+                    }
+                ]
+            }
+        ],
+        "formularios actuales": [],
+        "formularios previos": [
+            {
+                "_id": "g1_id_form_090",
+                "paciente": "g1_id_paciente_090",
+                "psiquiatra": "g1_id_psiquiatra_010",
+                "fecha consulta": "28/04/2019",
+                "motivo consulta": "Abuso de sustancias t\u00f3xicas",
+                "desencadenante": "Nuevo c\u00edrculo de amistades",
+                "observaciones": "El paciente cambios de conducta y la necesidad de estar consumiendo marihuana constantemente",
+                "diagnostico": "Drogadicci\u00f3n",
+                "tratamiento": "Se recomienda acudir a la terapia grupal",
+                "frecuencia tratamiento": "2 veces a la semana durante 6 meses"
+            }
+        ]
+    }
+]

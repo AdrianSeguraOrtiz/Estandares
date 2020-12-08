@@ -14,6 +14,6 @@
     "fotografia" : STRING,
     "paciente asociado" : STRING,
     "relacion" : STRING,
-    "nivel de autorización" : STRING,
+    "nivel de autorizacion" : STRING,
     "mensajes recibidos" : [{"mensaje" : STRING}]
 }

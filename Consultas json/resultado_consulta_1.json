@@ -1,0 +1,2696 @@
+[
+    {
+        "_id": "g1_id_psiquiatra_001",
+        "nombre": "Sara",
+        "apellidos": "S\u00e1nchez Ortiz",
+        "dni": "92834561F",
+        "fecha_de_nacimiento": "12/08/1986",
+        "sexo": "Mujer",
+        "email": "sarasanchez86@gmail.com",
+        "telefono": "670345762",
+        "direccion": "c/Edison 2, 4\u00baC",
+        "codigo postal": "29006",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "sara_sanchez.png",
+        "titulacion": "Graduada en Medicina",
+        "universidad": "Universidad de M\u00e1laga (UMA)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "15",
+        "numero de pacientes": "10",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_001",
+                "nombre": "Marta",
+                "apellidos": "Romero Pacheco",
+                "dni": "23456671C",
+                "fecha_de_nacimiento": "21/02/1992",
+                "sexo": "Mujer",
+                "email": "martaromero92@gmail.com",
+                "telefono": "669245569",
+                "direccion": "c/manzano 5, 3\u00baB",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "marta_romero.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                        "fecha inicio": "04/12/2005",
+                        "fecha final": "18/06/2006",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_001"
+                            },
+                            {
+                                "formulario": "g1_id_form_002"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Paroxetina"
+                            },
+                            {
+                                "medicamento": "Fluoxetina"
+                            }
+                        ],
+                        "pruebas complementarias": [
+                            {
+                                "prueba": "Prueba de glicemia postpandrial"
+                            }
+                        ]
+                    },
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "23/08/2009",
+                        "fecha final": "03/02/2010",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_003"
+                            },
+                            {
+                                "formulario": "g1_id_form_004"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno alimenticio",
+                "fecha inicio": "15/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_005"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_002",
+                "nombre": "Olivia",
+                "apellidos": "Ca\u00f1ete Dom\u00ednguez",
+                "dni": "74825691Z",
+                "fecha_de_nacimiento": "05/12/1990",
+                "sexo": "Mujer",
+                "email": "oliviacanete_d90@gmail.com",
+                "telefono": "695874412",
+                "direccion": "c/Pintor Ru\u00edz 12, 4\u00baE",
+                "codigo postal": "29007",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "olivia_canete.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de ansiedad",
+                        "fecha inicio": "21/10/2014",
+                        "fecha final": "08/12/2015",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_006"
+                            },
+                            {
+                                "formulario": "g1_id_form_007"
+                            },
+                            {
+                                "formulario": "g1_id_form_008"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Escitalopram"
+                            },
+                            {
+                                "medicamento": "Duloxetina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno bipolar",
+                "fecha inicio": "10/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_009"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Olanzapina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_003",
+                "nombre": "Lucas",
+                "apellidos": "Romero Padilla",
+                "dni": "85554412E",
+                "fecha_de_nacimiento": "15/01/1995",
+                "sexo": "Hombre",
+                "email": "lucas_romero95@gmail.com",
+                "telefono": "632545885",
+                "direccion": "c/Paseo Verde 56",
+                "codigo postal": "29014",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "lucas_romero.png",
+                "patologia actual": "Trastorno de la personalidad",
+                "fecha inicio": "30/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_010"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Amitriptilina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_004",
+                "nombre": "Mario",
+                "apellidos": "Mart\u00edn P\u00e9rez",
+                "dni": "85457744B",
+                "fecha_de_nacimiento": "13/06/1960",
+                "sexo": "Hombre",
+                "email": "mariomp1998@gmail.com",
+                "telefono": "652225874",
+                "direccion": "c/Castilla 39, Bajo B",
+                "codigo postal": "29007",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "mario_martin.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "19/03/2011",
+                        "fecha final": "01/02/2012",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_011"
+                            },
+                            {
+                                "formulario": "g1_id_form_012"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Protriptilina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Demencia",
+                "fecha inicio": "01/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_013"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Donepezilo"
+                    },
+                    {
+                        "medicamento": "Memantina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_005",
+                "nombre": "Silvia",
+                "apellidos": "Rom\u00e1n Huerta",
+                "dni": "65448452F",
+                "fecha_de_nacimiento": "08/02/2000",
+                "sexo": "Mujer",
+                "email": "silvia_roman00@gmail.com",
+                "telefono": "698554782",
+                "direccion": "c/Pintor Molina 12, \u00c1tico B",
+                "codigo postal": "29010",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "silvia_roman.png",
+                "patologia actual": "Trastorno obsesivo-compulsivo (TOC)",
+                "fecha inicio": "22/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_014"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Fluvoxamine"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_006",
+                "nombre": "Lucas",
+                "apellidos": "Pirlo Molina",
+                "dni": "32525114S",
+                "fecha_de_nacimiento": "09/04/1993",
+                "sexo": "Hombre",
+                "email": "pirlo_lucas93@gmail.com",
+                "telefono": "652748411",
+                "direccion": "c/Jos\u00e9 Estrada 2",
+                "codigo postal": "29008",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "lucas_pirlo.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de ansiedad",
+                        "fecha inicio": "24/03/2014",
+                        "fecha final": "01/11/2014",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_015"
+                            },
+                            {
+                                "formulario": "g1_id_form_016"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Escitalopram"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "S\u00edndrome de Di\u00f3genes",
+                "fecha inicio": "31/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_017"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Citalopram"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_007",
+                "nombre": "Jos\u00e9 Ram\u00f3n",
+                "apellidos": "L\u00f3pez Galiana",
+                "dni": "85445577G",
+                "fecha_de_nacimiento": "02/03/1984",
+                "sexo": "Hombre",
+                "email": "jramon_lg84@gmail.com",
+                "telefono": "652112332",
+                "direccion": "c/Emiliano 14, Portal 3, 3\u00baA",
+                "codigo postal": "29010",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "jose_ramon.png",
+                "patologia actual": "Esquizofrenia",
+                "fecha inicio": "07/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_018"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Aripiprazol"
+                    },
+                    {
+                        "medicamento": "Clozapina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_008",
+                "nombre": "Margarita",
+                "apellidos": "Cintrano Ranea",
+                "dni": "78451129D",
+                "fecha_de_nacimiento": "01/09/1994",
+                "sexo": "Mujer",
+                "email": "margarita_cr94@gmail.com",
+                "telefono": "698554771",
+                "direccion": "c/Ruise\u00f1or 25",
+                "codigo postal": "29012",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "margarita_cintrano.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de ansiedad social",
+                        "fecha inicio": "03/01/2018",
+                        "fecha final": "24/06/2018",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_019"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno del Espectro Autista",
+                "fecha inicio": "08/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_020"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Risperidona"
+                    },
+                    {
+                        "medicamento": "Aripiprazol"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_009",
+                "nombre": "Melania",
+                "apellidos": "Castillo del R\u00edo",
+                "dni": "54548124K",
+                "fecha_de_nacimiento": "12/11/1986",
+                "sexo": "Mujer",
+                "email": "melaniacastillo86@gmail.com",
+                "telefono": "632255891",
+                "direccion": "c/Pereira 3, 6\u00baA",
+                "codigo postal": "29015",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "melania_castillo.png",
+                "patologia actual": "D\u00e9ficit de Atenci\u00f3n e Hiperactividad",
+                "fecha inicio": "11/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_021"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Methylphenidate "
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_010",
+                "nombre": "Pilar",
+                "apellidos": "Rueda \u00c1lvarez",
+                "dni": "787445932J",
+                "fecha_de_nacimiento": "18/03/1981",
+                "sexo": "Mujer",
+                "email": "pilarrueda81@gmail.com",
+                "telefono": "654228955",
+                "direccion": "c/Leon 15, 2\u00baA",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "pilar_rueda.png",
+                "patologia actual": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                "fecha inicio": "10/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_022"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_001",
+                "nombre": "Marta",
+                "apellidos": "Romero Pacheco",
+                "dni": "23456671C",
+                "fecha_de_nacimiento": "21/02/1992",
+                "sexo": "Mujer",
+                "email": "martaromero92@gmail.com",
+                "telefono": "669245569",
+                "direccion": "c/manzano 5, 3\u00baB",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "marta_romero.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                        "fecha inicio": "04/12/2005",
+                        "fecha final": "18/06/2006",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_001"
+                            },
+                            {
+                                "formulario": "g1_id_form_002"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Paroxetina"
+                            },
+                            {
+                                "medicamento": "Fluoxetina"
+                            }
+                        ],
+                        "pruebas complementarias": [
+                            {
+                                "prueba": "Prueba de glicemia postpandrial"
+                            }
+                        ]
+                    },
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "23/08/2009",
+                        "fecha final": "03/02/2010",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_003"
+                            },
+                            {
+                                "formulario": "g1_id_form_004"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno alimenticio",
+                "fecha inicio": "15/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_005"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_002",
+                "nombre": "Olivia",
+                "apellidos": "Ca\u00f1ete Dom\u00ednguez",
+                "dni": "74825691Z",
+                "fecha_de_nacimiento": "05/12/1990",
+                "sexo": "Mujer",
+                "email": "oliviacanete_d90@gmail.com",
+                "telefono": "695874412",
+                "direccion": "c/Pintor Ru\u00edz 12, 4\u00baE",
+                "codigo postal": "29007",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "olivia_canete.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de ansiedad",
+                        "fecha inicio": "21/10/2014",
+                        "fecha final": "08/12/2015",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_006"
+                            },
+                            {
+                                "formulario": "g1_id_form_007"
+                            },
+                            {
+                                "formulario": "g1_id_form_008"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Escitalopram"
+                            },
+                            {
+                                "medicamento": "Duloxetina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno bipolar",
+                "fecha inicio": "10/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_009"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Olanzapina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_004",
+                "nombre": "Mario",
+                "apellidos": "Mart\u00edn P\u00e9rez",
+                "dni": "85457744B",
+                "fecha_de_nacimiento": "13/06/1960",
+                "sexo": "Hombre",
+                "email": "mariomp1998@gmail.com",
+                "telefono": "652225874",
+                "direccion": "c/Castilla 39, Bajo B",
+                "codigo postal": "29007",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "mario_martin.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "19/03/2011",
+                        "fecha final": "01/02/2012",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_011"
+                            },
+                            {
+                                "formulario": "g1_id_form_012"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Protriptilina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Demencia",
+                "fecha inicio": "01/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_013"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Donepezilo"
+                    },
+                    {
+                        "medicamento": "Memantina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_006",
+                "nombre": "Lucas",
+                "apellidos": "Pirlo Molina",
+                "dni": "32525114S",
+                "fecha_de_nacimiento": "09/04/1993",
+                "sexo": "Hombre",
+                "email": "pirlo_lucas93@gmail.com",
+                "telefono": "652748411",
+                "direccion": "c/Jos\u00e9 Estrada 2",
+                "codigo postal": "29008",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "lucas_pirlo.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de ansiedad",
+                        "fecha inicio": "24/03/2014",
+                        "fecha final": "01/11/2014",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_015"
+                            },
+                            {
+                                "formulario": "g1_id_form_016"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Escitalopram"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "S\u00edndrome de Di\u00f3genes",
+                "fecha inicio": "31/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_017"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Citalopram"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_008",
+                "nombre": "Margarita",
+                "apellidos": "Cintrano Ranea",
+                "dni": "78451129D",
+                "fecha_de_nacimiento": "01/09/1994",
+                "sexo": "Mujer",
+                "email": "margarita_cr94@gmail.com",
+                "telefono": "698554771",
+                "direccion": "c/Ruise\u00f1or 25",
+                "codigo postal": "29012",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "margarita_cintrano.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de ansiedad social",
+                        "fecha inicio": "03/01/2018",
+                        "fecha final": "24/06/2018",
+                        "psiquiatra asignado": "g1_id_psiquiatra_001",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_019"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno del Espectro Autista",
+                "fecha inicio": "08/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_001",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_020"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Risperidona"
+                    },
+                    {
+                        "medicamento": "Aripiprazol"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_002",
+        "nombre": "Roberto",
+        "apellidos": "Fern\u00e1ndez Rojas",
+        "dni": "32568415D",
+        "fecha_de_nacimiento": "26/03/1970",
+        "sexo": "Hombre",
+        "email": "roberto_hr90@gmail.com",
+        "telefono": "645852112",
+        "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+        "codigo postal": "29012",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "roberto_fernandez.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de Granada (UGR)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "24",
+        "numero de pacientes": "6",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_011",
+                "nombre": "David",
+                "apellidos": "Lasa Ordo\u00f1ez",
+                "dni": "23567210K",
+                "fecha_de_nacimiento": "18/01/1996",
+                "sexo": "Hombre",
+                "email": "davidlasa96@gmail.com",
+                "telefono": "662537784",
+                "direccion": "c/aceras 2, 4\u00baB",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "david_lasa.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno alimenticio",
+                        "fecha inicio": "10/03/2016",
+                        "fecha final": "17/08/2016",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_023"
+                            },
+                            {
+                                "formulario": "g1_id_form_024"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ciproheptadina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno de ansiedad",
+                "fecha inicio": "11/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_025"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_012",
+                "nombre": "Carmen",
+                "apellidos": "Castro Romero",
+                "dni": "23446631C",
+                "fecha_de_nacimiento": "27/08/1980",
+                "sexo": "Mujer",
+                "email": "carmencastro80@gmail.com",
+                "telefono": "623445237",
+                "direccion": "c/romeros 7, 3\u00baB",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "carmen_castro.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "12/10/2009",
+                        "fecha final": "03/02/2010",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_026"
+                            },
+                            {
+                                "formulario": "g1_id_form_027"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    },
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "14/07/2012",
+                        "fecha final": "15/01/2013",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_028"
+                            },
+                            {
+                                "formulario": "g1_id_form_029"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno de ansiedad",
+                "fecha inicio": "07/08/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_030"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_013",
+                "nombre": "Eduardo",
+                "apellidos": "Valderrama Ortiz",
+                "dni": "23767219K",
+                "fecha_de_nacimiento": "22/12/1997",
+                "sexo": "Hombre",
+                "email": "eduardovalderrama97@gmail.com",
+                "telefono": "662523781",
+                "direccion": "c/palmeros 5, 6\u00baA",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "eduardo_valderrama.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Deficit de atenci\u00f3n",
+                        "fecha inicio": "15/12/2008",
+                        "fecha final": "01/04/2009",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_031"
+                            },
+                            {
+                                "formulario": "g1_id_form_032"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ritalina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno alimenticio",
+                "fecha inicio": "14/07/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_033"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_014",
+                "nombre": "Clara",
+                "apellidos": "Labrador Vera",
+                "dni": "23763319X",
+                "fecha_de_nacimiento": "19/09/2000",
+                "sexo": "Mujer",
+                "email": "claralabrador00@gmail.com",
+                "telefono": "624567731",
+                "direccion": "c/aragoneses 2, 1\u00baA",
+                "codigo postal": "29004",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "clara_labrador.png",
+                "patologia actual": "Depresi\u00f3n",
+                "fecha inicio": "11/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_034"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_015",
+                "nombre": "Jimena",
+                "apellidos": "Benitez Castro",
+                "dni": "23717219K",
+                "fecha_de_nacimiento": "12/11/1986",
+                "sexo": "Mujer",
+                "email": "jimenabenitez86@gmail.com",
+                "telefono": "672523721",
+                "direccion": "c/cabrero 1, 4\u00baA",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "jimena_benitez.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Hiperactividad",
+                        "fecha inicio": "15/08/1996",
+                        "fecha final": "19/01/1998",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_035"
+                            },
+                            {
+                                "formulario": "g1_id_form_036"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ritalina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Alcoholemia",
+                "fecha inicio": "08/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_037"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_016",
+                "nombre": "Adri\u00e1n",
+                "apellidos": "Pacheco Segura",
+                "dni": "23223319J",
+                "fecha_de_nacimiento": "03/12/2000",
+                "sexo": "Hombre",
+                "email": "adrianpacheco00@gmail.com",
+                "telefono": "634167739",
+                "direccion": "c/hernandez 2, 1\u00baA",
+                "codigo postal": "29006",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "adrian_pacheco.png",
+                "patologia actual": "Drogadicci\u00f3n",
+                "fecha inicio": "13/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_038"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_011",
+                "nombre": "David",
+                "apellidos": "Lasa Ordo\u00f1ez",
+                "dni": "23567210K",
+                "fecha_de_nacimiento": "18/01/1996",
+                "sexo": "Hombre",
+                "email": "davidlasa96@gmail.com",
+                "telefono": "662537784",
+                "direccion": "c/aceras 2, 4\u00baB",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "david_lasa.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno alimenticio",
+                        "fecha inicio": "10/03/2016",
+                        "fecha final": "17/08/2016",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_023"
+                            },
+                            {
+                                "formulario": "g1_id_form_024"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ciproheptadina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno de ansiedad",
+                "fecha inicio": "11/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_025"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_012",
+                "nombre": "Carmen",
+                "apellidos": "Castro Romero",
+                "dni": "23446631C",
+                "fecha_de_nacimiento": "27/08/1980",
+                "sexo": "Mujer",
+                "email": "carmencastro80@gmail.com",
+                "telefono": "623445237",
+                "direccion": "c/romeros 7, 3\u00baB",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "carmen_castro.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "12/10/2009",
+                        "fecha final": "03/02/2010",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_026"
+                            },
+                            {
+                                "formulario": "g1_id_form_027"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    },
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "14/07/2012",
+                        "fecha final": "15/01/2013",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_028"
+                            },
+                            {
+                                "formulario": "g1_id_form_029"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno de ansiedad",
+                "fecha inicio": "07/08/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_030"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_013",
+                "nombre": "Eduardo",
+                "apellidos": "Valderrama Ortiz",
+                "dni": "23767219K",
+                "fecha_de_nacimiento": "22/12/1997",
+                "sexo": "Hombre",
+                "email": "eduardovalderrama97@gmail.com",
+                "telefono": "662523781",
+                "direccion": "c/palmeros 5, 6\u00baA",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "eduardo_valderrama.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Deficit de atenci\u00f3n",
+                        "fecha inicio": "15/12/2008",
+                        "fecha final": "01/04/2009",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_031"
+                            },
+                            {
+                                "formulario": "g1_id_form_032"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ritalina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno alimenticio",
+                "fecha inicio": "14/07/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_033"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Ciproheptadina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_015",
+                "nombre": "Jimena",
+                "apellidos": "Benitez Castro",
+                "dni": "23717219K",
+                "fecha_de_nacimiento": "12/11/1986",
+                "sexo": "Mujer",
+                "email": "jimenabenitez86@gmail.com",
+                "telefono": "672523721",
+                "direccion": "c/cabrero 1, 4\u00baA",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "jimena_benitez.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Hiperactividad",
+                        "fecha inicio": "15/08/1996",
+                        "fecha final": "19/01/1998",
+                        "psiquiatra asignado": "g1_id_psiquiatra_002",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_035"
+                            },
+                            {
+                                "formulario": "g1_id_form_036"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ritalina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Alcoholemia",
+                "fecha inicio": "08/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_002",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_037"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_003",
+        "nombre": "Luc\u00eda",
+        "apellidos": "Manrique P\u00e9rez",
+        "dni": "77485124M",
+        "fecha_de_nacimiento": "02/02/1980",
+        "sexo": "Mujer",
+        "email": "manrique_lucia@gmail.com",
+        "telefono": "621452228",
+        "direccion": "c/Santa Luc\u00eda 2",
+        "codigo postal": "29015",
+        "localidad": "Fuengirola",
+        "provincia": "M\u00e1laga",
+        "fotografia": "lucia_manrique.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de M\u00e1laga (UMA)",
+        "especialidad": "Neuropsiquiatr\u00eda",
+        "a\u00f1os antiguedad en centro": "18",
+        "numero de pacientes": "5",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_017",
+                "nombre": "Gabriela",
+                "apellidos": "Salado San Mill\u00e1n",
+                "dni": "23788219K",
+                "fecha_de_nacimiento": "21/07/1999",
+                "sexo": "Mujer",
+                "email": "gabrielasalado99@gmail.com",
+                "telefono": "674553729",
+                "direccion": "c/capitanes 4, 2\u00baA",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "gabriela_salado.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Ninfoman\u00eda",
+                        "fecha inicio": "12/03/2020",
+                        "fecha final": "14/07/2020",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_039"
+                            },
+                            {
+                                "formulario": "g1_id_form_040"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Naltrexona"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno alimenticio",
+                "fecha inicio": "15/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_041"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_019",
+                "nombre": "Marta",
+                "apellidos": "Cantos Mart\u00edn",
+                "dni": "16773490C",
+                "fecha_de_nacimiento": "23/08/1995",
+                "sexo": "Mujer",
+                "email": "martacantos95@gmail.com",
+                "telefono": "634528965",
+                "direccion": "c/edison 3, 1\u00baA",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "marta_cantos.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "15/09/2016",
+                        "fecha final": "03/01/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_044"
+                            },
+                            {
+                                "formulario": "g1_id_form_045"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Ansiedad",
+                "fecha inicio": "10/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_046"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_020",
+                "nombre": "Miguel",
+                "apellidos": "Rodriguez Galvez",
+                "dni": "29764719X",
+                "fecha_de_nacimiento": "18/04/2001",
+                "sexo": "Hombre",
+                "email": "miguelrodriguez01@gmail.com",
+                "telefono": "624542731",
+                "direccion": "c/galvez 15, 2\u00baB",
+                "codigo postal": "29007",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "miguel_rodriguez.png",
+                "patologia actual": "Drogadicci\u00f3n",
+                "fecha inicio": "17/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_047"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_017",
+                "nombre": "Gabriela",
+                "apellidos": "Salado San Mill\u00e1n",
+                "dni": "23788219K",
+                "fecha_de_nacimiento": "21/07/1999",
+                "sexo": "Mujer",
+                "email": "gabrielasalado99@gmail.com",
+                "telefono": "674553729",
+                "direccion": "c/capitanes 4, 2\u00baA",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "gabriela_salado.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Ninfoman\u00eda",
+                        "fecha inicio": "12/03/2020",
+                        "fecha final": "14/07/2020",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_039"
+                            },
+                            {
+                                "formulario": "g1_id_form_040"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Naltrexona"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Trastorno alimenticio",
+                "fecha inicio": "15/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_041"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_018",
+                "nombre": "Irene",
+                "apellidos": "Carrasco Gallego",
+                "dni": "04067923C",
+                "fecha_de_nacimiento": "01/12/1990",
+                "sexo": "Mujer",
+                "email": "irenecarrasco90@gmail.com",
+                "telefono": "663640389",
+                "direccion": "c/lipezcua 6, 5\u00baE",
+                "codigo postal": "29006",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "irene_carracsco.png",
+                "patologias previas": [
+                    {
+                        "patologia": "S\u00edndrome de Asperger",
+                        "fecha inicio": "13/10/2002",
+                        "fecha final": "28/02/2003",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_042"
+                            },
+                            {
+                                "formulario": "g1_id_form_043"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Risperidal"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_019",
+                "nombre": "Marta",
+                "apellidos": "Cantos Mart\u00edn",
+                "dni": "16773490C",
+                "fecha_de_nacimiento": "23/08/1995",
+                "sexo": "Mujer",
+                "email": "martacantos95@gmail.com",
+                "telefono": "634528965",
+                "direccion": "c/edison 3, 1\u00baA",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "marta_cantos.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "15/09/2016",
+                        "fecha final": "03/01/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_044"
+                            },
+                            {
+                                "formulario": "g1_id_form_045"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Ansiedad",
+                "fecha inicio": "10/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_003",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_046"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_021",
+                "nombre": "\u00c1lvaro",
+                "apellidos": "Torres S\u00e1nchez",
+                "dni": "23499671C",
+                "fecha_de_nacimiento": "19/05/1987",
+                "sexo": "Hombre",
+                "email": "alvarotorres87@gmail.com",
+                "telefono": "663456621",
+                "direccion": "c/palomas 2, 3\u00baB",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "alvaro_torres.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Alcoholismo",
+                        "fecha inicio": "11/11/2010",
+                        "fecha final": "02/03/2011",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_048"
+                            },
+                            {
+                                "formulario": "g1_id_form_049"
+                            }
+                        ]
+                    },
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "13/02/2017",
+                        "fecha final": "15/08/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_003",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_050"
+                            },
+                            {
+                                "formulario": "g1_id_form_051"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            },
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_004",
+        "nombre": "Francisco",
+        "apellidos": "Sep\u00falveda Rey",
+        "dni": "95624458J",
+        "fecha_de_nacimiento": "18/11/1979",
+        "sexo": "Hombre",
+        "email": "franciscosepulvedarey@gmail.com",
+        "telefono": "685998445",
+        "direccion": "c/Lope de Vega 36, 1\u00baC",
+        "codigo postal": "29005",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "francisco_sepulveda.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad Rey Juan Carlos (Madrid)",
+        "especialidad": "Psiquiatr\u00eda infanto-juvenil",
+        "a\u00f1os antiguedad en centro": "5",
+        "numero de pacientes": "4",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_024",
+                "nombre": "Raquel",
+                "apellidos": "Sutton Rivera",
+                "dni": "12632189R",
+                "fecha_de_nacimiento": "07/11/1997",
+                "sexo": "Mujer",
+                "email": "raquelsutton97@gmail.com",
+                "telefono": "619565731",
+                "direccion": "c/riverano 19, 2\u00baE",
+                "codigo postal": "29001",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "raquel_sutton.png",
+                "patologia actual": "Depresi\u00f3n",
+                "fecha inicio": "12/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_004",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_056"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_022",
+                "nombre": "Inmaculada",
+                "apellidos": "Reyes S\u00e1nchez",
+                "dni": "16213490C",
+                "fecha_de_nacimiento": "15/02/1999",
+                "sexo": "Mujer",
+                "email": "inmareyes99@gmail.com",
+                "telefono": "634528215",
+                "direccion": "c/genezaret 3, 1\u00baA",
+                "codigo postal": "29006",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "inmaculada_reyes.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno alimenticio",
+                        "fecha inicio": "17/08/2019",
+                        "fecha final": "23/12/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_004",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_052"
+                            },
+                            {
+                                "formulario": "g1_id_form_053"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ciproheptadina"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_023",
+                "nombre": "Paula",
+                "apellidos": "Pesta\u00f1a Cochar",
+                "dni": "34214469J",
+                "fecha_de_nacimiento": "17/09/1999",
+                "sexo": "Mujer",
+                "email": "paulapesti99@gmail.com",
+                "telefono": "633128221",
+                "direccion": "c/aceras 2, 1\u00baB",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "paula_pesta\u00f1a.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno bipolar",
+                        "fecha inicio": "02/12/2018",
+                        "fecha final": "14/04/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_004",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_054"
+                            },
+                            {
+                                "formulario": "g1_id_form_055"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Olanzapina"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_025",
+                "nombre": "Paloma",
+                "apellidos": "Trinidad Conejo",
+                "dni": "34714412J",
+                "fecha_de_nacimiento": "13/11/1996",
+                "sexo": "Mujer",
+                "email": "palomatrinidad96@gmail.com",
+                "telefono": "621321780",
+                "direccion": "c/trinidad 2, 1\u00baB",
+                "codigo postal": "29004",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "paloma_trinidad.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Psicosis",
+                        "fecha inicio": "05/08/2016",
+                        "fecha final": "22/01/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_004",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_057"
+                            },
+                            {
+                                "formulario": "g1_id_form_058"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Aripiprazol"
+                            },
+                            {
+                                "medicamento": "Asenapina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_005",
+        "nombre": "Jos\u00e9 Mar\u00eda",
+        "apellidos": "Leiva Jim\u00e9nez",
+        "dni": "65956521E",
+        "fecha_de_nacimiento": "02/07/1991",
+        "sexo": "Hombre",
+        "email": "jm_leiva91@gmail.com",
+        "telefono": "652996321",
+        "direccion": "c/Gloria Manilva 9, 6\u00baA",
+        "codigo postal": "29010",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "jose_maria_leiva.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de M\u00e1laga (UMA)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "3",
+        "numero de pacientes": "4",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_026",
+                "nombre": "Fernando",
+                "apellidos": "S\u00e1nchez Rodriguez",
+                "dni": "19932189D",
+                "fecha_de_nacimiento": "27/03/2000",
+                "sexo": "Hombre",
+                "email": "fernandosanchez00@gmail.com",
+                "telefono": "622564731",
+                "direccion": "c/ristori 12, 4\u00baE",
+                "codigo postal": "29001",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "fernando_sanchez.png",
+                "patologia actual": "Drogadicci\u00f3n",
+                "fecha inicio": "01/12/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_005",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_059"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_027",
+                "nombre": "Alberto",
+                "apellidos": "\u00c1lvarez Mart\u00edn",
+                "dni": "16773430C",
+                "fecha_de_nacimiento": "11/06/1995",
+                "sexo": "Hombre",
+                "email": "albertoalvarez95@gmail.com",
+                "telefono": "634548965",
+                "direccion": "c/martinez 3, 1\u00baA",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "alberto_alvarez.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "18/08/2018",
+                        "fecha final": "02/01/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_005",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_060"
+                            },
+                            {
+                                "formulario": "g1_id_form_061"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Ansiedad",
+                "fecha inicio": "03/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_005",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_062"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_029",
+                "nombre": "Martina",
+                "apellidos": "S\u00e1nchez Rodriguez",
+                "dni": "11932989D",
+                "fecha_de_nacimiento": "10/09/1965",
+                "sexo": "Mujer",
+                "email": "martinasanchez65@gmail.com",
+                "telefono": "622564831",
+                "direccion": "c/\u00e1rboles 6, 4\u00baE",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "martina_sanchez.png",
+                "patologia actual": "Demencia",
+                "fecha inicio": "10/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_005",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_065"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Donepezilo"
+                    },
+                    {
+                        "medicamento": "Memantina"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_027",
+                "nombre": "Alberto",
+                "apellidos": "\u00c1lvarez Mart\u00edn",
+                "dni": "16773430C",
+                "fecha_de_nacimiento": "11/06/1995",
+                "sexo": "Hombre",
+                "email": "albertoalvarez95@gmail.com",
+                "telefono": "634548965",
+                "direccion": "c/martinez 3, 1\u00baA",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "alberto_alvarez.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Depresi\u00f3n",
+                        "fecha inicio": "18/08/2018",
+                        "fecha final": "02/01/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_005",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_060"
+                            },
+                            {
+                                "formulario": "g1_id_form_061"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Sertralina"
+                            }
+                        ]
+                    }
+                ],
+                "patologia actual": "Ansiedad",
+                "fecha inicio": "03/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_005",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_062"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexatin"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_028",
+                "nombre": "Carlos",
+                "apellidos": "Puga Conejo",
+                "dni": "34716412J",
+                "fecha_de_nacimiento": "12/07/2000",
+                "sexo": "Hombre",
+                "email": "carlospuga00@gmail.com",
+                "telefono": "621322680",
+                "direccion": "c/puganos 2, 1\u00baB",
+                "codigo postal": "29001",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "carlos_puga.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Retraso mental severo",
+                        "fecha inicio": "17/05/2017",
+                        "fecha final": "20/12/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_005",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_063"
+                            },
+                            {
+                                "formulario": "g1_id_form_064"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_006",
+        "nombre": "Ana",
+        "apellidos": "S\u00e1nchez Tom\u00e1s",
+        "dni": "52628451T",
+        "fecha_de_nacimiento": "14/09/1980",
+        "sexo": "Mujer",
+        "email": "ana_sanchez_t80@gmail.com",
+        "telefono": "636965552",
+        "direccion": "c/Rodrigo Prado 17",
+        "codigo postal": "29011",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "ana_sanchez.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de M\u00e1laga (UMA)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "5",
+        "numero de pacientes": "5",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_030",
+                "nombre": "Pepe",
+                "apellidos": "Jimenez Ortiz",
+                "dni": "18394672U",
+                "fecha_de_nacimiento": "11/06/1985",
+                "sexo": "Hombre",
+                "email": "pepejimenez85@gmail.com",
+                "telefono": "629564831",
+                "direccion": "c/alameda 1, 4\u00baA",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "pepe_jimenez.png",
+                "patologia actual": "Alcoholismo",
+                "fecha inicio": "13/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_006",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_066"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_033",
+                "nombre": "Alejandro",
+                "apellidos": "Ortiz Ortega",
+                "dni": "23412893F",
+                "fecha_de_nacimiento": "17/08/1998",
+                "sexo": "Hombre",
+                "email": "alejandroortiz98@gmail.com",
+                "telefono": "620564131",
+                "direccion": "c/ortega 1, 2\u00baF",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "alejandro_ortiz.png",
+                "patologia actual": "Drogadicci\u00f3n",
+                "fecha inicio": "07/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_006",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_071"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_031",
+                "nombre": "Luc\u00eda",
+                "apellidos": "Sanchez Lasa",
+                "dni": "34716242J",
+                "fecha_de_nacimiento": "14/03/1999",
+                "sexo": "Mujer",
+                "email": "luciasanchez99@gmail.com",
+                "telefono": "621322670",
+                "direccion": "c/tulipanes 2, 1\u00baB",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "lucia_sanchez.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Drogadicci\u00f3n",
+                        "fecha inicio": "02/01/2019",
+                        "fecha final": "20/08/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_006",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_067"
+                            },
+                            {
+                                "formulario": "g1_id_form_068"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_032",
+                "nombre": "Cristina",
+                "apellidos": "Chamizo Ortiz",
+                "dni": "02056800G",
+                "fecha_de_nacimiento": "27/04/1995",
+                "sexo": "Mujer",
+                "email": "cristinachamizo95@gmail.com",
+                "telefono": "621300670",
+                "direccion": "c/pistolas 2, 5\u00baC",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "cristina_chamizo.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno de la personalidad",
+                        "fecha inicio": "13/05/2015",
+                        "fecha final": "21/12/2015",
+                        "psiquiatra asignado": "g1_id_psiquiatra_006",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_069"
+                            },
+                            {
+                                "formulario": "g1_id_form_070"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Amitriptilina"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_034",
+                "nombre": "Oswaldo",
+                "apellidos": "Otrelles Mart\u00edn",
+                "dni": "02056250G",
+                "fecha_de_nacimiento": "18/07/1960",
+                "sexo": "Hombre",
+                "email": "oswaldootrelles60@gmail.com",
+                "telefono": "621355670",
+                "direccion": "c/estufas 2, 1\u00baC",
+                "codigo postal": "29007",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "oswaldo_otrelles.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Demencia",
+                        "fecha inicio": "02/12/2016",
+                        "fecha final": "03/01/2018",
+                        "psiquiatra asignado": "g1_id_psiquiatra_006",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_072"
+                            },
+                            {
+                                "formulario": "g1_id_form_073"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Donepezilo"
+                            },
+                            {
+                                "medicamento": "Memantina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_007",
+        "nombre": "Manuel",
+        "apellidos": "G\u00f3mez Cabello",
+        "dni": "63225471C",
+        "fecha_de_nacimiento": "29/04/1975",
+        "sexo": "Hombre",
+        "email": "manuelgomez75@gmail.com",
+        "telefono": "654112445",
+        "direccion": "c/Marisol 3, 5\u00baE",
+        "codigo postal": "29008",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "manuel_gomez.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de Granada (UGR)",
+        "especialidad": "Neuropsiquiatr\u00eda",
+        "a\u00f1os antiguedad en centro": "8",
+        "numero de pacientes": "4",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_035",
+                "nombre": "Ra\u00fal",
+                "apellidos": "Manzano Olivares",
+                "dni": "23410093F",
+                "fecha_de_nacimiento": "01/01/1997",
+                "sexo": "Hombre",
+                "email": "raulmanzano97@gmail.com",
+                "telefono": "626743980",
+                "direccion": "c/olivares 1, 5\u00baF",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "raul_manzano.png",
+                "patologia actual": "Alcoholismo",
+                "fecha inicio": "13/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_007",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_074"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_038",
+                "nombre": "Jorge",
+                "apellidos": "V\u00e1zquez Rivera",
+                "dni": "12632100V",
+                "fecha_de_nacimiento": "29/03/1980",
+                "sexo": "Hombre",
+                "email": "jorgevazquez80@gmail.com",
+                "telefono": "619507301",
+                "direccion": "c/riverano 2, 2\u00baA",
+                "codigo postal": "29001",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "jorge_vazquez.png",
+                "patologia actual": "Depresi\u00f3n",
+                "fecha inicio": "12/11/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_007",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_078"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_036",
+                "nombre": "Rosa",
+                "apellidos": "Cuevas Mart\u00edn",
+                "dni": "02032250G",
+                "fecha_de_nacimiento": "23/12/1990",
+                "sexo": "Mujer",
+                "email": "rosacuevas90@gmail.com",
+                "telefono": "624955670",
+                "direccion": "c/olivos 2, 5\u00baC",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "rosa_cuevas.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Psicosis",
+                        "fecha inicio": "23/10/2018",
+                        "fecha final": "15/04/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_007",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_075"
+                            },
+                            {
+                                "formulario": "g1_id_form_076"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Aripiprazol"
+                            },
+                            {
+                                "medicamento": "Asenapina"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_037",
+                "nombre": "Lola",
+                "apellidos": "Flores Maldonado",
+                "dni": "82535738D",
+                "fecha_de_nacimiento": "15/11/1986",
+                "sexo": "Mujer",
+                "email": "lolaflores86@gmail.com",
+                "telefono": "622055670",
+                "direccion": "c/flores 2, 1\u00baC",
+                "codigo postal": "29001",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "lola_flores.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno bipolar",
+                        "fecha inicio": "14/08/2016",
+                        "fecha final": "03/02/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_007",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_077"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Olanzapina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_008",
+        "nombre": "Lorena",
+        "apellidos": "Gonz\u00e1lez Seco",
+        "dni": "99854121F",
+        "fecha_de_nacimiento": "20/01/1988",
+        "sexo": "Mujer",
+        "email": "lorena_gonz88@gmail.com",
+        "telefono": "639784511",
+        "direccion": "c/Roseta 8, 1\u00baE",
+        "codigo postal": "29007",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "lorena_gonzalez.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de Murcia (UCAM)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "4",
+        "numero de pacientes": "4",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_041",
+                "nombre": "Jorge",
+                "apellidos": "Ca\u00f1ete Vera",
+                "dni": "12602465W",
+                "fecha_de_nacimiento": "01/07/1999",
+                "sexo": "Hombre",
+                "email": "jorgeca\u00f1ete99@gmail.com",
+                "telefono": "623560731",
+                "direccion": "c/ca\u00f1izos 8, 4\u00baA",
+                "codigo postal": "29008",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "jorge_ca\u00f1ete.png",
+                "patologia actual": "Depresi\u00f3n",
+                "fecha inicio": "15/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_008",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_081"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_042",
+                "nombre": "Miguel",
+                "apellidos": "Carrasco Ruiz",
+                "dni": "12601465O",
+                "fecha_de_nacimiento": "29/11/1980",
+                "sexo": "Hombre",
+                "email": "miguelcarrasco80@gmail.com",
+                "telefono": "695560131",
+                "direccion": "c/avestruz 1, 6\u00baB",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "miguel_carrasco.png",
+                "patologia actual": "Trastorno de la personalidad",
+                "fecha inicio": "17/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_008",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_082"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Amitriptilina"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_039",
+                "nombre": "Rebeca",
+                "apellidos": "Ortiz Segura",
+                "dni": "82505748H",
+                "fecha_de_nacimiento": "19/08/1996",
+                "sexo": "Mujer",
+                "email": "rebecaortiz96@gmail.com",
+                "telefono": "602155690",
+                "direccion": "c/macetas 2, 1\u00baC",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "rebeca_ortiz.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Drogadicci\u00f3n",
+                        "fecha inicio": "13/01/2018",
+                        "fecha final": "02/08/2018",
+                        "psiquiatra asignado": "g1_id_psiquiatra_008",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_079"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_040",
+                "nombre": "Mireya",
+                "apellidos": "Grande Salado",
+                "dni": "82125738D",
+                "fecha_de_nacimiento": "03/11/1990",
+                "sexo": "Mujer",
+                "email": "mireyagrande90@gmail.com",
+                "telefono": "622012670",
+                "direccion": "c/plazas 3, 4\u00baC",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "mireya_grande.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno alimenticio",
+                        "fecha inicio": "17/09/2016",
+                        "fecha final": "02/02/2017",
+                        "psiquiatra asignado": "g1_id_psiquiatra_008",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_080"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Ciproheptadina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_009",
+        "nombre": "Antonio Jes\u00fas",
+        "apellidos": "Ram\u00edrez Loto",
+        "dni": "55214489X",
+        "fecha_de_nacimiento": "07/07/1977",
+        "sexo": "Hombre",
+        "email": "antonioj_ramirez77@gmail.com",
+        "telefono": "651112887",
+        "direccion": "c/Moreno Villa 29",
+        "codigo postal": "29012",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "antonio_jesus_ramirez.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de UMA (UMA)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "7",
+        "numero de pacientes": "4",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_045",
+                "nombre": "Ana",
+                "apellidos": "Soria Vera",
+                "dni": "21760319X",
+                "fecha_de_nacimiento": "22/11/1991",
+                "sexo": "Mujer",
+                "email": "anasoria91@gmail.com",
+                "telefono": "645321987",
+                "direccion": "c/plutarco 2, 2\u00baA",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "ana_soria.png",
+                "patologia actual": "Depresi\u00f3n",
+                "fecha inicio": "05/07/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_009",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_085"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    },
+                    {
+                        "medicamento": "Lexat\u00edn"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_043",
+                "nombre": "Juan",
+                "apellidos": "Valverde Salado",
+                "dni": "85335738D",
+                "fecha_de_nacimiento": "13/08/1990",
+                "sexo": "Hombre",
+                "email": "juanvalverde90@gmail.com",
+                "telefono": "662356189",
+                "direccion": "c/apolo 1, 9\u00baC",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "juan_valverde.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Psicosis",
+                        "fecha inicio": "05/05/2016",
+                        "fecha final": "13/12/2016",
+                        "psiquiatra asignado": "g1_id_psiquiatra_009",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_083"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Asenapina"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_044",
+                "nombre": "Antonio",
+                "apellidos": "Vargas Almodovar",
+                "dni": "33215679L",
+                "fecha_de_nacimiento": "19/06/1999",
+                "sexo": "Hombre",
+                "email": "antoniovargas99@gmail.com",
+                "telefono": "662056089",
+                "direccion": "c/j\u00fapiter 3, 1\u00baC",
+                "codigo postal": "29005",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "antonio_vargas.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Trastorno del Espectro Autista",
+                        "fecha inicio": "29/07/2013",
+                        "fecha final": "14/01/2014",
+                        "psiquiatra asignado": "g1_id_psiquiatra_009",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_084"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Risperidona"
+                            },
+                            {
+                                "medicamento": "Aripiprazol"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_046",
+                "nombre": "Sandra",
+                "apellidos": "Conejo Labrador",
+                "dni": "30215119L",
+                "fecha_de_nacimiento": "27/12/1993",
+                "sexo": "Mujer",
+                "email": "sandraconejo93@gmail.com",
+                "telefono": "622056049",
+                "direccion": "c/arist\u00f3teles 3, 1\u00baC",
+                "codigo postal": "29002",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "sandra_conejo.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Ansiedad",
+                        "fecha inicio": "28/09/2018",
+                        "fecha final": "30/01/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_009",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_086"
+                            }
+                        ],
+                        "medicamentos asignados": [
+                            {
+                                "medicamento": "Lexatin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "g1_id_psiquiatra_010",
+        "nombre": "Miguel",
+        "apellidos": "P\u00e9rez L\u00f3pez",
+        "dni": "54411228K",
+        "fecha_de_nacimiento": "21/11/1989",
+        "sexo": "Hombre",
+        "email": "miguelperez89@gmail.com",
+        "telefono": "621458992",
+        "direccion": "c/Prado 1, \u00c1tico A",
+        "codigo postal": "29013",
+        "localidad": "M\u00e1laga",
+        "provincia": "M\u00e1laga",
+        "fotografia": "miguel_perez.png",
+        "titulacion": "Graduado en Medicina",
+        "universidad": "Universidad de UMA (UMA)",
+        "especialidad": "Psiquiatr\u00eda general",
+        "a\u00f1os antiguedad en centro": "2",
+        "numero de pacientes": "4",
+        "pacientes actuales": [
+            {
+                "_id": "g1_id_paciente_047",
+                "nombre": "Roc\u00edo",
+                "apellidos": "Saravia S\u00e1nchez",
+                "dni": "07053427T",
+                "fecha_de_nacimiento": "14/02/1990",
+                "sexo": "Mujer",
+                "email": "rociosaravia90@gmail.com",
+                "telefono": "662312135",
+                "direccion": "c/flamenco 3, 7\u00baA",
+                "codigo postal": "29001",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "rocio_saravia.png",
+                "patologia actual": "Depresi\u00f3n post-parto",
+                "fecha inicio": "17/09/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_010",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_087"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Sertralina"
+                    },
+                    {
+                        "medicamento": "Lexat\u00edn"
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_049",
+                "nombre": "Ana Mar\u00eda",
+                "apellidos": "Nevado S\u00e1nchez",
+                "dni": "07052127P",
+                "fecha_de_nacimiento": "17/08/1999",
+                "sexo": "Mujer",
+                "email": "anamarianevado99@gmail.com",
+                "telefono": "662122135",
+                "direccion": "c/naranjos 6, 7\u00baC",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "ana_maria_nevado.png",
+                "patologia actual": "Ansiedad",
+                "fecha inicio": "15/10/2020",
+                "psiquiatra asignado": "g1_id_psiquiatra_010",
+                "formularios consultas": [
+                    {
+                        "formulario": "g1_id_form_089"
+                    }
+                ],
+                "medicamentos asignados": [
+                    {
+                        "medicamento": "Lexat\u00edn"
+                    }
+                ]
+            }
+        ],
+        "pacientes antiguos": [
+            {
+                "_id": "g1_id_paciente_048",
+                "nombre": "Antonio",
+                "apellidos": "Ruiz Conejo",
+                "dni": "30215679L",
+                "fecha_de_nacimiento": "19/01/1995",
+                "sexo": "Hombre",
+                "email": "antonioruiz95@gmail.com",
+                "telefono": "663278968",
+                "direccion": "c/pajaros 1, 6\u00baC",
+                "codigo postal": "29003",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "antonio_ruiz.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Alcoholismo",
+                        "fecha inicio": "05/01/2018",
+                        "fecha final": "10/10/2018",
+                        "psiquiatra asignado": "g1_id_psiquiatra_010",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_088"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "_id": "g1_id_paciente_050",
+                "nombre": "Oscar",
+                "apellidos": "Benitez Cuevas",
+                "dni": "09076543D",
+                "fecha_de_nacimiento": "23/11/1993",
+                "sexo": "Hombre",
+                "email": "oscarbenitez93@gmail.com",
+                "telefono": "669278960",
+                "direccion": "c/cocodrilo 3, 1\u00baC",
+                "codigo postal": "29004",
+                "localidad": "M\u00e1laga",
+                "provincia": "M\u00e1laga",
+                "fotografia": "oscar_benitez.png",
+                "patologias previas": [
+                    {
+                        "patologia": "Drogadicci\u00f3n",
+                        "fecha inicio": "27/04/2019",
+                        "fecha final": "23/10/2019",
+                        "psiquiatra asignado": "g1_id_psiquiatra_010",
+                        "formularios consultas": [
+                            {
+                                "formulario": "g1_id_form_090"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
