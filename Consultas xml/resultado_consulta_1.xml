@@ -3,21 +3,21 @@
 	<item>
 		<_id>g1_id_psiquiatra_001</_id>
 		<nombre>Sara</nombre>
-		<apellidos>S·nchez Ortiz</apellidos>
+		<apellidos>S√°nchez Ortiz</apellidos>
 		<dni>92834561F</dni>
 		<fecha_de_nacimiento>12/08/1986</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>sarasanchez86@gmail.com</email>
 		<telefono>670345762</telefono>
-		<direccion>c/Edison 2, 4∫C</direccion>
+		<direccion>c/Edison 2, 4¬∫C</direccion>
 		<codigo_postal>29006</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>sara_sanchez.png</fotografia>
 		<titulacion>Graduada en Medicina</titulacion>
-		<universidad>Universidad de M·laga (UMA)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>15</aÒos_antiguedad_en_centro>
+		<universidad>Universidad de M√°laga (UMA)</universidad>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>15</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>10</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
@@ -29,14 +29,14 @@
 				<sexo>Mujer</sexo>
 				<email>martaromero92@gmail.com</email>
 				<telefono>669245569</telefono>
-				<direccion>c/manzano 5, 3∫B</direccion>
+				<direccion>c/manzano 5, 3¬∫B</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>marta_romero.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>Trastorno de estrÈs postraum·tico (TEPT)</patologia>
+						<patologia>Trastorno de estr√©s postraum√°tico (TEPT)</patologia>
 						<fecha_inicio>04/12/2005</fecha_inicio>
 						<fecha_final>18/06/2006</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -63,7 +63,7 @@
 						</pruebas_complementarias>
 					</item>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>23/08/2009</fecha_inicio>
 						<fecha_final>03/02/2010</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -102,16 +102,16 @@
 			<item>
 				<_id>g1_id_paciente_002</_id>
 				<nombre>Olivia</nombre>
-				<apellidos>CaÒete DomÌnguez</apellidos>
+				<apellidos>Ca√±ete Dom√≠nguez</apellidos>
 				<dni>74825691Z</dni>
 				<fecha_de_nacimiento>05/12/1990</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>oliviacanete_d90@gmail.com</email>
 				<telefono>695874412</telefono>
-				<direccion>c/Pintor RuÌz 12, 4∫E</direccion>
+				<direccion>c/Pintor Ru√≠z 12, 4¬∫E</direccion>
 				<codigo_postal>29007</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>olivia_canete.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -165,8 +165,8 @@
 				<telefono>632545885</telefono>
 				<direccion>c/Paseo Verde 56</direccion>
 				<codigo_postal>29014</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>lucas_romero.png</fotografia>
 				<patologia_actual>Trastorno de la personalidad</patologia_actual>
 				<fecha_inicio>30/10/2020</fecha_inicio>
@@ -185,7 +185,7 @@
 			<item>
 				<_id>g1_id_paciente_004</_id>
 				<nombre>Mario</nombre>
-				<apellidos>MartÌn PÈrez</apellidos>
+				<apellidos>Mart√≠n P√©rez</apellidos>
 				<dni>85457744B</dni>
 				<fecha_de_nacimiento>13/06/1960</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
@@ -193,12 +193,12 @@
 				<telefono>652225874</telefono>
 				<direccion>c/Castilla 39, Bajo B</direccion>
 				<codigo_postal>29007</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>mario_martin.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>19/03/2011</fecha_inicio>
 						<fecha_final>01/02/2012</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -237,16 +237,16 @@
 			<item>
 				<_id>g1_id_paciente_005</_id>
 				<nombre>Silvia</nombre>
-				<apellidos>Rom·n Huerta</apellidos>
+				<apellidos>Rom√°n Huerta</apellidos>
 				<dni>65448452F</dni>
 				<fecha_de_nacimiento>08/02/2000</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>silvia_roman00@gmail.com</email>
 				<telefono>698554782</telefono>
-				<direccion>c/Pintor Molina 12, ¡tico B</direccion>
+				<direccion>c/Pintor Molina 12, √Åtico B</direccion>
 				<codigo_postal>29010</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>silvia_roman.png</fotografia>
 				<patologia_actual>Trastorno obsesivo-compulsivo (TOC)</patologia_actual>
 				<fecha_inicio>22/10/2020</fecha_inicio>
@@ -271,10 +271,10 @@
 				<sexo>Hombre</sexo>
 				<email>pirlo_lucas93@gmail.com</email>
 				<telefono>652748411</telefono>
-				<direccion>c/JosÈ Estrada 2</direccion>
+				<direccion>c/Jos√© Estrada 2</direccion>
 				<codigo_postal>29008</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>lucas_pirlo.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -297,7 +297,7 @@
 						</medicamentos_asignados>
 					</item>
 				</patologias_previas>
-				<patologia_actual>SÌndrome de DiÛgenes</patologia_actual>
+				<patologia_actual>S√≠ndrome de Di√≥genes</patologia_actual>
 				<fecha_inicio>31/10/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 				<formularios_consultas>
@@ -313,17 +313,17 @@
 			</item>
 			<item>
 				<_id>g1_id_paciente_007</_id>
-				<nombre>JosÈ RamÛn</nombre>
-				<apellidos>LÛpez Galiana</apellidos>
+				<nombre>Jos√© Ram√≥n</nombre>
+				<apellidos>L√≥pez Galiana</apellidos>
 				<dni>85445577G</dni>
 				<fecha_de_nacimiento>02/03/1984</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>jramon_lg84@gmail.com</email>
 				<telefono>652112332</telefono>
-				<direccion>c/Emiliano 14, Portal 3, 3∫A</direccion>
+				<direccion>c/Emiliano 14, Portal 3, 3¬∫A</direccion>
 				<codigo_postal>29010</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>jose_ramon.png</fotografia>
 				<patologia_actual>Esquizofrenia</patologia_actual>
 				<fecha_inicio>07/11/2020</fecha_inicio>
@@ -351,10 +351,10 @@
 				<sexo>Mujer</sexo>
 				<email>margarita_cr94@gmail.com</email>
 				<telefono>698554771</telefono>
-				<direccion>c/RuiseÒor 25</direccion>
+				<direccion>c/Ruise√±or 25</direccion>
 				<codigo_postal>29012</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>margarita_cintrano.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -394,18 +394,18 @@
 			<item>
 				<_id>g1_id_paciente_009</_id>
 				<nombre>Melania</nombre>
-				<apellidos>Castillo del RÌo</apellidos>
+				<apellidos>Castillo del R√≠o</apellidos>
 				<dni>54548124K</dni>
 				<fecha_de_nacimiento>12/11/1986</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>melaniacastillo86@gmail.com</email>
 				<telefono>632255891</telefono>
-				<direccion>c/Pereira 3, 6∫A</direccion>
+				<direccion>c/Pereira 3, 6¬∫A</direccion>
 				<codigo_postal>29015</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>melania_castillo.png</fotografia>
-				<patologia_actual>DÈficit de AtenciÛn e Hiperactividad</patologia_actual>
+				<patologia_actual>D√©ficit de Atenci√≥n e Hiperactividad</patologia_actual>
 				<fecha_inicio>11/11/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 				<formularios_consultas>
@@ -422,18 +422,18 @@
 			<item>
 				<_id>g1_id_paciente_010</_id>
 				<nombre>Pilar</nombre>
-				<apellidos>Rueda ¡lvarez</apellidos>
+				<apellidos>Rueda √Ålvarez</apellidos>
 				<dni>787445932J</dni>
 				<fecha_de_nacimiento>18/03/1981</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>pilarrueda81@gmail.com</email>
 				<telefono>654228955</telefono>
-				<direccion>c/Leon 15, 2∫A</direccion>
+				<direccion>c/Leon 15, 2¬∫A</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>pilar_rueda.png</fotografia>
-				<patologia_actual>Trastorno de estrÈs postraum·tico (TEPT)</patologia_actual>
+				<patologia_actual>Trastorno de estr√©s postraum√°tico (TEPT)</patologia_actual>
 				<fecha_inicio>10/11/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 				<formularios_consultas>
@@ -458,14 +458,14 @@
 				<sexo>Mujer</sexo>
 				<email>martaromero92@gmail.com</email>
 				<telefono>669245569</telefono>
-				<direccion>c/manzano 5, 3∫B</direccion>
+				<direccion>c/manzano 5, 3¬∫B</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>marta_romero.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>Trastorno de estrÈs postraum·tico (TEPT)</patologia>
+						<patologia>Trastorno de estr√©s postraum√°tico (TEPT)</patologia>
 						<fecha_inicio>04/12/2005</fecha_inicio>
 						<fecha_final>18/06/2006</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -492,7 +492,7 @@
 						</pruebas_complementarias>
 					</item>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>23/08/2009</fecha_inicio>
 						<fecha_final>03/02/2010</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -531,16 +531,16 @@
 			<item>
 				<_id>g1_id_paciente_002</_id>
 				<nombre>Olivia</nombre>
-				<apellidos>CaÒete DomÌnguez</apellidos>
+				<apellidos>Ca√±ete Dom√≠nguez</apellidos>
 				<dni>74825691Z</dni>
 				<fecha_de_nacimiento>05/12/1990</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>oliviacanete_d90@gmail.com</email>
 				<telefono>695874412</telefono>
-				<direccion>c/Pintor RuÌz 12, 4∫E</direccion>
+				<direccion>c/Pintor Ru√≠z 12, 4¬∫E</direccion>
 				<codigo_postal>29007</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>olivia_canete.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -586,7 +586,7 @@
 			<item>
 				<_id>g1_id_paciente_004</_id>
 				<nombre>Mario</nombre>
-				<apellidos>MartÌn PÈrez</apellidos>
+				<apellidos>Mart√≠n P√©rez</apellidos>
 				<dni>85457744B</dni>
 				<fecha_de_nacimiento>13/06/1960</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
@@ -594,12 +594,12 @@
 				<telefono>652225874</telefono>
 				<direccion>c/Castilla 39, Bajo B</direccion>
 				<codigo_postal>29007</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>mario_martin.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>19/03/2011</fecha_inicio>
 						<fecha_final>01/02/2012</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -644,10 +644,10 @@
 				<sexo>Hombre</sexo>
 				<email>pirlo_lucas93@gmail.com</email>
 				<telefono>652748411</telefono>
-				<direccion>c/JosÈ Estrada 2</direccion>
+				<direccion>c/Jos√© Estrada 2</direccion>
 				<codigo_postal>29008</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>lucas_pirlo.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -670,7 +670,7 @@
 						</medicamentos_asignados>
 					</item>
 				</patologias_previas>
-				<patologia_actual>SÌndrome de DiÛgenes</patologia_actual>
+				<patologia_actual>S√≠ndrome de Di√≥genes</patologia_actual>
 				<fecha_inicio>31/10/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 				<formularios_consultas>
@@ -693,10 +693,10 @@
 				<sexo>Mujer</sexo>
 				<email>margarita_cr94@gmail.com</email>
 				<telefono>698554771</telefono>
-				<direccion>c/RuiseÒor 25</direccion>
+				<direccion>c/Ruise√±or 25</direccion>
 				<codigo_postal>29012</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>margarita_cintrano.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -738,36 +738,36 @@
 	<item>
 		<_id>g1_id_psiquiatra_002</_id>
 		<nombre>Roberto</nombre>
-		<apellidos>Fern·ndez Rojas</apellidos>
+		<apellidos>Fern√°ndez Rojas</apellidos>
 		<dni>32568415D</dni>
 		<fecha_de_nacimiento>26/03/1970</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>roberto_hr90@gmail.com</email>
 		<telefono>645852112</telefono>
-		<direccion>c/MarquÈs de Larios 35, 4∫C</direccion>
+		<direccion>c/Marqu√©s de Larios 35, 4¬∫C</direccion>
 		<codigo_postal>29012</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>roberto_fernandez.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
 		<universidad>Universidad de Granada (UGR)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>24</aÒos_antiguedad_en_centro>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>24</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>6</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
 				<_id>g1_id_paciente_011</_id>
 				<nombre>David</nombre>
-				<apellidos>Lasa OrdoÒez</apellidos>
+				<apellidos>Lasa Ordo√±ez</apellidos>
 				<dni>23567210K</dni>
 				<fecha_de_nacimiento>18/01/1996</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>davidlasa96@gmail.com</email>
 				<telefono>662537784</telefono>
-				<direccion>c/aceras 2, 4∫B</direccion>
+				<direccion>c/aceras 2, 4¬∫B</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>david_lasa.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -813,14 +813,14 @@
 				<sexo>Mujer</sexo>
 				<email>carmencastro80@gmail.com</email>
 				<telefono>623445237</telefono>
-				<direccion>c/romeros 7, 3∫B</direccion>
+				<direccion>c/romeros 7, 3¬∫B</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>carmen_castro.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>12/10/2009</fecha_inicio>
 						<fecha_final>03/02/2010</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -842,7 +842,7 @@
 						</medicamentos_asignados>
 					</item>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>14/07/2012</fecha_inicio>
 						<fecha_final>15/01/2013</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -887,14 +887,14 @@
 				<sexo>Hombre</sexo>
 				<email>eduardovalderrama97@gmail.com</email>
 				<telefono>662523781</telefono>
-				<direccion>c/palmeros 5, 6∫A</direccion>
+				<direccion>c/palmeros 5, 6¬∫A</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>eduardo_valderrama.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>Deficit de atenciÛn</patologia>
+						<patologia>Deficit de atenci√≥n</patologia>
 						<fecha_inicio>15/12/2008</fecha_inicio>
 						<fecha_final>01/04/2009</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -936,12 +936,12 @@
 				<sexo>Mujer</sexo>
 				<email>claralabrador00@gmail.com</email>
 				<telefono>624567731</telefono>
-				<direccion>c/aragoneses 2, 1∫A</direccion>
+				<direccion>c/aragoneses 2, 1¬∫A</direccion>
 				<codigo_postal>29004</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>clara_labrador.png</fotografia>
-				<patologia_actual>DepresiÛn</patologia_actual>
+				<patologia_actual>Depresi√≥n</patologia_actual>
 				<fecha_inicio>11/09/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
 				<formularios_consultas>
@@ -964,10 +964,10 @@
 				<sexo>Mujer</sexo>
 				<email>jimenabenitez86@gmail.com</email>
 				<telefono>672523721</telefono>
-				<direccion>c/cabrero 1, 4∫A</direccion>
+				<direccion>c/cabrero 1, 4¬∫A</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>jimena_benitez.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1001,19 +1001,19 @@
 			</item>
 			<item>
 				<_id>g1_id_paciente_016</_id>
-				<nombre>Adri·n</nombre>
+				<nombre>Adri√°n</nombre>
 				<apellidos>Pacheco Segura</apellidos>
 				<dni>23223319J</dni>
 				<fecha_de_nacimiento>03/12/2000</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>adrianpacheco00@gmail.com</email>
 				<telefono>634167739</telefono>
-				<direccion>c/hernandez 2, 1∫A</direccion>
+				<direccion>c/hernandez 2, 1¬∫A</direccion>
 				<codigo_postal>29006</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>adrian_pacheco.png</fotografia>
-				<patologia_actual>DrogadicciÛn</patologia_actual>
+				<patologia_actual>Drogadicci√≥n</patologia_actual>
 				<fecha_inicio>13/11/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
 				<formularios_consultas>
@@ -1027,16 +1027,16 @@
 			<item>
 				<_id>g1_id_paciente_011</_id>
 				<nombre>David</nombre>
-				<apellidos>Lasa OrdoÒez</apellidos>
+				<apellidos>Lasa Ordo√±ez</apellidos>
 				<dni>23567210K</dni>
 				<fecha_de_nacimiento>18/01/1996</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>davidlasa96@gmail.com</email>
 				<telefono>662537784</telefono>
-				<direccion>c/aceras 2, 4∫B</direccion>
+				<direccion>c/aceras 2, 4¬∫B</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>david_lasa.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1082,14 +1082,14 @@
 				<sexo>Mujer</sexo>
 				<email>carmencastro80@gmail.com</email>
 				<telefono>623445237</telefono>
-				<direccion>c/romeros 7, 3∫B</direccion>
+				<direccion>c/romeros 7, 3¬∫B</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>carmen_castro.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>12/10/2009</fecha_inicio>
 						<fecha_final>03/02/2010</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -1111,7 +1111,7 @@
 						</medicamentos_asignados>
 					</item>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>14/07/2012</fecha_inicio>
 						<fecha_final>15/01/2013</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -1156,14 +1156,14 @@
 				<sexo>Hombre</sexo>
 				<email>eduardovalderrama97@gmail.com</email>
 				<telefono>662523781</telefono>
-				<direccion>c/palmeros 5, 6∫A</direccion>
+				<direccion>c/palmeros 5, 6¬∫A</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>eduardo_valderrama.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>Deficit de atenciÛn</patologia>
+						<patologia>Deficit de atenci√≥n</patologia>
 						<fecha_inicio>15/12/2008</fecha_inicio>
 						<fecha_final>01/04/2009</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -1205,10 +1205,10 @@
 				<sexo>Mujer</sexo>
 				<email>jimenabenitez86@gmail.com</email>
 				<telefono>672523721</telefono>
-				<direccion>c/cabrero 1, 4∫A</direccion>
+				<direccion>c/cabrero 1, 4¬∫A</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>jimena_benitez.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1244,41 +1244,41 @@
 	</item>
 	<item>
 		<_id>g1_id_psiquiatra_003</_id>
-		<nombre>LucÌa</nombre>
-		<apellidos>Manrique PÈrez</apellidos>
+		<nombre>Luc√≠a</nombre>
+		<apellidos>Manrique P√©rez</apellidos>
 		<dni>77485124M</dni>
 		<fecha_de_nacimiento>02/02/1980</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>manrique_lucia@gmail.com</email>
 		<telefono>621452228</telefono>
-		<direccion>c/Santa LucÌa 2</direccion>
+		<direccion>c/Santa Luc√≠a 2</direccion>
 		<codigo_postal>29015</codigo_postal>
 		<localidad>Fuengirola</localidad>
-		<provincia>M·laga</provincia>
+		<provincia>M√°laga</provincia>
 		<fotografia>lucia_manrique.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
-		<universidad>Universidad de M·laga (UMA)</universidad>
-		<especialidad>NeuropsiquiatrÌa</especialidad>
-		<aÒos_antiguedad_en_centro>18</aÒos_antiguedad_en_centro>
+		<universidad>Universidad de M√°laga (UMA)</universidad>
+		<especialidad>Neuropsiquiatr√≠a</especialidad>
+		<a√±os_antiguedad_en_centro>18</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>5</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
 				<_id>g1_id_paciente_017</_id>
 				<nombre>Gabriela</nombre>
-				<apellidos>Salado San Mill·n</apellidos>
+				<apellidos>Salado San Mill√°n</apellidos>
 				<dni>23788219K</dni>
 				<fecha_de_nacimiento>21/07/1999</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>gabrielasalado99@gmail.com</email>
 				<telefono>674553729</telefono>
-				<direccion>c/capitanes 4, 2∫A</direccion>
+				<direccion>c/capitanes 4, 2¬∫A</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>gabriela_salado.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>NinfomanÌa</patologia>
+						<patologia>Ninfoman√≠a</patologia>
 						<fecha_inicio>12/03/2020</fecha_inicio>
 						<fecha_final>14/07/2020</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1309,20 +1309,20 @@
 			<item>
 				<_id>g1_id_paciente_019</_id>
 				<nombre>Marta</nombre>
-				<apellidos>Cantos MartÌn</apellidos>
+				<apellidos>Cantos Mart√≠n</apellidos>
 				<dni>16773490C</dni>
 				<fecha_de_nacimiento>23/08/1995</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>martacantos95@gmail.com</email>
 				<telefono>634528965</telefono>
-				<direccion>c/edison 3, 1∫A</direccion>
+				<direccion>c/edison 3, 1¬∫A</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>marta_cantos.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>15/09/2016</fecha_inicio>
 						<fecha_final>03/01/2017</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1364,12 +1364,12 @@
 				<sexo>Hombre</sexo>
 				<email>miguelrodriguez01@gmail.com</email>
 				<telefono>624542731</telefono>
-				<direccion>c/galvez 15, 2∫B</direccion>
+				<direccion>c/galvez 15, 2¬∫B</direccion>
 				<codigo_postal>29007</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>miguel_rodriguez.png</fotografia>
-				<patologia_actual>DrogadicciÛn</patologia_actual>
+				<patologia_actual>Drogadicci√≥n</patologia_actual>
 				<fecha_inicio>17/11/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
 				<formularios_consultas>
@@ -1383,20 +1383,20 @@
 			<item>
 				<_id>g1_id_paciente_017</_id>
 				<nombre>Gabriela</nombre>
-				<apellidos>Salado San Mill·n</apellidos>
+				<apellidos>Salado San Mill√°n</apellidos>
 				<dni>23788219K</dni>
 				<fecha_de_nacimiento>21/07/1999</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>gabrielasalado99@gmail.com</email>
 				<telefono>674553729</telefono>
-				<direccion>c/capitanes 4, 2∫A</direccion>
+				<direccion>c/capitanes 4, 2¬∫A</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>gabriela_salado.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>NinfomanÌa</patologia>
+						<patologia>Ninfoman√≠a</patologia>
 						<fecha_inicio>12/03/2020</fecha_inicio>
 						<fecha_final>14/07/2020</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1433,14 +1433,14 @@
 				<sexo>Mujer</sexo>
 				<email>irenecarrasco90@gmail.com</email>
 				<telefono>663640389</telefono>
-				<direccion>c/lipezcua 6, 5∫E</direccion>
+				<direccion>c/lipezcua 6, 5¬∫E</direccion>
 				<codigo_postal>29006</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>irene_carracsco.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>SÌndrome de Asperger</patologia>
+						<patologia>S√≠ndrome de Asperger</patologia>
 						<fecha_inicio>13/10/2002</fecha_inicio>
 						<fecha_final>28/02/2003</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1463,20 +1463,20 @@
 			<item>
 				<_id>g1_id_paciente_019</_id>
 				<nombre>Marta</nombre>
-				<apellidos>Cantos MartÌn</apellidos>
+				<apellidos>Cantos Mart√≠n</apellidos>
 				<dni>16773490C</dni>
 				<fecha_de_nacimiento>23/08/1995</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>martacantos95@gmail.com</email>
 				<telefono>634528965</telefono>
-				<direccion>c/edison 3, 1∫A</direccion>
+				<direccion>c/edison 3, 1¬∫A</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>marta_cantos.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>15/09/2016</fecha_inicio>
 						<fecha_final>03/01/2017</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1511,17 +1511,17 @@
 			</item>
 			<item>
 				<_id>g1_id_paciente_021</_id>
-				<nombre>¡lvaro</nombre>
-				<apellidos>Torres S·nchez</apellidos>
+				<nombre>√Ålvaro</nombre>
+				<apellidos>Torres S√°nchez</apellidos>
 				<dni>23499671C</dni>
 				<fecha_de_nacimiento>19/05/1987</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>alvarotorres87@gmail.com</email>
 				<telefono>663456621</telefono>
-				<direccion>c/palomas 2, 3∫B</direccion>
+				<direccion>c/palomas 2, 3¬∫B</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>alvaro_torres.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1539,7 +1539,7 @@
 						</formularios_consultas>
 					</item>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>13/02/2017</fecha_inicio>
 						<fecha_final>15/08/2017</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1567,21 +1567,21 @@
 	<item>
 		<_id>g1_id_psiquiatra_004</_id>
 		<nombre>Francisco</nombre>
-		<apellidos>Sep˙lveda Rey</apellidos>
+		<apellidos>Sep√∫lveda Rey</apellidos>
 		<dni>95624458J</dni>
 		<fecha_de_nacimiento>18/11/1979</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>franciscosepulvedarey@gmail.com</email>
 		<telefono>685998445</telefono>
-		<direccion>c/Lope de Vega 36, 1∫C</direccion>
+		<direccion>c/Lope de Vega 36, 1¬∫C</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>francisco_sepulveda.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
 		<universidad>Universidad Rey Juan Carlos (Madrid)</universidad>
-		<especialidad>PsiquiatrÌa infanto-juvenil</especialidad>
-		<aÒos_antiguedad_en_centro>5</aÒos_antiguedad_en_centro>
+		<especialidad>Psiquiatr√≠a infanto-juvenil</especialidad>
+		<a√±os_antiguedad_en_centro>5</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>4</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
@@ -1593,12 +1593,12 @@
 				<sexo>Mujer</sexo>
 				<email>raquelsutton97@gmail.com</email>
 				<telefono>619565731</telefono>
-				<direccion>c/riverano 19, 2∫E</direccion>
+				<direccion>c/riverano 19, 2¬∫E</direccion>
 				<codigo_postal>29001</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>raquel_sutton.png</fotografia>
-				<patologia_actual>DepresiÛn</patologia_actual>
+				<patologia_actual>Depresi√≥n</patologia_actual>
 				<fecha_inicio>12/09/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_004</psiquiatra_asignado>
 				<formularios_consultas>
@@ -1617,16 +1617,16 @@
 			<item>
 				<_id>g1_id_paciente_022</_id>
 				<nombre>Inmaculada</nombre>
-				<apellidos>Reyes S·nchez</apellidos>
+				<apellidos>Reyes S√°nchez</apellidos>
 				<dni>16213490C</dni>
 				<fecha_de_nacimiento>15/02/1999</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>inmareyes99@gmail.com</email>
 				<telefono>634528215</telefono>
-				<direccion>c/genezaret 3, 1∫A</direccion>
+				<direccion>c/genezaret 3, 1¬∫A</direccion>
 				<codigo_postal>29006</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>inmaculada_reyes.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1653,17 +1653,17 @@
 			<item>
 				<_id>g1_id_paciente_023</_id>
 				<nombre>Paula</nombre>
-				<apellidos>PestaÒa Cochar</apellidos>
+				<apellidos>Pesta√±a Cochar</apellidos>
 				<dni>34214469J</dni>
 				<fecha_de_nacimiento>17/09/1999</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>paulapesti99@gmail.com</email>
 				<telefono>633128221</telefono>
-				<direccion>c/aceras 2, 1∫B</direccion>
+				<direccion>c/aceras 2, 1¬∫B</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
-				<fotografia>paula_pestaÒa.png</fotografia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
+				<fotografia>paula_pesta√±a.png</fotografia>
 				<patologias_previas>
 					<item>
 						<patologia>Trastorno bipolar</patologia>
@@ -1695,10 +1695,10 @@
 				<sexo>Mujer</sexo>
 				<email>palomatrinidad96@gmail.com</email>
 				<telefono>621321780</telefono>
-				<direccion>c/trinidad 2, 1∫B</direccion>
+				<direccion>c/trinidad 2, 1¬∫B</direccion>
 				<codigo_postal>29004</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>paloma_trinidad.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1729,39 +1729,39 @@
 	</item>
 	<item>
 		<_id>g1_id_psiquiatra_005</_id>
-		<nombre>JosÈ MarÌa</nombre>
-		<apellidos>Leiva JimÈnez</apellidos>
+		<nombre>Jos√© Mar√≠a</nombre>
+		<apellidos>Leiva Jim√©nez</apellidos>
 		<dni>65956521E</dni>
 		<fecha_de_nacimiento>02/07/1991</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>jm_leiva91@gmail.com</email>
 		<telefono>652996321</telefono>
-		<direccion>c/Gloria Manilva 9, 6∫A</direccion>
+		<direccion>c/Gloria Manilva 9, 6¬∫A</direccion>
 		<codigo_postal>29010</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>jose_maria_leiva.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
-		<universidad>Universidad de M·laga (UMA)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>3</aÒos_antiguedad_en_centro>
+		<universidad>Universidad de M√°laga (UMA)</universidad>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>3</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>4</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
 				<_id>g1_id_paciente_026</_id>
 				<nombre>Fernando</nombre>
-				<apellidos>S·nchez Rodriguez</apellidos>
+				<apellidos>S√°nchez Rodriguez</apellidos>
 				<dni>19932189D</dni>
 				<fecha_de_nacimiento>27/03/2000</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>fernandosanchez00@gmail.com</email>
 				<telefono>622564731</telefono>
-				<direccion>c/ristori 12, 4∫E</direccion>
+				<direccion>c/ristori 12, 4¬∫E</direccion>
 				<codigo_postal>29001</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>fernando_sanchez.png</fotografia>
-				<patologia_actual>DrogadicciÛn</patologia_actual>
+				<patologia_actual>Drogadicci√≥n</patologia_actual>
 				<fecha_inicio>01/12/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_005</psiquiatra_asignado>
 				<formularios_consultas>
@@ -1773,20 +1773,20 @@
 			<item>
 				<_id>g1_id_paciente_027</_id>
 				<nombre>Alberto</nombre>
-				<apellidos>¡lvarez MartÌn</apellidos>
+				<apellidos>√Ålvarez Mart√≠n</apellidos>
 				<dni>16773430C</dni>
 				<fecha_de_nacimiento>11/06/1995</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>albertoalvarez95@gmail.com</email>
 				<telefono>634548965</telefono>
-				<direccion>c/martinez 3, 1∫A</direccion>
+				<direccion>c/martinez 3, 1¬∫A</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>alberto_alvarez.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>18/08/2018</fecha_inicio>
 						<fecha_final>02/01/2019</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_005</psiquiatra_asignado>
@@ -1822,16 +1822,16 @@
 			<item>
 				<_id>g1_id_paciente_029</_id>
 				<nombre>Martina</nombre>
-				<apellidos>S·nchez Rodriguez</apellidos>
+				<apellidos>S√°nchez Rodriguez</apellidos>
 				<dni>11932989D</dni>
 				<fecha_de_nacimiento>10/09/1965</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>martinasanchez65@gmail.com</email>
 				<telefono>622564831</telefono>
-				<direccion>c/·rboles 6, 4∫E</direccion>
+				<direccion>c/√°rboles 6, 4¬∫E</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>martina_sanchez.png</fotografia>
 				<patologia_actual>Demencia</patologia_actual>
 				<fecha_inicio>10/11/2020</fecha_inicio>
@@ -1855,20 +1855,20 @@
 			<item>
 				<_id>g1_id_paciente_027</_id>
 				<nombre>Alberto</nombre>
-				<apellidos>¡lvarez MartÌn</apellidos>
+				<apellidos>√Ålvarez Mart√≠n</apellidos>
 				<dni>16773430C</dni>
 				<fecha_de_nacimiento>11/06/1995</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>albertoalvarez95@gmail.com</email>
 				<telefono>634548965</telefono>
-				<direccion>c/martinez 3, 1∫A</direccion>
+				<direccion>c/martinez 3, 1¬∫A</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>alberto_alvarez.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DepresiÛn</patologia>
+						<patologia>Depresi√≥n</patologia>
 						<fecha_inicio>18/08/2018</fecha_inicio>
 						<fecha_final>02/01/2019</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_005</psiquiatra_asignado>
@@ -1910,10 +1910,10 @@
 				<sexo>Hombre</sexo>
 				<email>carlospuga00@gmail.com</email>
 				<telefono>621322680</telefono>
-				<direccion>c/puganos 2, 1∫B</direccion>
+				<direccion>c/puganos 2, 1¬∫B</direccion>
 				<codigo_postal>29001</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>carlos_puga.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -1937,7 +1937,7 @@
 	<item>
 		<_id>g1_id_psiquiatra_006</_id>
 		<nombre>Ana</nombre>
-		<apellidos>S·nchez Tom·s</apellidos>
+		<apellidos>S√°nchez Tom√°s</apellidos>
 		<dni>52628451T</dni>
 		<fecha_de_nacimiento>14/09/1980</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
@@ -1945,13 +1945,13 @@
 		<telefono>636965552</telefono>
 		<direccion>c/Rodrigo Prado 17</direccion>
 		<codigo_postal>29011</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>ana_sanchez.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
-		<universidad>Universidad de M·laga (UMA)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>5</aÒos_antiguedad_en_centro>
+		<universidad>Universidad de M√°laga (UMA)</universidad>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>5</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>5</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
@@ -1963,10 +1963,10 @@
 				<sexo>Hombre</sexo>
 				<email>pepejimenez85@gmail.com</email>
 				<telefono>629564831</telefono>
-				<direccion>c/alameda 1, 4∫A</direccion>
+				<direccion>c/alameda 1, 4¬∫A</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>pepe_jimenez.png</fotografia>
 				<patologia_actual>Alcoholismo</patologia_actual>
 				<fecha_inicio>13/10/2020</fecha_inicio>
@@ -1986,12 +1986,12 @@
 				<sexo>Hombre</sexo>
 				<email>alejandroortiz98@gmail.com</email>
 				<telefono>620564131</telefono>
-				<direccion>c/ortega 1, 2∫F</direccion>
+				<direccion>c/ortega 1, 2¬∫F</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>alejandro_ortiz.png</fotografia>
-				<patologia_actual>DrogadicciÛn</patologia_actual>
+				<patologia_actual>Drogadicci√≥n</patologia_actual>
 				<fecha_inicio>07/10/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_006</psiquiatra_asignado>
 				<formularios_consultas>
@@ -2004,21 +2004,21 @@
 		<pacientes_antiguos>
 			<item>
 				<_id>g1_id_paciente_031</_id>
-				<nombre>LucÌa</nombre>
+				<nombre>Luc√≠a</nombre>
 				<apellidos>Sanchez Lasa</apellidos>
 				<dni>34716242J</dni>
 				<fecha_de_nacimiento>14/03/1999</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>luciasanchez99@gmail.com</email>
 				<telefono>621322670</telefono>
-				<direccion>c/tulipanes 2, 1∫B</direccion>
+				<direccion>c/tulipanes 2, 1¬∫B</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>lucia_sanchez.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DrogadicciÛn</patologia>
+						<patologia>Drogadicci√≥n</patologia>
 						<fecha_inicio>02/01/2019</fecha_inicio>
 						<fecha_final>20/08/2019</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_006</psiquiatra_asignado>
@@ -2042,10 +2042,10 @@
 				<sexo>Mujer</sexo>
 				<email>cristinachamizo95@gmail.com</email>
 				<telefono>621300670</telefono>
-				<direccion>c/pistolas 2, 5∫C</direccion>
+				<direccion>c/pistolas 2, 5¬∫C</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>cristina_chamizo.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2072,16 +2072,16 @@
 			<item>
 				<_id>g1_id_paciente_034</_id>
 				<nombre>Oswaldo</nombre>
-				<apellidos>Otrelles MartÌn</apellidos>
+				<apellidos>Otrelles Mart√≠n</apellidos>
 				<dni>02056250G</dni>
 				<fecha_de_nacimiento>18/07/1960</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>oswaldootrelles60@gmail.com</email>
 				<telefono>621355670</telefono>
-				<direccion>c/estufas 2, 1∫C</direccion>
+				<direccion>c/estufas 2, 1¬∫C</direccion>
 				<codigo_postal>29007</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>oswaldo_otrelles.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2113,36 +2113,36 @@
 	<item>
 		<_id>g1_id_psiquiatra_007</_id>
 		<nombre>Manuel</nombre>
-		<apellidos>GÛmez Cabello</apellidos>
+		<apellidos>G√≥mez Cabello</apellidos>
 		<dni>63225471C</dni>
 		<fecha_de_nacimiento>29/04/1975</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>manuelgomez75@gmail.com</email>
 		<telefono>654112445</telefono>
-		<direccion>c/Marisol 3, 5∫E</direccion>
+		<direccion>c/Marisol 3, 5¬∫E</direccion>
 		<codigo_postal>29008</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>manuel_gomez.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
 		<universidad>Universidad de Granada (UGR)</universidad>
-		<especialidad>NeuropsiquiatrÌa</especialidad>
-		<aÒos_antiguedad_en_centro>8</aÒos_antiguedad_en_centro>
+		<especialidad>Neuropsiquiatr√≠a</especialidad>
+		<a√±os_antiguedad_en_centro>8</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>4</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
 				<_id>g1_id_paciente_035</_id>
-				<nombre>Ra˙l</nombre>
+				<nombre>Ra√∫l</nombre>
 				<apellidos>Manzano Olivares</apellidos>
 				<dni>23410093F</dni>
 				<fecha_de_nacimiento>01/01/1997</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>raulmanzano97@gmail.com</email>
 				<telefono>626743980</telefono>
-				<direccion>c/olivares 1, 5∫F</direccion>
+				<direccion>c/olivares 1, 5¬∫F</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>raul_manzano.png</fotografia>
 				<patologia_actual>Alcoholismo</patologia_actual>
 				<fecha_inicio>13/10/2020</fecha_inicio>
@@ -2156,18 +2156,18 @@
 			<item>
 				<_id>g1_id_paciente_038</_id>
 				<nombre>Jorge</nombre>
-				<apellidos>V·zquez Rivera</apellidos>
+				<apellidos>V√°zquez Rivera</apellidos>
 				<dni>12632100V</dni>
 				<fecha_de_nacimiento>29/03/1980</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
 				<email>jorgevazquez80@gmail.com</email>
 				<telefono>619507301</telefono>
-				<direccion>c/riverano 2, 2∫A</direccion>
+				<direccion>c/riverano 2, 2¬∫A</direccion>
 				<codigo_postal>29001</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>jorge_vazquez.png</fotografia>
-				<patologia_actual>DepresiÛn</patologia_actual>
+				<patologia_actual>Depresi√≥n</patologia_actual>
 				<fecha_inicio>12/11/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_007</psiquiatra_asignado>
 				<formularios_consultas>
@@ -2186,16 +2186,16 @@
 			<item>
 				<_id>g1_id_paciente_036</_id>
 				<nombre>Rosa</nombre>
-				<apellidos>Cuevas MartÌn</apellidos>
+				<apellidos>Cuevas Mart√≠n</apellidos>
 				<dni>02032250G</dni>
 				<fecha_de_nacimiento>23/12/1990</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>rosacuevas90@gmail.com</email>
 				<telefono>624955670</telefono>
-				<direccion>c/olivos 2, 5∫C</direccion>
+				<direccion>c/olivos 2, 5¬∫C</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>rosa_cuevas.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2231,10 +2231,10 @@
 				<sexo>Mujer</sexo>
 				<email>lolaflores86@gmail.com</email>
 				<telefono>622055670</telefono>
-				<direccion>c/flores 2, 1∫C</direccion>
+				<direccion>c/flores 2, 1¬∫C</direccion>
 				<codigo_postal>29001</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>lola_flores.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2260,38 +2260,38 @@
 	<item>
 		<_id>g1_id_psiquiatra_008</_id>
 		<nombre>Lorena</nombre>
-		<apellidos>Gonz·lez Seco</apellidos>
+		<apellidos>Gonz√°lez Seco</apellidos>
 		<dni>99854121F</dni>
 		<fecha_de_nacimiento>20/01/1988</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>lorena_gonz88@gmail.com</email>
 		<telefono>639784511</telefono>
-		<direccion>c/Roseta 8, 1∫E</direccion>
+		<direccion>c/Roseta 8, 1¬∫E</direccion>
 		<codigo_postal>29007</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>lorena_gonzalez.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
 		<universidad>Universidad de Murcia (UCAM)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>4</aÒos_antiguedad_en_centro>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>4</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>4</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
 				<_id>g1_id_paciente_041</_id>
 				<nombre>Jorge</nombre>
-				<apellidos>CaÒete Vera</apellidos>
+				<apellidos>Ca√±ete Vera</apellidos>
 				<dni>12602465W</dni>
 				<fecha_de_nacimiento>01/07/1999</fecha_de_nacimiento>
 				<sexo>Hombre</sexo>
-				<email>jorgecaÒete99@gmail.com</email>
+				<email>jorgeca√±ete99@gmail.com</email>
 				<telefono>623560731</telefono>
-				<direccion>c/caÒizos 8, 4∫A</direccion>
+				<direccion>c/ca√±izos 8, 4¬∫A</direccion>
 				<codigo_postal>29008</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
-				<fotografia>jorge_caÒete.png</fotografia>
-				<patologia_actual>DepresiÛn</patologia_actual>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
+				<fotografia>jorge_ca√±ete.png</fotografia>
+				<patologia_actual>Depresi√≥n</patologia_actual>
 				<fecha_inicio>15/09/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_008</psiquiatra_asignado>
 				<formularios_consultas>
@@ -2314,10 +2314,10 @@
 				<sexo>Hombre</sexo>
 				<email>miguelcarrasco80@gmail.com</email>
 				<telefono>695560131</telefono>
-				<direccion>c/avestruz 1, 6∫B</direccion>
+				<direccion>c/avestruz 1, 6¬∫B</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>miguel_carrasco.png</fotografia>
 				<patologia_actual>Trastorno de la personalidad</patologia_actual>
 				<fecha_inicio>17/09/2020</fecha_inicio>
@@ -2344,14 +2344,14 @@
 				<sexo>Mujer</sexo>
 				<email>rebecaortiz96@gmail.com</email>
 				<telefono>602155690</telefono>
-				<direccion>c/macetas 2, 1∫C</direccion>
+				<direccion>c/macetas 2, 1¬∫C</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>rebeca_ortiz.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DrogadicciÛn</patologia>
+						<patologia>Drogadicci√≥n</patologia>
 						<fecha_inicio>13/01/2018</fecha_inicio>
 						<fecha_final>02/08/2018</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_008</psiquiatra_asignado>
@@ -2372,10 +2372,10 @@
 				<sexo>Mujer</sexo>
 				<email>mireyagrande90@gmail.com</email>
 				<telefono>622012670</telefono>
-				<direccion>c/plazas 3, 4∫C</direccion>
+				<direccion>c/plazas 3, 4¬∫C</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>mireya_grande.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2400,8 +2400,8 @@
 	</item>
 	<item>
 		<_id>g1_id_psiquiatra_009</_id>
-		<nombre>Antonio Jes˙s</nombre>
-		<apellidos>RamÌrez Loto</apellidos>
+		<nombre>Antonio Jes√∫s</nombre>
+		<apellidos>Ram√≠rez Loto</apellidos>
 		<dni>55214489X</dni>
 		<fecha_de_nacimiento>07/07/1977</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
@@ -2409,13 +2409,13 @@
 		<telefono>651112887</telefono>
 		<direccion>c/Moreno Villa 29</direccion>
 		<codigo_postal>29012</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>antonio_jesus_ramirez.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
 		<universidad>Universidad de UMA (UMA)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>7</aÒos_antiguedad_en_centro>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>7</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>4</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
@@ -2427,12 +2427,12 @@
 				<sexo>Mujer</sexo>
 				<email>anasoria91@gmail.com</email>
 				<telefono>645321987</telefono>
-				<direccion>c/plutarco 2, 2∫A</direccion>
+				<direccion>c/plutarco 2, 2¬∫A</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>ana_soria.png</fotografia>
-				<patologia_actual>DepresiÛn</patologia_actual>
+				<patologia_actual>Depresi√≥n</patologia_actual>
 				<fecha_inicio>05/07/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_009</psiquiatra_asignado>
 				<formularios_consultas>
@@ -2445,7 +2445,7 @@
 						<medicamento>Sertralina</medicamento>
 					</item>
 					<item>
-						<medicamento>LexatÌn</medicamento>
+						<medicamento>Lexat√≠n</medicamento>
 					</item>
 				</medicamentos_asignados>
 			</item>
@@ -2460,10 +2460,10 @@
 				<sexo>Hombre</sexo>
 				<email>juanvalverde90@gmail.com</email>
 				<telefono>662356189</telefono>
-				<direccion>c/apolo 1, 9∫C</direccion>
+				<direccion>c/apolo 1, 9¬∫C</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>juan_valverde.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2493,10 +2493,10 @@
 				<sexo>Hombre</sexo>
 				<email>antoniovargas99@gmail.com</email>
 				<telefono>662056089</telefono>
-				<direccion>c/j˙piter 3, 1∫C</direccion>
+				<direccion>c/j√∫piter 3, 1¬∫C</direccion>
 				<codigo_postal>29005</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>antonio_vargas.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2529,10 +2529,10 @@
 				<sexo>Mujer</sexo>
 				<email>sandraconejo93@gmail.com</email>
 				<telefono>622056049</telefono>
-				<direccion>c/aristÛteles 3, 1∫C</direccion>
+				<direccion>c/arist√≥teles 3, 1¬∫C</direccion>
 				<codigo_postal>29002</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>sandra_conejo.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2558,38 +2558,38 @@
 	<item>
 		<_id>g1_id_psiquiatra_010</_id>
 		<nombre>Miguel</nombre>
-		<apellidos>PÈrez LÛpez</apellidos>
+		<apellidos>P√©rez L√≥pez</apellidos>
 		<dni>54411228K</dni>
 		<fecha_de_nacimiento>21/11/1989</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>miguelperez89@gmail.com</email>
 		<telefono>621458992</telefono>
-		<direccion>c/Prado 1, ¡tico A</direccion>
+		<direccion>c/Prado 1, √Åtico A</direccion>
 		<codigo_postal>29013</codigo_postal>
-		<localidad>M·laga</localidad>
-		<provincia>M·laga</provincia>
+		<localidad>M√°laga</localidad>
+		<provincia>M√°laga</provincia>
 		<fotografia>miguel_perez.png</fotografia>
 		<titulacion>Graduado en Medicina</titulacion>
 		<universidad>Universidad de UMA (UMA)</universidad>
-		<especialidad>PsiquiatrÌa general</especialidad>
-		<aÒos_antiguedad_en_centro>2</aÒos_antiguedad_en_centro>
+		<especialidad>Psiquiatr√≠a general</especialidad>
+		<a√±os_antiguedad_en_centro>2</a√±os_antiguedad_en_centro>
 		<numero_de_pacientes>4</numero_de_pacientes>
 		<pacientes_actuales>
 			<item>
 				<_id>g1_id_paciente_047</_id>
-				<nombre>RocÌo</nombre>
-				<apellidos>Saravia S·nchez</apellidos>
+				<nombre>Roc√≠o</nombre>
+				<apellidos>Saravia S√°nchez</apellidos>
 				<dni>07053427T</dni>
 				<fecha_de_nacimiento>14/02/1990</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>rociosaravia90@gmail.com</email>
 				<telefono>662312135</telefono>
-				<direccion>c/flamenco 3, 7∫A</direccion>
+				<direccion>c/flamenco 3, 7¬∫A</direccion>
 				<codigo_postal>29001</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>rocio_saravia.png</fotografia>
-				<patologia_actual>DepresiÛn post-parto</patologia_actual>
+				<patologia_actual>Depresi√≥n post-parto</patologia_actual>
 				<fecha_inicio>17/09/2020</fecha_inicio>
 				<psiquiatra_asignado>g1_id_psiquiatra_010</psiquiatra_asignado>
 				<formularios_consultas>
@@ -2602,23 +2602,23 @@
 						<medicamento>Sertralina</medicamento>
 					</item>
 					<item>
-						<medicamento>LexatÌn</medicamento>
+						<medicamento>Lexat√≠n</medicamento>
 					</item>
 				</medicamentos_asignados>
 			</item>
 			<item>
 				<_id>g1_id_paciente_049</_id>
-				<nombre>Ana MarÌa</nombre>
-				<apellidos>Nevado S·nchez</apellidos>
+				<nombre>Ana Mar√≠a</nombre>
+				<apellidos>Nevado S√°nchez</apellidos>
 				<dni>07052127P</dni>
 				<fecha_de_nacimiento>17/08/1999</fecha_de_nacimiento>
 				<sexo>Mujer</sexo>
 				<email>anamarianevado99@gmail.com</email>
 				<telefono>662122135</telefono>
-				<direccion>c/naranjos 6, 7∫C</direccion>
+				<direccion>c/naranjos 6, 7¬∫C</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>ana_maria_nevado.png</fotografia>
 				<patologia_actual>Ansiedad</patologia_actual>
 				<fecha_inicio>15/10/2020</fecha_inicio>
@@ -2630,7 +2630,7 @@
 				</formularios_consultas>
 				<medicamentos_asignados>
 					<item>
-						<medicamento>LexatÌn</medicamento>
+						<medicamento>Lexat√≠n</medicamento>
 					</item>
 				</medicamentos_asignados>
 			</item>
@@ -2645,10 +2645,10 @@
 				<sexo>Hombre</sexo>
 				<email>antonioruiz95@gmail.com</email>
 				<telefono>663278968</telefono>
-				<direccion>c/pajaros 1, 6∫C</direccion>
+				<direccion>c/pajaros 1, 6¬∫C</direccion>
 				<codigo_postal>29003</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>antonio_ruiz.png</fotografia>
 				<patologias_previas>
 					<item>
@@ -2673,14 +2673,14 @@
 				<sexo>Hombre</sexo>
 				<email>oscarbenitez93@gmail.com</email>
 				<telefono>669278960</telefono>
-				<direccion>c/cocodrilo 3, 1∫C</direccion>
+				<direccion>c/cocodrilo 3, 1¬∫C</direccion>
 				<codigo_postal>29004</codigo_postal>
-				<localidad>M·laga</localidad>
-				<provincia>M·laga</provincia>
+				<localidad>M√°laga</localidad>
+				<provincia>M√°laga</provincia>
 				<fotografia>oscar_benitez.png</fotografia>
 				<patologias_previas>
 					<item>
-						<patologia>DrogadicciÛn</patologia>
+						<patologia>Drogadicci√≥n</patologia>
 						<fecha_inicio>27/04/2019</fecha_inicio>
 						<fecha_final>23/10/2019</fecha_final>
 						<psiquiatra_asignado>g1_id_psiquiatra_010</psiquiatra_asignado>

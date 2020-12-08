@@ -4,7 +4,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
     <body>
-      <h1>Pacientes y sus formularios clasificados por patología:</h1>
+      <h1>Pacientes con sus formularios y pruebas complementarias clasificados por patología:</h1>
       <ul>
       <xsl:for-each select = "all/item">
         <li><h2><xsl:value-of select = "nombre"/>&#160;<xsl:value-of select = "apellidos"/></h2></li>

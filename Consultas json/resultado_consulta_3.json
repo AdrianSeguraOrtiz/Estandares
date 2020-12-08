@@ -2,16 +2,16 @@
     {
         "_id": "g1_id_familiar_001",
         "nombre": "Francisca",
-        "apellidos": "Pacheco P\u00e9rez",
+        "apellidos": "Pacheco Pérez",
         "dni": "02058965R",
         "fecha_de_nacimiento": "18/09/1974",
         "sexo": "Mujer",
         "email": "franciscapacheco74@gmail.com",
         "telefono": "671234489",
-        "direccion": "c/manzano 5, 3\u00baB",
+        "direccion": "c/manzano 5, 3ºB",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "francisca_pacheco.png",
         "paciente asociado": [
             {
@@ -23,14 +23,14 @@
                 "sexo": "Mujer",
                 "email": "martaromero92@gmail.com",
                 "telefono": "669245569",
-                "direccion": "c/manzano 5, 3\u00baB",
+                "direccion": "c/manzano 5, 3ºB",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "marta_romero.png",
                 "patologias previas": [
                     {
-                        "patologia": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                        "patologia": "Trastorno de estrés postraumático (TEPT)",
                         "fecha inicio": "04/12/2005",
                         "fecha final": "18/06/2006",
                         "psiquiatra asignado": "g1_id_psiquiatra_001",
@@ -57,7 +57,7 @@
                         ]
                     },
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "23/08/2009",
                         "fecha final": "03/02/2010",
                         "psiquiatra asignado": "g1_id_psiquiatra_001",
@@ -102,35 +102,35 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_001",
                 "fecha de envio": "27/12/2005",
-                "contenido": "Marta presenta claros s\u00edntomas de padecer trastorno de estr\u00e9s postraum\u00e1tico. Usted le puede servir de gran ayuda si se encarga de apartar de su vida cotidiana todos aquellos objetos, temas de conversaci\u00f3n, programas de televisi\u00f3n, etc que le recuerden lo sucedido."
+                "contenido": "Marta presenta claros síntomas de padecer trastorno de estrés postraumático. Usted le puede servir de gran ayuda si se encarga de apartar de su vida cotidiana todos aquellos objetos, temas de conversación, programas de televisión, etc que le recuerden lo sucedido."
             },
             {
                 "_id": "g1_id_mensaje_004",
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_001",
                 "fecha de envio": "24/10/2020",
-                "contenido": "Marta necesita comer y sobre todo querer hacerlo. Intentar no forzar ingestas de comidas por obligaci\u00f3n, si no demostrarle y hacerle ver que es lo mejor para ella. Tambi\u00e9n es recomendable realizar paseos diarios de baja intensidad para que reconozca su agotamiento f\u00edsico y la causa del mismo."
+                "contenido": "Marta necesita comer y sobre todo querer hacerlo. Intentar no forzar ingestas de comidas por obligación, si no demostrarle y hacerle ver que es lo mejor para ella. También es recomendable realizar paseos diarios de baja intensidad para que reconozca su agotamiento físico y la causa del mismo."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -144,25 +144,25 @@
         "sexo": "Hombre",
         "email": "pacosegura91@gmail.com",
         "telefono": "702345269",
-        "direccion": "c/nueva burra 6, 2\u00baD",
+        "direccion": "c/nueva burra 6, 2ºD",
         "codigo postal": "29004",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "paco_segura.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_002",
                 "nombre": "Olivia",
-                "apellidos": "Ca\u00f1ete Dom\u00ednguez",
+                "apellidos": "Cañete Domínguez",
                 "dni": "74825691Z",
                 "fecha_de_nacimiento": "05/12/1990",
                 "sexo": "Mujer",
                 "email": "oliviacanete_d90@gmail.com",
                 "telefono": "695874412",
-                "direccion": "c/Pintor Ru\u00edz 12, 4\u00baE",
+                "direccion": "c/Pintor Ruíz 12, 4ºE",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "olivia_canete.png",
                 "patologias previas": [
                     {
@@ -214,35 +214,35 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_002",
                 "fecha de envio": "10/10/2020",
-                "contenido": "Olivia ha realizado adecuadamente la consulta m\u00e9dica y dado que presenta s\u00edntomas de bipolaridad le aconsejamos tener una conducta paciente y por ahora ser flexible con ella hasta tener los resultados de la prueba."
+                "contenido": "Olivia ha realizado adecuadamente la consulta médica y dado que presenta síntomas de bipolaridad le aconsejamos tener una conducta paciente y por ahora ser flexible con ella hasta tener los resultados de la prueba."
             },
             {
                 "_id": "g1_id_mensaje_015",
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_002",
                 "fecha de envio": "25/11/2020",
-                "contenido": "Olivia ha mostrado cierta agresividad a la hora de aceptar su diagn\u00f3stico, es probable que se encuentre alterada en estos d\u00edas. Le rogamos paciencia en su trato y paciencia para afrontar la noticia. En caso de encontrarse m\u00e1s relajada realizar paseos diarios con ella."
+                "contenido": "Olivia ha mostrado cierta agresividad a la hora de aceptar su diagnóstico, es probable que se encuentre alterada en estos días. Le rogamos paciencia en su trato y paciencia para afrontar la noticia. En caso de encontrarse más relajada realizar paseos diarios con ella."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -250,16 +250,16 @@
     {
         "_id": "g1_id_familiar_003",
         "nombre": "Fran",
-        "apellidos": "Romero S\u00e1nchez",
+        "apellidos": "Romero Sánchez",
         "dni": "34612390R",
         "fecha_de_nacimiento": "18/09/1969",
         "sexo": "Hombre",
         "email": "franromero69@gmail.com",
         "telefono": "665234789",
-        "direccion": "c/augusto 3, 1\u00baA",
+        "direccion": "c/augusto 3, 1ºA",
         "codigo postal": "29004",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "fran_romero.png",
         "paciente asociado": [
             {
@@ -273,8 +273,8 @@
                 "telefono": "632545885",
                 "direccion": "c/Paseo Verde 56",
                 "codigo postal": "29014",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lucas_romero.png",
                 "patologia actual": "Trastorno de la personalidad",
                 "fecha inicio": "30/10/2020",
@@ -299,35 +299,35 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_003",
                 "fecha de envio": "02/11/2020",
-                "contenido": "Lucas padece un leve trastorno, sin embargo, vemos beneficioso tratar su desencaden\u00e1nte m\u00e1s que su propia enfermedad. Nos gustar\u00eda citarle a usted para poder hablar respecto ciertos asuntos."
+                "contenido": "Lucas padece un leve trastorno, sin embargo, vemos beneficioso tratar su desencadenánte más que su propia enfermedad. Nos gustaría citarle a usted para poder hablar respecto ciertos asuntos."
             },
             {
                 "_id": "g1_id_mensaje_017",
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_003",
                 "fecha de envio": "22/11/2020",
-                "contenido": "Lucas parece abrirse en la terapia. Muestra bastante predisposici\u00f3n a mejorar y su tarea es animarle e intentar hacerle ver que va por buen camino. Intentar discutir con \u00e9l lo menos posible"
+                "contenido": "Lucas parece abrirse en la terapia. Muestra bastante predisposición a mejorar y su tarea es animarle e intentar hacerle ver que va por buen camino. Intentar discutir con él lo menos posible"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -335,22 +335,22 @@
     {
         "_id": "g1_id_familiar_004",
         "nombre": "Ana",
-        "apellidos": "Mart\u00edn P\u00e9rez",
+        "apellidos": "Martín Pérez",
         "dni": "19223743K",
         "fecha_de_nacimiento": "18/09/1991",
         "sexo": "Mujer",
         "email": "anamartin91@gmail.com",
         "telefono": "634529812",
-        "direccion": "c/astorga 3, 2\u00baD",
+        "direccion": "c/astorga 3, 2ºD",
         "codigo postal": "29006",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "ana_martin.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_004",
                 "nombre": "Mario",
-                "apellidos": "Mart\u00edn P\u00e9rez",
+                "apellidos": "Martín Pérez",
                 "dni": "85457744B",
                 "fecha_de_nacimiento": "13/06/1960",
                 "sexo": "Hombre",
@@ -358,12 +358,12 @@
                 "telefono": "652225874",
                 "direccion": "c/Castilla 39, Bajo B",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "mario_martin.png",
                 "patologias previas": [
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "19/03/2011",
                         "fecha final": "01/02/2012",
                         "psiquiatra asignado": "g1_id_psiquiatra_001",
@@ -415,60 +415,60 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_004",
                 "fecha de envio": "24/11/2020",
-                "contenido": "Mario presenta cierta mejora. Sigue as\u00ed."
+                "contenido": "Mario presenta cierta mejora. Sigue así."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_005",
-        "nombre": "Mar\u00eda",
-        "apellidos": "Huerta Ordo\u00f1ez",
+        "nombre": "María",
+        "apellidos": "Huerta Ordoñez",
         "dni": "21324587N",
         "fecha_de_nacimiento": "22/09/1974",
         "sexo": "Mujer",
         "email": "mariahuerta74@gmail.com",
         "telefono": "674371443",
-        "direccion": "c/ordo\u00f1ez 2, 7\u00baB",
+        "direccion": "c/ordoñez 2, 7ºB",
         "codigo postal": "29013",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "maria_huerta.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_005",
                 "nombre": "Silvia",
-                "apellidos": "Rom\u00e1n Huerta",
+                "apellidos": "Román Huerta",
                 "dni": "65448452F",
                 "fecha_de_nacimiento": "08/02/2000",
                 "sexo": "Mujer",
                 "email": "silvia_roman00@gmail.com",
                 "telefono": "698554782",
-                "direccion": "c/Pintor Molina 12, \u00c1tico B",
+                "direccion": "c/Pintor Molina 12, Ático B",
                 "codigo postal": "29010",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "silvia_roman.png",
                 "patologia actual": "Trastorno obsesivo-compulsivo (TOC)",
                 "fecha inicio": "22/10/2020",
@@ -493,28 +493,28 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_005",
                 "fecha de envio": "23/10/2020",
-                "contenido": "El mayor problema de Silvia es su entrada en bucles de obsesi\u00f3n que le impide ver m\u00e1s all\u00e1 del problema que est\u00e9 intentando resolver. Es necesario desviar ciertas veces su atenci\u00f3n para que no se atasque en su rutina, espero que conozca algo que le pueda distraer en ciertas ocasiones. Le he dado otra cita para poder entenderla mejor"
+                "contenido": "El mayor problema de Silvia es su entrada en bucles de obsesión que le impide ver más allá del problema que esté intentando resolver. Es necesario desviar ciertas veces su atención para que no se atasque en su rutina, espero que conozca algo que le pueda distraer en ciertas ocasiones. Le he dado otra cita para poder entenderla mejor"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -528,10 +528,10 @@
         "sexo": "Hombre",
         "email": "juanpirlo90@gmail.com",
         "telefono": "671234389",
-        "direccion": "c/molina 2, 1\u00baB",
+        "direccion": "c/molina 2, 1ºB",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "juan_pirlo.png",
         "paciente asociado": [
             {
@@ -543,10 +543,10 @@
                 "sexo": "Hombre",
                 "email": "pirlo_lucas93@gmail.com",
                 "telefono": "652748411",
-                "direccion": "c/Jos\u00e9 Estrada 2",
+                "direccion": "c/José Estrada 2",
                 "codigo postal": "29008",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lucas_pirlo.png",
                 "patologias previas": [
                     {
@@ -569,7 +569,7 @@
                         ]
                     }
                 ],
-                "patologia actual": "S\u00edndrome de Di\u00f3genes",
+                "patologia actual": "Síndrome de Diógenes",
                 "fecha inicio": "31/10/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_001",
                 "formularios consultas": [
@@ -592,35 +592,35 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_006",
                 "fecha de envio": "31/10/2020",
-                "contenido": "En caso de sufrir una crisis, Lucas deber\u00e1 tomar Citalopram 1.5mg"
+                "contenido": "En caso de sufrir una crisis, Lucas deberá tomar Citalopram 1.5mg"
             },
             {
                 "_id": "g1_id_mensaje_022",
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_006",
                 "fecha de envio": "15/11/2020",
-                "contenido": "Lucas abusa de ansiol\u00edticos para calmar su ansiedad. Es necesario intentar poco a poco que vaya bajando la frecuencia de dosis"
+                "contenido": "Lucas abusa de ansiolíticos para calmar su ansiedad. Es necesario intentar poco a poco que vaya bajando la frecuencia de dosis"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -634,25 +634,25 @@
         "sexo": "Mujer",
         "email": "nereagaliana60@gmail.com",
         "telefono": "642116785",
-        "direccion": "c/trujillo 3, 8\u00baB",
+        "direccion": "c/trujillo 3, 8ºB",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "nerea_galiana.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_007",
-                "nombre": "Jos\u00e9 Ram\u00f3n",
-                "apellidos": "L\u00f3pez Galiana",
+                "nombre": "José Ramón",
+                "apellidos": "López Galiana",
                 "dni": "85445577G",
                 "fecha_de_nacimiento": "02/03/1984",
                 "sexo": "Hombre",
                 "email": "jramon_lg84@gmail.com",
                 "telefono": "652112332",
-                "direccion": "c/Emiliano 14, Portal 3, 3\u00baA",
+                "direccion": "c/Emiliano 14, Portal 3, 3ºA",
                 "codigo postal": "29010",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jose_ramon.png",
                 "patologia actual": "Esquizofrenia",
                 "fecha inicio": "07/11/2020",
@@ -680,28 +680,28 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_007",
                 "fecha de envio": "08/11/2020",
-                "contenido": "Jose Ram\u00f3n presenta claros s\u00edntomas de esquizofrenia. Le he mandado una prueba complementaria para especificar su diagn\u00f3stico. Le avisaremos cuando lleguen los resultados."
+                "contenido": "Jose Ramón presenta claros síntomas de esquizofrenia. Le he mandado una prueba complementaria para especificar su diagnóstico. Le avisaremos cuando lleguen los resultados."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -715,10 +715,10 @@
         "sexo": "Hombre",
         "email": "fernandocintrano90@gmail.com",
         "telefono": "672345762",
-        "direccion": "c/cintranos 3, 4\u00baB",
+        "direccion": "c/cintranos 3, 4ºB",
         "codigo postal": "29005",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "fernando_cintrano.png",
         "paciente asociado": [
             {
@@ -730,10 +730,10 @@
                 "sexo": "Mujer",
                 "email": "margarita_cr94@gmail.com",
                 "telefono": "698554771",
-                "direccion": "c/Ruise\u00f1or 25",
+                "direccion": "c/Ruiseñor 25",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "margarita_cintrano.png",
                 "patologias previas": [
                     {
@@ -786,62 +786,62 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_008",
                 "fecha de envio": "17/11/2020",
-                "contenido": "Margarita confirma haber retomado contacto con una amiga. Asegurese de que mantenga dicha relaci\u00f3n de la mejor forma posible y hablaremos de ello en la siguiente sesi\u00f3n."
+                "contenido": "Margarita confirma haber retomado contacto con una amiga. Asegurese de que mantenga dicha relación de la mejor forma posible y hablaremos de ello en la siguiente sesión."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_009",
-        "nombre": "Jes\u00fas",
+        "nombre": "Jesús",
         "apellidos": "Ruiz Segura",
         "dni": "98332456J",
         "fecha_de_nacimiento": "23/03/1985",
         "sexo": "Hombre",
         "email": "jesusruiz85@gmail.com",
         "telefono": "663649873",
-        "direccion": "c/castillo 4, 2\u00baA",
+        "direccion": "c/castillo 4, 2ºA",
         "codigo postal": "29006",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "jesus_ruiz.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_009",
                 "nombre": "Melania",
-                "apellidos": "Castillo del R\u00edo",
+                "apellidos": "Castillo del Río",
                 "dni": "54548124K",
                 "fecha_de_nacimiento": "12/11/1986",
                 "sexo": "Mujer",
                 "email": "melaniacastillo86@gmail.com",
                 "telefono": "632255891",
-                "direccion": "c/Pereira 3, 6\u00baA",
+                "direccion": "c/Pereira 3, 6ºA",
                 "codigo postal": "29015",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "melania_castillo.png",
-                "patologia actual": "D\u00e9ficit de Atenci\u00f3n e Hiperactividad",
+                "patologia actual": "Déficit de Atención e Hiperactividad",
                 "fecha inicio": "11/11/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_001",
                 "formularios consultas": [
@@ -864,35 +864,35 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_009",
                 "fecha de envio": "12/11/2020",
-                "contenido": "Melania necesita una zona de trabajo aislada que le permita salir de la habitaci\u00f3n, a la cual s\u00f3lo deber\u00e1 entrar para dormir. Esto le permitir\u00e1 a su cuerpo deducir inconscientemente lo que debe realizar en cada caso. La separaci\u00f3n f\u00edsica de actividades tambi\u00e9n ayuda a la mental"
+                "contenido": "Melania necesita una zona de trabajo aislada que le permita salir de la habitación, a la cual sólo deberá entrar para dormir. Esto le permitirá a su cuerpo deducir inconscientemente lo que debe realizar en cada caso. La separación física de actividades también ayuda a la mental"
             },
             {
                 "_id": "g1_id_mensaje_027",
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_009",
                 "fecha de envio": "21/11/2020",
-                "contenido": "Melania parece empeorar y tiene problemas a la hora de descansar. A su edad podr\u00eda ocasionar insomnio cr\u00f3nico. Debe tomar infusiones semejantes a la valeriana antes de dormir para mejorar su descanso"
+                "contenido": "Melania parece empeorar y tiene problemas a la hora de descansar. A su edad podría ocasionar insomnio crónico. Debe tomar infusiones semejantes a la valeriana antes de dormir para mejorar su descanso"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -900,33 +900,33 @@
     {
         "_id": "g1_id_familiar_010",
         "nombre": "Estrella",
-        "apellidos": "Rueda Garc\u00eda",
+        "apellidos": "Rueda García",
         "dni": "02356299G",
         "fecha_de_nacimiento": "29/06/1999",
         "sexo": "Mujer",
         "email": "estrellarueda99@gmail.com",
         "telefono": "645332289",
-        "direccion": "c/palacios 4, 5\u00baC",
+        "direccion": "c/palacios 4, 5ºC",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "estrella_rueda.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_010",
                 "nombre": "Pilar",
-                "apellidos": "Rueda \u00c1lvarez",
+                "apellidos": "Rueda Álvarez",
                 "dni": "787445932J",
                 "fecha_de_nacimiento": "18/03/1981",
                 "sexo": "Mujer",
                 "email": "pilarrueda81@gmail.com",
                 "telefono": "654228955",
-                "direccion": "c/Leon 15, 2\u00baA",
+                "direccion": "c/Leon 15, 2ºA",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "pilar_rueda.png",
-                "patologia actual": "Trastorno de estr\u00e9s postraum\u00e1tico (TEPT)",
+                "patologia actual": "Trastorno de estrés postraumático (TEPT)",
                 "fecha inicio": "10/11/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_001",
                 "formularios consultas": [
@@ -949,28 +949,28 @@
                 "emisor": "g1_id_psiquiatra_001",
                 "receptor": "g1_id_familiar_010",
                 "fecha de envio": "11/11/2020",
-                "contenido": "Pilar no supera lo sucedido. Revive ese momento una y otra vez culp\u00e1ndose constantemente. Nuestra terapia y su trato deben centrarse en conseguir que se perdone a s\u00ed misma"
+                "contenido": "Pilar no supera lo sucedido. Revive ese momento una y otra vez culpándose constantemente. Nuestra terapia y su trato deben centrarse en conseguir que se perdone a sí misma"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_001",
                 "nombre": "Sara",
-                "apellidos": "S\u00e1nchez Ortiz",
+                "apellidos": "Sánchez Ortiz",
                 "dni": "92834561F",
                 "fecha_de_nacimiento": "12/08/1986",
                 "sexo": "Mujer",
                 "email": "sarasanchez86@gmail.com",
                 "telefono": "670345762",
-                "direccion": "c/Edison 2, 4\u00baC",
+                "direccion": "c/Edison 2, 4ºC",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sara_sanchez.png",
                 "titulacion": "Graduada en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "15",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "15",
                 "numero de pacientes": "10"
             }
         ]
@@ -978,31 +978,31 @@
     {
         "_id": "g1_id_familiar_011",
         "nombre": "Nuria",
-        "apellidos": "Fernandez Garc\u00eda",
+        "apellidos": "Fernandez García",
         "dni": "03478299Z",
         "fecha_de_nacimiento": "23/06/1997",
         "sexo": "Mujer",
         "email": "nuriafernandez97@gmail.com",
         "telefono": "664552987",
-        "direccion": "c/nuevo campo 3, 4\u00baC",
+        "direccion": "c/nuevo campo 3, 4ºC",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "nuria_fernandez.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_011",
                 "nombre": "David",
-                "apellidos": "Lasa Ordo\u00f1ez",
+                "apellidos": "Lasa Ordoñez",
                 "dni": "23567210K",
                 "fecha_de_nacimiento": "18/01/1996",
                 "sexo": "Hombre",
                 "email": "davidlasa96@gmail.com",
                 "telefono": "662537784",
-                "direccion": "c/aceras 2, 4\u00baB",
+                "direccion": "c/aceras 2, 4ºB",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "david_lasa.png",
                 "patologias previas": [
                     {
@@ -1048,35 +1048,35 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_011",
                 "fecha de envio": "22/04/2016",
-                "contenido": "David ha bajado dr\u00e1sticamente de peso y me he considerado necesario recetarle un medicamento para la estimulaci\u00f3n de su apetito. No obstante, es un simple parche, debemos estar preparados para conseguir despertarle alguna motivaci\u00f3n que le haga cambiar de opini\u00f3n"
+                "contenido": "David ha bajado drásticamente de peso y me he considerado necesario recetarle un medicamento para la estimulación de su apetito. No obstante, es un simple parche, debemos estar preparados para conseguir despertarle alguna motivación que le haga cambiar de opinión"
             },
             {
                 "_id": "g1_id_mensaje_030",
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_011",
                 "fecha de envio": "11/10/2020",
-                "contenido": "David se encuentra angustiado por sus problemas laborales, es necesario que le apoye en ello y le muestre esperanza para que \u00e9l tambi\u00e9n la sienta"
+                "contenido": "David se encuentra angustiado por sus problemas laborales, es necesario que le apoye en ello y le muestre esperanza para que él también la sienta"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_002",
                 "nombre": "Roberto",
-                "apellidos": "Fern\u00e1ndez Rojas",
+                "apellidos": "Fernández Rojas",
                 "dni": "32568415D",
                 "fecha_de_nacimiento": "26/03/1970",
                 "sexo": "Hombre",
                 "email": "roberto_hr90@gmail.com",
                 "telefono": "645852112",
-                "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+                "direccion": "c/Marqués de Larios 35, 4ºC",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "roberto_fernandez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "24",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "24",
                 "numero de pacientes": "6"
             }
         ]
@@ -1090,10 +1090,10 @@
         "sexo": "Hombre",
         "email": "miguelaguilar00@gmail.com",
         "telefono": "674552937",
-        "direccion": "c/estrida 6, 4\u00baC",
+        "direccion": "c/estrida 6, 4ºC",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "miguel_aguilar.png",
         "paciente asociado": [
             {
@@ -1105,14 +1105,14 @@
                 "sexo": "Mujer",
                 "email": "carmencastro80@gmail.com",
                 "telefono": "623445237",
-                "direccion": "c/romeros 7, 3\u00baB",
+                "direccion": "c/romeros 7, 3ºB",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "carmen_castro.png",
                 "patologias previas": [
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "12/10/2009",
                         "fecha final": "03/02/2010",
                         "psiquiatra asignado": "g1_id_psiquiatra_002",
@@ -1134,7 +1134,7 @@
                         ]
                     },
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "14/07/2012",
                         "fecha final": "15/01/2013",
                         "psiquiatra asignado": "g1_id_psiquiatra_002",
@@ -1179,7 +1179,7 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_012",
                 "fecha de envio": "09/08/2020",
-                "contenido": "Su madre ha tenido un percance durante la consulta, no obstante hemos logrado estabilizarla. En caso de sufrir otro ataque pongase en contacto con nosotros. Le he dado cita en unos d\u00edas dado su estado"
+                "contenido": "Su madre ha tenido un percance durante la consulta, no obstante hemos logrado estabilizarla. En caso de sufrir otro ataque pongase en contacto con nosotros. Le he dado cita en unos días dado su estado"
             },
             {
                 "_id": "g1_id_mensaje_032",
@@ -1193,28 +1193,28 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_012",
                 "fecha de envio": "28/11/2020",
-                "contenido": "Carmen ha mostrado grandes mejoras desde su comienzo en terapia. Ya mismo deber\u00e1 continuar sola y es muy importante que la apoye en los primeros d\u00edas. En caso de sufrir una reca\u00edda espero que vuelvan a confiar en nosotros."
+                "contenido": "Carmen ha mostrado grandes mejoras desde su comienzo en terapia. Ya mismo deberá continuar sola y es muy importante que la apoye en los primeros días. En caso de sufrir una recaída espero que vuelvan a confiar en nosotros."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_002",
                 "nombre": "Roberto",
-                "apellidos": "Fern\u00e1ndez Rojas",
+                "apellidos": "Fernández Rojas",
                 "dni": "32568415D",
                 "fecha_de_nacimiento": "26/03/1970",
                 "sexo": "Hombre",
                 "email": "roberto_hr90@gmail.com",
                 "telefono": "645852112",
-                "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+                "direccion": "c/Marqués de Larios 35, 4ºC",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "roberto_fernandez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "24",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "24",
                 "numero de pacientes": "6"
             }
         ]
@@ -1222,16 +1222,16 @@
     {
         "_id": "g1_id_familiar_013",
         "nombre": "Francisco",
-        "apellidos": "Valderrama Garc\u00eda",
+        "apellidos": "Valderrama García",
         "dni": "03473399G",
         "fecha_de_nacimiento": "12/08/1965",
         "sexo": "Hombre",
         "email": "franciscovalderrama65@gmail.com",
         "telefono": "664534987",
-        "direccion": "c/hernandez 3, 4\u00baC",
+        "direccion": "c/hernandez 3, 4ºC",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "francisco_valderrama.png",
         "paciente asociado": [
             {
@@ -1243,14 +1243,14 @@
                 "sexo": "Hombre",
                 "email": "eduardovalderrama97@gmail.com",
                 "telefono": "662523781",
-                "direccion": "c/palmeros 5, 6\u00baA",
+                "direccion": "c/palmeros 5, 6ºA",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "eduardo_valderrama.png",
                 "patologias previas": [
                     {
-                        "patologia": "Deficit de atenci\u00f3n",
+                        "patologia": "Deficit de atención",
                         "fecha inicio": "15/12/2008",
                         "fecha final": "01/04/2009",
                         "psiquiatra asignado": "g1_id_psiquiatra_002",
@@ -1292,35 +1292,35 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_013",
                 "fecha de envio": "16/07/2020",
-                "contenido": "Eduardo se preocupa demasiado por la imagen que puedan tener las personas de \u00e9l. Resultar\u00eda beneficioso hacerle ver que lo que el piensa no debe extrapolarlo a los dem\u00e1s. Trabajad en ello."
+                "contenido": "Eduardo se preocupa demasiado por la imagen que puedan tener las personas de él. Resultaría beneficioso hacerle ver que lo que el piensa no debe extrapolarlo a los demás. Trabajad en ello."
             },
             {
                 "_id": "g1_id_mensaje_035",
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_013",
                 "fecha de envio": "22/08/2020",
-                "contenido": "Eduardo est\u00e1 cogiendo peso convenientemente, espero que siga as\u00ed esta semana. No hay que confiarse y hay que seguir apoy\u00e1ndole."
+                "contenido": "Eduardo está cogiendo peso convenientemente, espero que siga así esta semana. No hay que confiarse y hay que seguir apoyándole."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_002",
                 "nombre": "Roberto",
-                "apellidos": "Fern\u00e1ndez Rojas",
+                "apellidos": "Fernández Rojas",
                 "dni": "32568415D",
                 "fecha_de_nacimiento": "26/03/1970",
                 "sexo": "Hombre",
                 "email": "roberto_hr90@gmail.com",
                 "telefono": "645852112",
-                "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+                "direccion": "c/Marqués de Larios 35, 4ºC",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "roberto_fernandez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "24",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "24",
                 "numero de pacientes": "6"
             }
         ]
@@ -1328,16 +1328,16 @@
     {
         "_id": "g1_id_familiar_014",
         "nombre": "Margarita",
-        "apellidos": "Vera S\u00e1nchez",
+        "apellidos": "Vera Sánchez",
         "dni": "32472199G",
         "fecha_de_nacimiento": "11/09/1969",
         "sexo": "Mujer",
         "email": "margaritavera69@gmail.com",
         "telefono": "629885276",
-        "direccion": "c/tulipanes 7, 1\u00baC",
+        "direccion": "c/tulipanes 7, 1ºC",
         "codigo postal": "29004",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "margarita_vera.png",
         "paciente asociado": [
             {
@@ -1349,12 +1349,12 @@
                 "sexo": "Mujer",
                 "email": "claralabrador00@gmail.com",
                 "telefono": "624567731",
-                "direccion": "c/aragoneses 2, 1\u00baA",
+                "direccion": "c/aragoneses 2, 1ºA",
                 "codigo postal": "29004",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "clara_labrador.png",
-                "patologia actual": "Depresi\u00f3n",
+                "patologia actual": "Depresión",
                 "fecha inicio": "11/09/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_002",
                 "formularios consultas": [
@@ -1377,28 +1377,28 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_014",
                 "fecha de envio": "15/09/2020",
-                "contenido": "Clara est\u00e1 afectada por motivos personales. Si no se siente c\u00f3moda habl\u00e1ndolo es muy importante que durante los primeros d\u00edas se la respete. Es una situaci\u00f3n delicada que requiere paciencia"
+                "contenido": "Clara está afectada por motivos personales. Si no se siente cómoda hablándolo es muy importante que durante los primeros días se la respete. Es una situación delicada que requiere paciencia"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_002",
                 "nombre": "Roberto",
-                "apellidos": "Fern\u00e1ndez Rojas",
+                "apellidos": "Fernández Rojas",
                 "dni": "32568415D",
                 "fecha_de_nacimiento": "26/03/1970",
                 "sexo": "Hombre",
                 "email": "roberto_hr90@gmail.com",
                 "telefono": "645852112",
-                "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+                "direccion": "c/Marqués de Larios 35, 4ºC",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "roberto_fernandez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "24",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "24",
                 "numero de pacientes": "6"
             }
         ]
@@ -1412,10 +1412,10 @@
         "sexo": "Mujer",
         "email": "marinabenitez89@gmail.com",
         "telefono": "654223987",
-        "direccion": "c/herrera 2, 5\u00baA",
+        "direccion": "c/herrera 2, 5ºA",
         "codigo postal": "29006",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "marina_benitez.png",
         "paciente asociado": [
             {
@@ -1427,10 +1427,10 @@
                 "sexo": "Mujer",
                 "email": "jimenabenitez86@gmail.com",
                 "telefono": "672523721",
-                "direccion": "c/cabrero 1, 4\u00baA",
+                "direccion": "c/cabrero 1, 4ºA",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jimena_benitez.png",
                 "patologias previas": [
                     {
@@ -1471,35 +1471,35 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_015",
                 "fecha de envio": "08/09/2020",
-                "contenido": "Es importante que Jimena recuerde cada d\u00eda la lucha que est\u00e1 librando contra su adicci\u00f3n. Es necesario estar pendiente de que no reincida pero sin hacer persi\u00f3n para que note que confiamos en ella"
+                "contenido": "Es importante que Jimena recuerde cada día la lucha que está librando contra su adicción. Es necesario estar pendiente de que no reincida pero sin hacer persión para que note que confiamos en ella"
             },
             {
                 "_id": "g1_id_mensaje_038",
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_015",
                 "fecha de envio": "10/10/2020",
-                "contenido": "Me temo que Jimena ha vuelto a beber. Resultan normales este tipo de reca\u00eddas durante el proceso, no obstante, debe aprender que beber no es una soluci\u00f3n a sus problemas."
+                "contenido": "Me temo que Jimena ha vuelto a beber. Resultan normales este tipo de recaídas durante el proceso, no obstante, debe aprender que beber no es una solución a sus problemas."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_002",
                 "nombre": "Roberto",
-                "apellidos": "Fern\u00e1ndez Rojas",
+                "apellidos": "Fernández Rojas",
                 "dni": "32568415D",
                 "fecha_de_nacimiento": "26/03/1970",
                 "sexo": "Hombre",
                 "email": "roberto_hr90@gmail.com",
                 "telefono": "645852112",
-                "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+                "direccion": "c/Marqués de Larios 35, 4ºC",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "roberto_fernandez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "24",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "24",
                 "numero de pacientes": "6"
             }
         ]
@@ -1513,27 +1513,27 @@
         "sexo": "Hombre",
         "email": "alejandropacheco69@gmail.com",
         "telefono": "654332988",
-        "direccion": "c/flores 1, 2\u00baA",
+        "direccion": "c/flores 1, 2ºA",
         "codigo postal": "29005",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "alejandro_pacheco.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_016",
-                "nombre": "Adri\u00e1n",
+                "nombre": "Adrián",
                 "apellidos": "Pacheco Segura",
                 "dni": "23223319J",
                 "fecha_de_nacimiento": "03/12/2000",
                 "sexo": "Hombre",
                 "email": "adrianpacheco00@gmail.com",
                 "telefono": "634167739",
-                "direccion": "c/hernandez 2, 1\u00baA",
+                "direccion": "c/hernandez 2, 1ºA",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "adrian_pacheco.png",
-                "patologia actual": "Drogadicci\u00f3n",
+                "patologia actual": "Drogadicción",
                 "fecha inicio": "13/11/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_002",
                 "formularios consultas": [
@@ -1551,35 +1551,35 @@
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_016",
                 "fecha de envio": "15/11/2020",
-                "contenido": "Adri\u00e1n presenta un largo camino de desintoxicaci\u00f3n por delante. Les recomiendo realizar controles semanales que prueben su compromiso"
+                "contenido": "Adrián presenta un largo camino de desintoxicación por delante. Les recomiendo realizar controles semanales que prueben su compromiso"
             },
             {
                 "_id": "g1_id_mensaje_040",
                 "emisor": "g1_id_psiquiatra_002",
                 "receptor": "g1_id_familiar_016",
                 "fecha de envio": "29/11/2020",
-                "contenido": "Adri\u00e1n a pesar de pasar los controles muestra claros s\u00edntomas de estar bajo los efectos de la droga. Deben encontrarle alguna explicaci\u00f3n a sus resultados"
+                "contenido": "Adrián a pesar de pasar los controles muestra claros síntomas de estar bajo los efectos de la droga. Deben encontrarle alguna explicación a sus resultados"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_002",
                 "nombre": "Roberto",
-                "apellidos": "Fern\u00e1ndez Rojas",
+                "apellidos": "Fernández Rojas",
                 "dni": "32568415D",
                 "fecha_de_nacimiento": "26/03/1970",
                 "sexo": "Hombre",
                 "email": "roberto_hr90@gmail.com",
                 "telefono": "645852112",
-                "direccion": "c/Marqu\u00e9s de Larios 35, 4\u00baC",
+                "direccion": "c/Marqués de Larios 35, 4ºC",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "roberto_fernandez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "24",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "24",
                 "numero de pacientes": "6"
             }
         ]
@@ -1587,35 +1587,35 @@
     {
         "_id": "g1_id_familiar_017",
         "nombre": "Pedro",
-        "apellidos": "Salado Garc\u00eda",
+        "apellidos": "Salado García",
         "dni": "22236353T",
         "fecha_de_nacimiento": "23/11/1969",
         "sexo": "Hombre",
         "email": "pedrosalado69@gmail.com",
         "telefono": "654452338",
-        "direccion": "c/pelotas 2, 5\u00baA",
+        "direccion": "c/pelotas 2, 5ºA",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "pedro_salado.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_017",
                 "nombre": "Gabriela",
-                "apellidos": "Salado San Mill\u00e1n",
+                "apellidos": "Salado San Millán",
                 "dni": "23788219K",
                 "fecha_de_nacimiento": "21/07/1999",
                 "sexo": "Mujer",
                 "email": "gabrielasalado99@gmail.com",
                 "telefono": "674553729",
-                "direccion": "c/capitanes 4, 2\u00baA",
+                "direccion": "c/capitanes 4, 2ºA",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "gabriela_salado.png",
                 "patologias previas": [
                     {
-                        "patologia": "Ninfoman\u00eda",
+                        "patologia": "Ninfomanía",
                         "fecha inicio": "12/03/2020",
                         "fecha final": "14/07/2020",
                         "psiquiatra asignado": "g1_id_psiquiatra_003",
@@ -1652,52 +1652,52 @@
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_017",
                 "fecha de envio": "21/05/2020",
-                "contenido": "Resultar\u00eda conveniente que su hija Gabriela aumentase su vida social y pasase m\u00e1s tiempo fuera de casa. Su mayor tentaci\u00f3n es no tener nada que hacer y usar el m\u00f3vil."
+                "contenido": "Resultaría conveniente que su hija Gabriela aumentase su vida social y pasase más tiempo fuera de casa. Su mayor tentación es no tener nada que hacer y usar el móvil."
             },
             {
                 "_id": "g1_id_mensaje_042",
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_017",
                 "fecha de envio": "25/11/2020",
-                "contenido": "Su hija est\u00e1 aumentando correctamente de peso. Adem\u00e1s, tiene intenci\u00f3n de comenzar a practicar alg\u00fan deporte. Le recomiendo que la anime a ello, eso tambi\u00e9n le ayudar\u00e1 respecto a los problemas que tuvo a principios de a\u00f1o"
+                "contenido": "Su hija está aumentando correctamente de peso. Además, tiene intención de comenzar a practicar algún deporte. Le recomiendo que la anime a ello, eso también le ayudará respecto a los problemas que tuvo a principios de año"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_003",
-                "nombre": "Luc\u00eda",
-                "apellidos": "Manrique P\u00e9rez",
+                "nombre": "Lucía",
+                "apellidos": "Manrique Pérez",
                 "dni": "77485124M",
                 "fecha_de_nacimiento": "02/02/1980",
                 "sexo": "Mujer",
                 "email": "manrique_lucia@gmail.com",
                 "telefono": "621452228",
-                "direccion": "c/Santa Luc\u00eda 2",
+                "direccion": "c/Santa Lucía 2",
                 "codigo postal": "29015",
                 "localidad": "Fuengirola",
-                "provincia": "M\u00e1laga",
+                "provincia": "Málaga",
                 "fotografia": "lucia_manrique.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "18",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "18",
                 "numero de pacientes": "5"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_018",
-        "nombre": "Mar\u00eda del Carmen",
+        "nombre": "María del Carmen",
         "apellidos": "Gallego Romero",
         "dni": "23456182L",
         "fecha_de_nacimiento": "01/12/1960",
         "sexo": "Mujer",
         "email": "maricarmengallego60@gmail.com",
         "telefono": "654337218",
-        "direccion": "c/gallegos 3, 6\u00baE",
+        "direccion": "c/gallegos 3, 6ºE",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "maria_del_carmen_gallego.png",
         "paciente asociado": [
             {
@@ -1709,14 +1709,14 @@
                 "sexo": "Mujer",
                 "email": "irenecarrasco90@gmail.com",
                 "telefono": "663640389",
-                "direccion": "c/lipezcua 6, 5\u00baE",
+                "direccion": "c/lipezcua 6, 5ºE",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "irene_carracsco.png",
                 "patologias previas": [
                     {
-                        "patologia": "S\u00edndrome de Asperger",
+                        "patologia": "Síndrome de Asperger",
                         "fecha inicio": "13/10/2002",
                         "fecha final": "28/02/2003",
                         "psiquiatra asignado": "g1_id_psiquiatra_003",
@@ -1745,7 +1745,7 @@
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_018",
                 "fecha de envio": "28/11/2002",
-                "contenido": "Irene afirma haber conocido a una nueva amiga en el colegio, es muy importante que no le mostreis excesiva importancia delante de ella. Es un gran paso que hay que tratar con normalidad como si se tratase de cualquier otra ni\u00f1a."
+                "contenido": "Irene afirma haber conocido a una nueva amiga en el colegio, es muy importante que no le mostreis excesiva importancia delante de ella. Es un gran paso que hay que tratar con normalidad como si se tratase de cualquier otra niña."
             },
             {
                 "_id": "g1_id_mensaje_044",
@@ -1758,22 +1758,22 @@
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_003",
-                "nombre": "Luc\u00eda",
-                "apellidos": "Manrique P\u00e9rez",
+                "nombre": "Lucía",
+                "apellidos": "Manrique Pérez",
                 "dni": "77485124M",
                 "fecha_de_nacimiento": "02/02/1980",
                 "sexo": "Mujer",
                 "email": "manrique_lucia@gmail.com",
                 "telefono": "621452228",
-                "direccion": "c/Santa Luc\u00eda 2",
+                "direccion": "c/Santa Lucía 2",
                 "codigo postal": "29015",
                 "localidad": "Fuengirola",
-                "provincia": "M\u00e1laga",
+                "provincia": "Málaga",
                 "fotografia": "lucia_manrique.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "18",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "18",
                 "numero de pacientes": "5"
             }
         ]
@@ -1781,35 +1781,35 @@
     {
         "_id": "g1_id_familiar_019",
         "nombre": "Fernando",
-        "apellidos": "Cantos Mart\u00edn",
+        "apellidos": "Cantos Martín",
         "dni": "34213465H",
         "fecha_de_nacimiento": "12/06/1992",
         "sexo": "Hombre",
         "email": "fernandocantos92@gmail.com",
         "telefono": "651232378",
-        "direccion": "c/campos 1, 2\u00baA",
+        "direccion": "c/campos 1, 2ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "fernando_cantos.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_019",
                 "nombre": "Marta",
-                "apellidos": "Cantos Mart\u00edn",
+                "apellidos": "Cantos Martín",
                 "dni": "16773490C",
                 "fecha_de_nacimiento": "23/08/1995",
                 "sexo": "Mujer",
                 "email": "martacantos95@gmail.com",
                 "telefono": "634528965",
-                "direccion": "c/edison 3, 1\u00baA",
+                "direccion": "c/edison 3, 1ºA",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "marta_cantos.png",
                 "patologias previas": [
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "15/09/2016",
                         "fecha final": "03/01/2017",
                         "psiquiatra asignado": "g1_id_psiquiatra_003",
@@ -1851,35 +1851,35 @@
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_019",
                 "fecha de envio": "18/10/2016",
-                "contenido": "Marta se encuentra en pleno proceso de duelo por la p\u00e9rdida de vuestra madre. Es importante comprender que ante la misma situaci\u00f3n cada persona reacciona de forma distinta. Compartis el mismo dolor pero no la misma forma de afrontarlo. Necesita tu apoyo m\u00e1s que nunca y resulta preferible hablar de lo sucedido antes de forzar su censura."
+                "contenido": "Marta se encuentra en pleno proceso de duelo por la pérdida de vuestra madre. Es importante comprender que ante la misma situación cada persona reacciona de forma distinta. Compartis el mismo dolor pero no la misma forma de afrontarlo. Necesita tu apoyo más que nunca y resulta preferible hablar de lo sucedido antes de forzar su censura."
             },
             {
                 "_id": "g1_id_mensaje_046",
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_019",
                 "fecha de envio": "14/10/2020",
-                "contenido": "Marta ha sido sometida a mucha presi\u00f3n por motivos que ya conoces. Es muy autoexigente y debes hacerle ver que es normal equivocarse y que en vez de culparse tiene que aprender a saber empezar de nuevo sin atormentarse"
+                "contenido": "Marta ha sido sometida a mucha presión por motivos que ya conoces. Es muy autoexigente y debes hacerle ver que es normal equivocarse y que en vez de culparse tiene que aprender a saber empezar de nuevo sin atormentarse"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_003",
-                "nombre": "Luc\u00eda",
-                "apellidos": "Manrique P\u00e9rez",
+                "nombre": "Lucía",
+                "apellidos": "Manrique Pérez",
                 "dni": "77485124M",
                 "fecha_de_nacimiento": "02/02/1980",
                 "sexo": "Mujer",
                 "email": "manrique_lucia@gmail.com",
                 "telefono": "621452228",
-                "direccion": "c/Santa Luc\u00eda 2",
+                "direccion": "c/Santa Lucía 2",
                 "codigo postal": "29015",
                 "localidad": "Fuengirola",
-                "provincia": "M\u00e1laga",
+                "provincia": "Málaga",
                 "fotografia": "lucia_manrique.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "18",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "18",
                 "numero de pacientes": "5"
             }
         ]
@@ -1893,10 +1893,10 @@
         "sexo": "Hombre",
         "email": "juanrodriguez70@gmail.com",
         "telefono": "645332956",
-        "direccion": "c/cesar 2, 6\u00baA",
+        "direccion": "c/cesar 2, 6ºA",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "juan_rodriguez.png",
         "paciente asociado": [
             {
@@ -1908,12 +1908,12 @@
                 "sexo": "Hombre",
                 "email": "miguelrodriguez01@gmail.com",
                 "telefono": "624542731",
-                "direccion": "c/galvez 15, 2\u00baB",
+                "direccion": "c/galvez 15, 2ºB",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "miguel_rodriguez.png",
-                "patologia actual": "Drogadicci\u00f3n",
+                "patologia actual": "Drogadicción",
                 "fecha inicio": "17/11/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_003",
                 "formularios consultas": [
@@ -1931,35 +1931,35 @@
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_020",
                 "fecha de envio": "19/11/2020",
-                "contenido": "Miguel no es capaz de comprender las consecuencias y las secuelas futuras que su consumici\u00f3n puede llegar a acarrearle. No ve problema en lo que hace y esto ser\u00e1 lo primero que debemos hacerle ver. Sin ello, no ver\u00e1 motivos para dejar de consumir y por tanto no lo har\u00e1."
+                "contenido": "Miguel no es capaz de comprender las consecuencias y las secuelas futuras que su consumición puede llegar a acarrearle. No ve problema en lo que hace y esto será lo primero que debemos hacerle ver. Sin ello, no verá motivos para dejar de consumir y por tanto no lo hará."
             },
             {
                 "_id": "g1_id_mensaje_048",
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_020",
                 "fecha de envio": "01/12/2020",
-                "contenido": "Miguel me ha prometido su compromiso en el proceso de desintoxicaci\u00f3n y ha accedido a realizarse pruebas semanalmente. Es un gran paso que deb\u00e9is agradecerle."
+                "contenido": "Miguel me ha prometido su compromiso en el proceso de desintoxicación y ha accedido a realizarse pruebas semanalmente. Es un gran paso que debéis agradecerle."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_003",
-                "nombre": "Luc\u00eda",
-                "apellidos": "Manrique P\u00e9rez",
+                "nombre": "Lucía",
+                "apellidos": "Manrique Pérez",
                 "dni": "77485124M",
                 "fecha_de_nacimiento": "02/02/1980",
                 "sexo": "Mujer",
                 "email": "manrique_lucia@gmail.com",
                 "telefono": "621452228",
-                "direccion": "c/Santa Luc\u00eda 2",
+                "direccion": "c/Santa Lucía 2",
                 "codigo postal": "29015",
                 "localidad": "Fuengirola",
-                "provincia": "M\u00e1laga",
+                "provincia": "Málaga",
                 "fotografia": "lucia_manrique.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "18",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "18",
                 "numero de pacientes": "5"
             }
         ]
@@ -1967,31 +1967,31 @@
     {
         "_id": "g1_id_familiar_021",
         "nombre": "Sandra",
-        "apellidos": "Torres S\u00e1nchez",
+        "apellidos": "Torres Sánchez",
         "dni": "45236632T",
         "fecha_de_nacimiento": "09/02/1982",
         "sexo": "Mujer",
         "email": "sandratorres82@gmail.com",
         "telefono": "672193280",
-        "direccion": "c/castillos 2, 4\u00baA",
+        "direccion": "c/castillos 2, 4ºA",
         "codigo postal": "29006",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "sandra_torres.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_021",
-                "nombre": "\u00c1lvaro",
-                "apellidos": "Torres S\u00e1nchez",
+                "nombre": "Álvaro",
+                "apellidos": "Torres Sánchez",
                 "dni": "23499671C",
                 "fecha_de_nacimiento": "19/05/1987",
                 "sexo": "Hombre",
                 "email": "alvarotorres87@gmail.com",
                 "telefono": "663456621",
-                "direccion": "c/palomas 2, 3\u00baB",
+                "direccion": "c/palomas 2, 3ºB",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "alvaro_torres.png",
                 "patologias previas": [
                     {
@@ -2009,7 +2009,7 @@
                         ]
                     },
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "13/02/2017",
                         "fecha final": "15/08/2017",
                         "psiquiatra asignado": "g1_id_psiquiatra_003",
@@ -2041,35 +2041,35 @@
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_021",
                 "fecha de envio": "13/12/2010",
-                "contenido": "\u00c1lvaro ha conseguido mantenerse m\u00e1s de 1 mes sobrio. Es muy importante que se le felicite por su esfuerzo y sacrificio."
+                "contenido": "Álvaro ha conseguido mantenerse más de 1 mes sobrio. Es muy importante que se le felicite por su esfuerzo y sacrificio."
             },
             {
                 "_id": "g1_id_mensaje_050",
                 "emisor": "g1_id_psiquiatra_003",
                 "receptor": "g1_id_familiar_021",
                 "fecha de envio": "22/07/2017",
-                "contenido": "\u00c1lvaro adem\u00e1s de haber conseguido no recurrir al alcohol durante todo su tratamiento esta mostrando se\u00f1ales de mejora y aprendendiendo acerca del control de sus emociones"
+                "contenido": "Álvaro además de haber conseguido no recurrir al alcohol durante todo su tratamiento esta mostrando señales de mejora y aprendendiendo acerca del control de sus emociones"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_003",
-                "nombre": "Luc\u00eda",
-                "apellidos": "Manrique P\u00e9rez",
+                "nombre": "Lucía",
+                "apellidos": "Manrique Pérez",
                 "dni": "77485124M",
                 "fecha_de_nacimiento": "02/02/1980",
                 "sexo": "Mujer",
                 "email": "manrique_lucia@gmail.com",
                 "telefono": "621452228",
-                "direccion": "c/Santa Luc\u00eda 2",
+                "direccion": "c/Santa Lucía 2",
                 "codigo postal": "29015",
                 "localidad": "Fuengirola",
-                "provincia": "M\u00e1laga",
+                "provincia": "Málaga",
                 "fotografia": "lucia_manrique.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "18",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "18",
                 "numero de pacientes": "5"
             }
         ]
@@ -2083,25 +2083,25 @@
         "sexo": "Hombre",
         "email": "franciscoreyes67@gmail.com",
         "telefono": "672390280",
-        "direccion": "c/genezaret 3, 1\u00baA",
+        "direccion": "c/genezaret 3, 1ºA",
         "codigo postal": "29006",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "francisco_reyes.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_022",
                 "nombre": "Inmaculada",
-                "apellidos": "Reyes S\u00e1nchez",
+                "apellidos": "Reyes Sánchez",
                 "dni": "16213490C",
                 "fecha_de_nacimiento": "15/02/1999",
                 "sexo": "Mujer",
                 "email": "inmareyes99@gmail.com",
                 "telefono": "634528215",
-                "direccion": "c/genezaret 3, 1\u00baA",
+                "direccion": "c/genezaret 3, 1ºA",
                 "codigo postal": "29006",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "inmaculada_reyes.png",
                 "patologias previas": [
                     {
@@ -2134,61 +2134,61 @@
                 "emisor": "g1_id_psiquiatra_004",
                 "receptor": "g1_id_familiar_022",
                 "fecha de envio": "20/10/2019",
-                "contenido": "Inmaculada no consigue tener una visi\u00f3n objetiva de su cuerpo. Es necesario que entienda que todos los cuerpos son v\u00e1lidos mientras no sean perjudiciales para la salud propia de cada uno"
+                "contenido": "Inmaculada no consigue tener una visión objetiva de su cuerpo. Es necesario que entienda que todos los cuerpos son válidos mientras no sean perjudiciales para la salud propia de cada uno"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_004",
                 "nombre": "Francisco",
-                "apellidos": "Sep\u00falveda Rey",
+                "apellidos": "Sepúlveda Rey",
                 "dni": "95624458J",
                 "fecha_de_nacimiento": "18/11/1979",
                 "sexo": "Hombre",
                 "email": "franciscosepulvedarey@gmail.com",
                 "telefono": "685998445",
-                "direccion": "c/Lope de Vega 36, 1\u00baC",
+                "direccion": "c/Lope de Vega 36, 1ºC",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "francisco_sepulveda.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad Rey Juan Carlos (Madrid)",
-                "especialidad": "Psiquiatr\u00eda infanto-juvenil",
-                "a\u00f1os antiguedad en centro": "5",
+                "especialidad": "Psiquiatría infanto-juvenil",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_023",
-        "nombre": "Rub\u00e9n",
-        "apellidos": "Pesta\u00f1a Ca\u00f1ete",
+        "nombre": "Rubén",
+        "apellidos": "Pestaña Cañete",
         "dni": "23412312V",
         "fecha_de_nacimiento": "19/05/1967",
         "sexo": "Hombre",
-        "email": "rubenpesta\u00f1a67@gmail.com",
+        "email": "rubenpestaña67@gmail.com",
         "telefono": "680223344",
-        "direccion": "c/aceras 2, 1\u00baB",
+        "direccion": "c/aceras 2, 1ºB",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
-        "fotografia": "ruben_pesta\u00f1a.png",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
+        "fotografia": "ruben_pestaña.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_023",
                 "nombre": "Paula",
-                "apellidos": "Pesta\u00f1a Cochar",
+                "apellidos": "Pestaña Cochar",
                 "dni": "34214469J",
                 "fecha_de_nacimiento": "17/09/1999",
                 "sexo": "Mujer",
                 "email": "paulapesti99@gmail.com",
                 "telefono": "633128221",
-                "direccion": "c/aceras 2, 1\u00baB",
+                "direccion": "c/aceras 2, 1ºB",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
-                "fotografia": "paula_pesta\u00f1a.png",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
+                "fotografia": "paula_pestaña.png",
                 "patologias previas": [
                     {
                         "patologia": "Trastorno bipolar",
@@ -2220,28 +2220,28 @@
                 "emisor": "g1_id_psiquiatra_004",
                 "receptor": "g1_id_familiar_023",
                 "fecha de envio": "09/01/2019",
-                "contenido": "Paula muestra cambios repentinos en su conducta que provocan brusquedad en sus conversaciones. Hasta lograr encontrar el foco de su comportamiento le he recetado un medicamento que deber\u00eda estabilizarla"
+                "contenido": "Paula muestra cambios repentinos en su conducta que provocan brusquedad en sus conversaciones. Hasta lograr encontrar el foco de su comportamiento le he recetado un medicamento que debería estabilizarla"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_004",
                 "nombre": "Francisco",
-                "apellidos": "Sep\u00falveda Rey",
+                "apellidos": "Sepúlveda Rey",
                 "dni": "95624458J",
                 "fecha_de_nacimiento": "18/11/1979",
                 "sexo": "Hombre",
                 "email": "franciscosepulvedarey@gmail.com",
                 "telefono": "685998445",
-                "direccion": "c/Lope de Vega 36, 1\u00baC",
+                "direccion": "c/Lope de Vega 36, 1ºC",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "francisco_sepulveda.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad Rey Juan Carlos (Madrid)",
-                "especialidad": "Psiquiatr\u00eda infanto-juvenil",
-                "a\u00f1os antiguedad en centro": "5",
+                "especialidad": "Psiquiatría infanto-juvenil",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "4"
             }
         ]
@@ -2255,10 +2255,10 @@
         "sexo": "Hombre",
         "email": "robertosutton95@gmail.com",
         "telefono": "682398644",
-        "direccion": "c/riverano 19, 2\u00baE",
+        "direccion": "c/riverano 19, 2ºE",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "roberto_sutton.png",
         "paciente asociado": [
             {
@@ -2270,12 +2270,12 @@
                 "sexo": "Mujer",
                 "email": "raquelsutton97@gmail.com",
                 "telefono": "619565731",
-                "direccion": "c/riverano 19, 2\u00baE",
+                "direccion": "c/riverano 19, 2ºE",
                 "codigo postal": "29001",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "raquel_sutton.png",
-                "patologia actual": "Depresi\u00f3n",
+                "patologia actual": "Depresión",
                 "fecha inicio": "12/09/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_004",
                 "formularios consultas": [
@@ -2298,28 +2298,28 @@
                 "emisor": "g1_id_psiquiatra_004",
                 "receptor": "g1_id_familiar_024",
                 "fecha de envio": "13/10/2020",
-                "contenido": "Raquel parece recuperarse poco a poco de su depresi\u00f3n. Le comunico que a pesar de tener una lenta recuperaci\u00f3n es preferible a tener mejoras r\u00e1pidas e inestables. Es muy importante que la apoye para que no pierda su constancia en el proceso."
+                "contenido": "Raquel parece recuperarse poco a poco de su depresión. Le comunico que a pesar de tener una lenta recuperación es preferible a tener mejoras rápidas e inestables. Es muy importante que la apoye para que no pierda su constancia en el proceso."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_004",
                 "nombre": "Francisco",
-                "apellidos": "Sep\u00falveda Rey",
+                "apellidos": "Sepúlveda Rey",
                 "dni": "95624458J",
                 "fecha_de_nacimiento": "18/11/1979",
                 "sexo": "Hombre",
                 "email": "franciscosepulvedarey@gmail.com",
                 "telefono": "685998445",
-                "direccion": "c/Lope de Vega 36, 1\u00baC",
+                "direccion": "c/Lope de Vega 36, 1ºC",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "francisco_sepulveda.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad Rey Juan Carlos (Madrid)",
-                "especialidad": "Psiquiatr\u00eda infanto-juvenil",
-                "a\u00f1os antiguedad en centro": "5",
+                "especialidad": "Psiquiatría infanto-juvenil",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "4"
             }
         ]
@@ -2333,10 +2333,10 @@
         "sexo": "Mujer",
         "email": "inmaculadatrinidad94@gmail.com",
         "telefono": "654332921",
-        "direccion": "c/trinidad 2, 1\u00baB",
+        "direccion": "c/trinidad 2, 1ºB",
         "codigo postal": "29004",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "inmaculada_trinidad.png",
         "paciente asociado": [
             {
@@ -2348,10 +2348,10 @@
                 "sexo": "Mujer",
                 "email": "palomatrinidad96@gmail.com",
                 "telefono": "621321780",
-                "direccion": "c/trinidad 2, 1\u00baB",
+                "direccion": "c/trinidad 2, 1ºB",
                 "codigo postal": "29004",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "paloma_trinidad.png",
                 "patologias previas": [
                     {
@@ -2387,28 +2387,28 @@
                 "emisor": "g1_id_psiquiatra_004",
                 "receptor": "g1_id_familiar_025",
                 "fecha de envio": "28/12/2016",
-                "contenido": "Paloma no consigue diferenciar la realidad de su imaginaci\u00f3n. Dado que considero peligrosa su situaci\u00f3n he decidido mandarle una medicaci\u00f3n hasta que logremos estabilizarla"
+                "contenido": "Paloma no consigue diferenciar la realidad de su imaginación. Dado que considero peligrosa su situación he decidido mandarle una medicación hasta que logremos estabilizarla"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_004",
                 "nombre": "Francisco",
-                "apellidos": "Sep\u00falveda Rey",
+                "apellidos": "Sepúlveda Rey",
                 "dni": "95624458J",
                 "fecha_de_nacimiento": "18/11/1979",
                 "sexo": "Hombre",
                 "email": "franciscosepulvedarey@gmail.com",
                 "telefono": "685998445",
-                "direccion": "c/Lope de Vega 36, 1\u00baC",
+                "direccion": "c/Lope de Vega 36, 1ºC",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "francisco_sepulveda.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad Rey Juan Carlos (Madrid)",
-                "especialidad": "Psiquiatr\u00eda infanto-juvenil",
-                "a\u00f1os antiguedad en centro": "5",
+                "especialidad": "Psiquiatría infanto-juvenil",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "4"
             }
         ]
@@ -2416,33 +2416,33 @@
     {
         "_id": "g1_id_familiar_026",
         "nombre": "Fernando",
-        "apellidos": "S\u00e1nchez Conejo",
+        "apellidos": "Sánchez Conejo",
         "dni": "88332278G",
         "fecha_de_nacimiento": "13/09/1970",
         "sexo": "Hombre",
         "email": "fernandosanchez70@gmail.com",
         "telefono": "600234561",
-        "direccion": "c/ristori 12, 4\u00baE",
+        "direccion": "c/ristori 12, 4ºE",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "fernando_sanchez.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_026",
                 "nombre": "Fernando",
-                "apellidos": "S\u00e1nchez Rodriguez",
+                "apellidos": "Sánchez Rodriguez",
                 "dni": "19932189D",
                 "fecha_de_nacimiento": "27/03/2000",
                 "sexo": "Hombre",
                 "email": "fernandosanchez00@gmail.com",
                 "telefono": "622564731",
-                "direccion": "c/ristori 12, 4\u00baE",
+                "direccion": "c/ristori 12, 4ºE",
                 "codigo postal": "29001",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "fernando_sanchez.png",
-                "patologia actual": "Drogadicci\u00f3n",
+                "patologia actual": "Drogadicción",
                 "fecha inicio": "01/12/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_005",
                 "formularios consultas": [
@@ -2460,64 +2460,64 @@
                 "emisor": "g1_id_psiquiatra_005",
                 "receptor": "g1_id_familiar_026",
                 "fecha de envio": "02/12/2020",
-                "contenido": "Fernando argumenta que su \u00fanico motivo por el que acude al centro es la obligaci\u00f3n impuesta por sus padres. Es bueno que se preocupen por \u00e9l, sin embargo, hasta que no logre entender el da\u00f1o que causan las drogas y visualice una motivaci\u00f3n para desintoxicarse, no habr\u00e1 castigos ni terapia que le ayude."
+                "contenido": "Fernando argumenta que su único motivo por el que acude al centro es la obligación impuesta por sus padres. Es bueno que se preocupen por él, sin embargo, hasta que no logre entender el daño que causan las drogas y visualice una motivación para desintoxicarse, no habrá castigos ni terapia que le ayude."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_005",
-                "nombre": "Jos\u00e9 Mar\u00eda",
-                "apellidos": "Leiva Jim\u00e9nez",
+                "nombre": "José María",
+                "apellidos": "Leiva Jiménez",
                 "dni": "65956521E",
                 "fecha_de_nacimiento": "02/07/1991",
                 "sexo": "Hombre",
                 "email": "jm_leiva91@gmail.com",
                 "telefono": "652996321",
-                "direccion": "c/Gloria Manilva 9, 6\u00baA",
+                "direccion": "c/Gloria Manilva 9, 6ºA",
                 "codigo postal": "29010",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jose_maria_leiva.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "3",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "3",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_027",
-        "nombre": "Sof\u00eda",
-        "apellidos": "Mart\u00edn S\u00e1nchez",
+        "nombre": "Sofía",
+        "apellidos": "Martín Sánchez",
         "dni": "12892278P",
         "fecha_de_nacimiento": "13/09/1965",
         "sexo": "Mujer",
         "email": "sofiamartin65@gmail.com",
         "telefono": "667234120",
-        "direccion": "c/martinez 3, 1\u00baA",
+        "direccion": "c/martinez 3, 1ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "sofia_martin.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_027",
                 "nombre": "Alberto",
-                "apellidos": "\u00c1lvarez Mart\u00edn",
+                "apellidos": "Álvarez Martín",
                 "dni": "16773430C",
                 "fecha_de_nacimiento": "11/06/1995",
                 "sexo": "Hombre",
                 "email": "albertoalvarez95@gmail.com",
                 "telefono": "634548965",
-                "direccion": "c/martinez 3, 1\u00baA",
+                "direccion": "c/martinez 3, 1ºA",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "alberto_alvarez.png",
                 "patologias previas": [
                     {
-                        "patologia": "Depresi\u00f3n",
+                        "patologia": "Depresión",
                         "fecha inicio": "18/08/2018",
                         "fecha final": "02/01/2019",
                         "psiquiatra asignado": "g1_id_psiquiatra_005",
@@ -2559,28 +2559,28 @@
                 "emisor": "g1_id_psiquiatra_005",
                 "receptor": "g1_id_familiar_027",
                 "fecha de envio": "20/10/2020",
-                "contenido": "Alberto est\u00e1 empeorando la visi\u00f3n de sus responsabilidades y muestra impaciencia por la terapia. Debe comprender que a veces es necesario hacer pausas y dedicarle tiempo a la estabilidad mental antes de continuar trabajando. Sin salud mental lo dem\u00e1s se hace el doble de complicado. Ay\u00fademe a que sea m\u00e1s paciente con su proceso de recuperaci\u00f3n"
+                "contenido": "Alberto está empeorando la visión de sus responsabilidades y muestra impaciencia por la terapia. Debe comprender que a veces es necesario hacer pausas y dedicarle tiempo a la estabilidad mental antes de continuar trabajando. Sin salud mental lo demás se hace el doble de complicado. Ayúdeme a que sea más paciente con su proceso de recuperación"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_005",
-                "nombre": "Jos\u00e9 Mar\u00eda",
-                "apellidos": "Leiva Jim\u00e9nez",
+                "nombre": "José María",
+                "apellidos": "Leiva Jiménez",
                 "dni": "65956521E",
                 "fecha_de_nacimiento": "02/07/1991",
                 "sexo": "Hombre",
                 "email": "jm_leiva91@gmail.com",
                 "telefono": "652996321",
-                "direccion": "c/Gloria Manilva 9, 6\u00baA",
+                "direccion": "c/Gloria Manilva 9, 6ºA",
                 "codigo postal": "29010",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jose_maria_leiva.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "3",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "3",
                 "numero de pacientes": "4"
             }
         ]
@@ -2588,16 +2588,16 @@
     {
         "_id": "g1_id_familiar_028",
         "nombre": "Juan",
-        "apellidos": "Puga S\u00e1nchez",
+        "apellidos": "Puga Sánchez",
         "dni": "12802278I",
         "fecha_de_nacimiento": "13/09/1973",
         "sexo": "Hombre",
         "email": "juanpuga73@gmail.com",
         "telefono": "607254120",
-        "direccion": "c/puganos 2, 1\u00baB",
+        "direccion": "c/puganos 2, 1ºB",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "juan_puga.png",
         "paciente asociado": [
             {
@@ -2609,10 +2609,10 @@
                 "sexo": "Hombre",
                 "email": "carlospuga00@gmail.com",
                 "telefono": "621322680",
-                "direccion": "c/puganos 2, 1\u00baB",
+                "direccion": "c/puganos 2, 1ºB",
                 "codigo postal": "29001",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "carlos_puga.png",
                 "patologias previas": [
                     {
@@ -2646,22 +2646,22 @@
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_005",
-                "nombre": "Jos\u00e9 Mar\u00eda",
-                "apellidos": "Leiva Jim\u00e9nez",
+                "nombre": "José María",
+                "apellidos": "Leiva Jiménez",
                 "dni": "65956521E",
                 "fecha_de_nacimiento": "02/07/1991",
                 "sexo": "Hombre",
                 "email": "jm_leiva91@gmail.com",
                 "telefono": "652996321",
-                "direccion": "c/Gloria Manilva 9, 6\u00baA",
+                "direccion": "c/Gloria Manilva 9, 6ºA",
                 "codigo postal": "29010",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jose_maria_leiva.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "3",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "3",
                 "numero de pacientes": "4"
             }
         ]
@@ -2669,31 +2669,31 @@
     {
         "_id": "g1_id_familiar_029",
         "nombre": "Laura",
-        "apellidos": "Martinez S\u00e1nchez",
+        "apellidos": "Martinez Sánchez",
         "dni": "12803778N",
         "fecha_de_nacimiento": "16/12/1993",
         "sexo": "Mujer",
         "email": "lauramartinez93@gmail.com",
         "telefono": "607274120",
-        "direccion": "c/\u00e1rboles 6, 4\u00baE",
+        "direccion": "c/árboles 6, 4ºE",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "laura_martinez.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_029",
                 "nombre": "Martina",
-                "apellidos": "S\u00e1nchez Rodriguez",
+                "apellidos": "Sánchez Rodriguez",
                 "dni": "11932989D",
                 "fecha_de_nacimiento": "10/09/1965",
                 "sexo": "Mujer",
                 "email": "martinasanchez65@gmail.com",
                 "telefono": "622564831",
-                "direccion": "c/\u00e1rboles 6, 4\u00baE",
+                "direccion": "c/árboles 6, 4ºE",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "martina_sanchez.png",
                 "patologia actual": "Demencia",
                 "fecha inicio": "10/11/2020",
@@ -2721,28 +2721,28 @@
                 "emisor": "g1_id_psiquiatra_005",
                 "receptor": "g1_id_familiar_029",
                 "fecha de envio": "29/11/2020",
-                "contenido": "Martina empieza a tener grandes lagunas de memoria que ni siquiera ella percibe. Le he dado una fotocopia que quiero que veas con ella donde se describen una serie de ejercicios diarios para mantener la mente activa. Esto no har\u00e1 que mejore pero s\u00ed a que la p\u00e9rdida de memoria sea m\u00e1s leve."
+                "contenido": "Martina empieza a tener grandes lagunas de memoria que ni siquiera ella percibe. Le he dado una fotocopia que quiero que veas con ella donde se describen una serie de ejercicios diarios para mantener la mente activa. Esto no hará que mejore pero sí a que la pérdida de memoria sea más leve."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_005",
-                "nombre": "Jos\u00e9 Mar\u00eda",
-                "apellidos": "Leiva Jim\u00e9nez",
+                "nombre": "José María",
+                "apellidos": "Leiva Jiménez",
                 "dni": "65956521E",
                 "fecha_de_nacimiento": "02/07/1991",
                 "sexo": "Hombre",
                 "email": "jm_leiva91@gmail.com",
                 "telefono": "652996321",
-                "direccion": "c/Gloria Manilva 9, 6\u00baA",
+                "direccion": "c/Gloria Manilva 9, 6ºA",
                 "codigo postal": "29010",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jose_maria_leiva.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "3",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "3",
                 "numero de pacientes": "4"
             }
         ]
@@ -2756,10 +2756,10 @@
         "sexo": "Mujer",
         "email": "jimenajimenez87@gmail.com",
         "telefono": "604274130",
-        "direccion": "c/alameda 1, 4\u00baA",
+        "direccion": "c/alameda 1, 4ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "jimena_jimenez.png",
         "paciente asociado": [
             {
@@ -2771,10 +2771,10 @@
                 "sexo": "Hombre",
                 "email": "pepejimenez85@gmail.com",
                 "telefono": "629564831",
-                "direccion": "c/alameda 1, 4\u00baA",
+                "direccion": "c/alameda 1, 4ºA",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "pepe_jimenez.png",
                 "patologia actual": "Alcoholismo",
                 "fecha inicio": "13/10/2020",
@@ -2794,14 +2794,14 @@
                 "emisor": "g1_id_psiquiatra_006",
                 "receptor": "g1_id_familiar_030",
                 "fecha de envio": "20/10/2020",
-                "contenido": "Pepe a pesar de haber comenzado recientemente su terapia muestra gran inter\u00e9s y entrega en mantenerse sobrio y conseguir resistirse a las tentaciones que le somete su adicci\u00f3n. Es muy importante que no pierda esta motivaci\u00f3n que le haga recordar los beneficios que tiene no beber"
+                "contenido": "Pepe a pesar de haber comenzado recientemente su terapia muestra gran interés y entrega en mantenerse sobrio y conseguir resistirse a las tentaciones que le somete su adicción. Es muy importante que no pierda esta motivación que le haga recordar los beneficios que tiene no beber"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_006",
                 "nombre": "Ana",
-                "apellidos": "S\u00e1nchez Tom\u00e1s",
+                "apellidos": "Sánchez Tomás",
                 "dni": "52628451T",
                 "fecha_de_nacimiento": "14/09/1980",
                 "sexo": "Mujer",
@@ -2809,13 +2809,13 @@
                 "telefono": "636965552",
                 "direccion": "c/Rodrigo Prado 17",
                 "codigo postal": "29011",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_sanchez.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "5",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "5"
             }
         ]
@@ -2823,35 +2823,35 @@
     {
         "_id": "g1_id_familiar_031",
         "nombre": "Jose",
-        "apellidos": "S\u00e1nchez Ortiz",
+        "apellidos": "Sánchez Ortiz",
         "dni": "55321920Y",
         "fecha_de_nacimiento": "23/04/1975",
         "sexo": "Hombre",
         "email": "josesanchez75@gmail.com",
         "telefono": "605284130",
-        "direccion": "c/tulipanes 2, 1\u00baB",
+        "direccion": "c/tulipanes 2, 1ºB",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "jose_sanchez.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_031",
-                "nombre": "Luc\u00eda",
+                "nombre": "Lucía",
                 "apellidos": "Sanchez Lasa",
                 "dni": "34716242J",
                 "fecha_de_nacimiento": "14/03/1999",
                 "sexo": "Mujer",
                 "email": "luciasanchez99@gmail.com",
                 "telefono": "621322670",
-                "direccion": "c/tulipanes 2, 1\u00baB",
+                "direccion": "c/tulipanes 2, 1ºB",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lucia_sanchez.png",
                 "patologias previas": [
                     {
-                        "patologia": "Drogadicci\u00f3n",
+                        "patologia": "Drogadicción",
                         "fecha inicio": "02/01/2019",
                         "fecha final": "20/08/2019",
                         "psiquiatra asignado": "g1_id_psiquiatra_006",
@@ -2875,14 +2875,14 @@
                 "emisor": "g1_id_psiquiatra_006",
                 "receptor": "g1_id_familiar_031",
                 "fecha de envio": "04/03/2019",
-                "contenido": "Luc\u00eda parece haber comprendido la necesidad de su desintoxicaci\u00f3n. Adem\u00e1s, a diferencia de los casos habituales sus amistades parecen apoyarla y ayudarla en el proceso, lo cual es un factor fundamental en el tratamiento."
+                "contenido": "Lucía parece haber comprendido la necesidad de su desintoxicación. Además, a diferencia de los casos habituales sus amistades parecen apoyarla y ayudarla en el proceso, lo cual es un factor fundamental en el tratamiento."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_006",
                 "nombre": "Ana",
-                "apellidos": "S\u00e1nchez Tom\u00e1s",
+                "apellidos": "Sánchez Tomás",
                 "dni": "52628451T",
                 "fecha_de_nacimiento": "14/09/1980",
                 "sexo": "Mujer",
@@ -2890,13 +2890,13 @@
                 "telefono": "636965552",
                 "direccion": "c/Rodrigo Prado 17",
                 "codigo postal": "29011",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_sanchez.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "5",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "5"
             }
         ]
@@ -2910,10 +2910,10 @@
         "sexo": "Hombre",
         "email": "pacochamizo92@gmail.com",
         "telefono": "695224140",
-        "direccion": "c/escopetas 2, 1\u00baB",
+        "direccion": "c/escopetas 2, 1ºB",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "paco_chamizo.png",
         "paciente asociado": [
             {
@@ -2925,10 +2925,10 @@
                 "sexo": "Mujer",
                 "email": "cristinachamizo95@gmail.com",
                 "telefono": "621300670",
-                "direccion": "c/pistolas 2, 5\u00baC",
+                "direccion": "c/pistolas 2, 5ºC",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "cristina_chamizo.png",
                 "patologias previas": [
                     {
@@ -2968,7 +2968,7 @@
             {
                 "_id": "g1_id_psiquiatra_006",
                 "nombre": "Ana",
-                "apellidos": "S\u00e1nchez Tom\u00e1s",
+                "apellidos": "Sánchez Tomás",
                 "dni": "52628451T",
                 "fecha_de_nacimiento": "14/09/1980",
                 "sexo": "Mujer",
@@ -2976,13 +2976,13 @@
                 "telefono": "636965552",
                 "direccion": "c/Rodrigo Prado 17",
                 "codigo postal": "29011",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_sanchez.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "5",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "5"
             }
         ]
@@ -2996,10 +2996,10 @@
         "sexo": "Mujer",
         "email": "blancaortega71@gmail.com",
         "telefono": "60130244",
-        "direccion": "c/ortega 1, 2\u00baF",
+        "direccion": "c/ortega 1, 2ºF",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "blanca_ortega.png",
         "paciente asociado": [
             {
@@ -3011,12 +3011,12 @@
                 "sexo": "Hombre",
                 "email": "alejandroortiz98@gmail.com",
                 "telefono": "620564131",
-                "direccion": "c/ortega 1, 2\u00baF",
+                "direccion": "c/ortega 1, 2ºF",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "alejandro_ortiz.png",
-                "patologia actual": "Drogadicci\u00f3n",
+                "patologia actual": "Drogadicción",
                 "fecha inicio": "07/10/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_006",
                 "formularios consultas": [
@@ -3034,14 +3034,14 @@
                 "emisor": "g1_id_psiquiatra_006",
                 "receptor": "g1_id_familiar_033",
                 "fecha de envio": "12/11/2020",
-                "contenido": "Alejandro sigue teniendo recaidas muy frecuentes. Necesitamos aumentar su motivaci\u00f3n para que ponga m\u00e1s empe\u00f1o en la terapia"
+                "contenido": "Alejandro sigue teniendo recaidas muy frecuentes. Necesitamos aumentar su motivación para que ponga más empeño en la terapia"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_006",
                 "nombre": "Ana",
-                "apellidos": "S\u00e1nchez Tom\u00e1s",
+                "apellidos": "Sánchez Tomás",
                 "dni": "52628451T",
                 "fecha_de_nacimiento": "14/09/1980",
                 "sexo": "Mujer",
@@ -3049,45 +3049,45 @@
                 "telefono": "636965552",
                 "direccion": "c/Rodrigo Prado 17",
                 "codigo postal": "29011",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_sanchez.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "5",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "5"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_034",
-        "nombre": "Ra\u00fal",
-        "apellidos": "Otrelles Mart\u00edn",
+        "nombre": "Raúl",
+        "apellidos": "Otrelles Martín",
         "dni": "32445127G",
         "fecha_de_nacimiento": "22/02/1965",
         "sexo": "Hombre",
         "email": "raulotrelles65@gmail.com",
         "telefono": "62530244",
-        "direccion": "c/zapatero 1, 2\u00baA",
+        "direccion": "c/zapatero 1, 2ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "raul_otrelles.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_034",
                 "nombre": "Oswaldo",
-                "apellidos": "Otrelles Mart\u00edn",
+                "apellidos": "Otrelles Martín",
                 "dni": "02056250G",
                 "fecha_de_nacimiento": "18/07/1960",
                 "sexo": "Hombre",
                 "email": "oswaldootrelles60@gmail.com",
                 "telefono": "621355670",
-                "direccion": "c/estufas 2, 1\u00baC",
+                "direccion": "c/estufas 2, 1ºC",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "oswaldo_otrelles.png",
                 "patologias previas": [
                     {
@@ -3123,14 +3123,14 @@
                 "emisor": "g1_id_psiquiatra_006",
                 "receptor": "g1_id_familiar_034",
                 "fecha de envio": "20/10/2017",
-                "contenido": "Oswaldo parece haber estancado temporalmente su degradaci\u00f3n mental. Es algo bueno aunque no tiene explicaci\u00f3n. Esperemos que continue as\u00ed y en caso de empeorar p\u00f3ngase en contacto con el centro"
+                "contenido": "Oswaldo parece haber estancado temporalmente su degradación mental. Es algo bueno aunque no tiene explicación. Esperemos que continue así y en caso de empeorar póngase en contacto con el centro"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_006",
                 "nombre": "Ana",
-                "apellidos": "S\u00e1nchez Tom\u00e1s",
+                "apellidos": "Sánchez Tomás",
                 "dni": "52628451T",
                 "fecha_de_nacimiento": "14/09/1980",
                 "sexo": "Mujer",
@@ -3138,13 +3138,13 @@
                 "telefono": "636965552",
                 "direccion": "c/Rodrigo Prado 17",
                 "codigo postal": "29011",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_sanchez.png",
                 "titulacion": "Graduado en Medicina",
-                "universidad": "Universidad de M\u00e1laga (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "5",
+                "universidad": "Universidad de Málaga (UMA)",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "5",
                 "numero de pacientes": "5"
             }
         ]
@@ -3158,25 +3158,25 @@
         "sexo": "Mujer",
         "email": "estrellamanzano95@gmail.com",
         "telefono": "634221794",
-        "direccion": "c/choricero 3, 1\u00baA",
+        "direccion": "c/choricero 3, 1ºA",
         "codigo postal": "29004",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "estrella_manzano.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_035",
-                "nombre": "Ra\u00fal",
+                "nombre": "Raúl",
                 "apellidos": "Manzano Olivares",
                 "dni": "23410093F",
                 "fecha_de_nacimiento": "01/01/1997",
                 "sexo": "Hombre",
                 "email": "raulmanzano97@gmail.com",
                 "telefono": "626743980",
-                "direccion": "c/olivares 1, 5\u00baF",
+                "direccion": "c/olivares 1, 5ºF",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "raul_manzano.png",
                 "patologia actual": "Alcoholismo",
                 "fecha inicio": "13/10/2020",
@@ -3196,28 +3196,28 @@
                 "emisor": "g1_id_psiquiatra_007",
                 "receptor": "g1_id_familiar_035",
                 "fecha de envio": "15/10/2020",
-                "contenido": "Ra\u00fal presenta un caso grave de alcoholismo dada las altas cantidades de consumici\u00f3n que ha consentido durante varios a\u00f1os. En casos as\u00ed, puesto que hay altas probabilidades de reincidencia, es muy importante realizar un seguimiento diario cuya principal vigilante ser\u00e1 usted."
+                "contenido": "Raúl presenta un caso grave de alcoholismo dada las altas cantidades de consumición que ha consentido durante varios años. En casos así, puesto que hay altas probabilidades de reincidencia, es muy importante realizar un seguimiento diario cuya principal vigilante será usted."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_007",
                 "nombre": "Manuel",
-                "apellidos": "G\u00f3mez Cabello",
+                "apellidos": "Gómez Cabello",
                 "dni": "63225471C",
                 "fecha_de_nacimiento": "29/04/1975",
                 "sexo": "Hombre",
                 "email": "manuelgomez75@gmail.com",
                 "telefono": "654112445",
-                "direccion": "c/Marisol 3, 5\u00baE",
+                "direccion": "c/Marisol 3, 5ºE",
                 "codigo postal": "29008",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "manuel_gomez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "8",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "8",
                 "numero de pacientes": "4"
             }
         ]
@@ -3231,25 +3231,25 @@
         "sexo": "Hombre",
         "email": "jorgecuevas60@gmail.com",
         "telefono": "634021732",
-        "direccion": "c/matagallos 3, 1\u00baA",
+        "direccion": "c/matagallos 3, 1ºA",
         "codigo postal": "29004",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "jorge_cuevas.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_036",
                 "nombre": "Rosa",
-                "apellidos": "Cuevas Mart\u00edn",
+                "apellidos": "Cuevas Martín",
                 "dni": "02032250G",
                 "fecha_de_nacimiento": "23/12/1990",
                 "sexo": "Mujer",
                 "email": "rosacuevas90@gmail.com",
                 "telefono": "624955670",
-                "direccion": "c/olivos 2, 5\u00baC",
+                "direccion": "c/olivos 2, 5ºC",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "rosa_cuevas.png",
                 "patologias previas": [
                     {
@@ -3285,28 +3285,28 @@
                 "emisor": "g1_id_psiquiatra_007",
                 "receptor": "g1_id_familiar_036",
                 "fecha de envio": "12/12/2018",
-                "contenido": "Rosa comienza a mejorar progresivamente. Es hora de bajar las dosis de la medicaci\u00f3n poco a poco para ver que tal reacciona"
+                "contenido": "Rosa comienza a mejorar progresivamente. Es hora de bajar las dosis de la medicación poco a poco para ver que tal reacciona"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_007",
                 "nombre": "Manuel",
-                "apellidos": "G\u00f3mez Cabello",
+                "apellidos": "Gómez Cabello",
                 "dni": "63225471C",
                 "fecha_de_nacimiento": "29/04/1975",
                 "sexo": "Hombre",
                 "email": "manuelgomez75@gmail.com",
                 "telefono": "654112445",
-                "direccion": "c/Marisol 3, 5\u00baE",
+                "direccion": "c/Marisol 3, 5ºE",
                 "codigo postal": "29008",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "manuel_gomez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "8",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "8",
                 "numero de pacientes": "4"
             }
         ]
@@ -3320,10 +3320,10 @@
         "sexo": "Mujer",
         "email": "carlaflores89@gmail.com",
         "telefono": "634021222",
-        "direccion": "c/camperos 4, 1\u00baA",
+        "direccion": "c/camperos 4, 1ºA",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "carla_flores.png",
         "paciente asociado": [
             {
@@ -3335,10 +3335,10 @@
                 "sexo": "Mujer",
                 "email": "lolaflores86@gmail.com",
                 "telefono": "622055670",
-                "direccion": "c/flores 2, 1\u00baC",
+                "direccion": "c/flores 2, 1ºC",
                 "codigo postal": "29001",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lola_flores.png",
                 "patologias previas": [
                     {
@@ -3368,28 +3368,28 @@
                 "emisor": "g1_id_psiquiatra_007",
                 "receptor": "g1_id_familiar_037",
                 "fecha de envio": "15/10/2016",
-                "contenido": "Lola parece suavizar sus cambios de personalidad y controlar con mayor precisi\u00f3n sus emociones. Es importante que la animeis a que siga esforz\u00e1ndose para cumplir sus objetivos"
+                "contenido": "Lola parece suavizar sus cambios de personalidad y controlar con mayor precisión sus emociones. Es importante que la animeis a que siga esforzándose para cumplir sus objetivos"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_007",
                 "nombre": "Manuel",
-                "apellidos": "G\u00f3mez Cabello",
+                "apellidos": "Gómez Cabello",
                 "dni": "63225471C",
                 "fecha_de_nacimiento": "29/04/1975",
                 "sexo": "Hombre",
                 "email": "manuelgomez75@gmail.com",
                 "telefono": "654112445",
-                "direccion": "c/Marisol 3, 5\u00baE",
+                "direccion": "c/Marisol 3, 5ºE",
                 "codigo postal": "29008",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "manuel_gomez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "8",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "8",
                 "numero de pacientes": "4"
             }
         ]
@@ -3397,33 +3397,33 @@
     {
         "_id": "g1_id_familiar_038",
         "nombre": "Alberto",
-        "apellidos": "V\u00e1zquez Rivera",
+        "apellidos": "Vázquez Rivera",
         "dni": "39842379E",
         "fecha_de_nacimiento": "29/01/1983",
         "sexo": "Hombre",
         "email": "albertovazquez83@gmail.com",
         "telefono": "627332096",
-        "direccion": "c/churros 1, 3\u00baA",
+        "direccion": "c/churros 1, 3ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "alberto_vazquez.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_038",
                 "nombre": "Jorge",
-                "apellidos": "V\u00e1zquez Rivera",
+                "apellidos": "Vázquez Rivera",
                 "dni": "12632100V",
                 "fecha_de_nacimiento": "29/03/1980",
                 "sexo": "Hombre",
                 "email": "jorgevazquez80@gmail.com",
                 "telefono": "619507301",
-                "direccion": "c/riverano 2, 2\u00baA",
+                "direccion": "c/riverano 2, 2ºA",
                 "codigo postal": "29001",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "jorge_vazquez.png",
-                "patologia actual": "Depresi\u00f3n",
+                "patologia actual": "Depresión",
                 "fecha inicio": "12/11/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_007",
                 "formularios consultas": [
@@ -3446,28 +3446,28 @@
                 "emisor": "g1_id_psiquiatra_007",
                 "receptor": "g1_id_familiar_038",
                 "fecha de envio": "20/11/2020",
-                "contenido": "Jorge parece haber hallado el principal desencadenante de su estado actual. En las pr\u00f3ximas sesiones trabajaremos sobre ello para conseguir proporcionarle la perspectiva m\u00e1s adecuada con la que afrontar dicho asunto"
+                "contenido": "Jorge parece haber hallado el principal desencadenante de su estado actual. En las próximas sesiones trabajaremos sobre ello para conseguir proporcionarle la perspectiva más adecuada con la que afrontar dicho asunto"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_007",
                 "nombre": "Manuel",
-                "apellidos": "G\u00f3mez Cabello",
+                "apellidos": "Gómez Cabello",
                 "dni": "63225471C",
                 "fecha_de_nacimiento": "29/04/1975",
                 "sexo": "Hombre",
                 "email": "manuelgomez75@gmail.com",
                 "telefono": "654112445",
-                "direccion": "c/Marisol 3, 5\u00baE",
+                "direccion": "c/Marisol 3, 5ºE",
                 "codigo postal": "29008",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "manuel_gomez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Granada (UGR)",
-                "especialidad": "Neuropsiquiatr\u00eda",
-                "a\u00f1os antiguedad en centro": "8",
+                "especialidad": "Neuropsiquiatría",
+                "años antiguedad en centro": "8",
                 "numero de pacientes": "4"
             }
         ]
@@ -3481,10 +3481,10 @@
         "sexo": "Hombre",
         "email": "juanortiz72@gmail.com",
         "telefono": "628632096",
-        "direccion": "c/macetas 2, 1\u00baC",
+        "direccion": "c/macetas 2, 1ºC",
         "codigo postal": "29005",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "juan_ortiz.png",
         "paciente asociado": [
             {
@@ -3496,14 +3496,14 @@
                 "sexo": "Mujer",
                 "email": "rebecaortiz96@gmail.com",
                 "telefono": "602155690",
-                "direccion": "c/macetas 2, 1\u00baC",
+                "direccion": "c/macetas 2, 1ºC",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "rebeca_ortiz.png",
                 "patologias previas": [
                     {
-                        "patologia": "Drogadicci\u00f3n",
+                        "patologia": "Drogadicción",
                         "fecha inicio": "13/01/2018",
                         "fecha final": "02/08/2018",
                         "psiquiatra asignado": "g1_id_psiquiatra_008",
@@ -3524,45 +3524,45 @@
                 "emisor": "g1_id_psiquiatra_008",
                 "receptor": "g1_id_familiar_039",
                 "fecha de envio": "15/03/2018",
-                "contenido": "El hecho de que las amistades de rebeca consuman drogas sin ning\u00fan tipo de control provoca que se sienta encarcelada e injustamente controlada a diferencia de sus amigas. Es muy complicado hacerle ver que desintoxicarse es lo correcto cuando su entorno m\u00e1s cercano no lo permite. No tiene por qu\u00e9 cambiar sus amistades s\u00f3lo entender que la consumici\u00f3n no es buena ni para sus amigas ni para ella misma"
+                "contenido": "El hecho de que las amistades de rebeca consuman drogas sin ningún tipo de control provoca que se sienta encarcelada e injustamente controlada a diferencia de sus amigas. Es muy complicado hacerle ver que desintoxicarse es lo correcto cuando su entorno más cercano no lo permite. No tiene por qué cambiar sus amistades sólo entender que la consumición no es buena ni para sus amigas ni para ella misma"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_008",
                 "nombre": "Lorena",
-                "apellidos": "Gonz\u00e1lez Seco",
+                "apellidos": "González Seco",
                 "dni": "99854121F",
                 "fecha_de_nacimiento": "20/01/1988",
                 "sexo": "Mujer",
                 "email": "lorena_gonz88@gmail.com",
                 "telefono": "639784511",
-                "direccion": "c/Roseta 8, 1\u00baE",
+                "direccion": "c/Roseta 8, 1ºE",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lorena_gonzalez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Murcia (UCAM)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "4",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "4",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_040",
-        "nombre": "Roc\u00edo",
+        "nombre": "Rocío",
         "apellidos": "Salado Benitez",
         "dni": "37939094J",
         "fecha_de_nacimiento": "01/03/1970",
         "sexo": "Mujer",
         "email": "rociosalado70@gmail.com",
         "telefono": "674632096",
-        "direccion": "c/plazas 3, 4\u00baC",
+        "direccion": "c/plazas 3, 4ºC",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "rocio_salado.png",
         "paciente asociado": [
             {
@@ -3574,10 +3574,10 @@
                 "sexo": "Mujer",
                 "email": "mireyagrande90@gmail.com",
                 "telefono": "622012670",
-                "direccion": "c/plazas 3, 4\u00baC",
+                "direccion": "c/plazas 3, 4ºC",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "mireya_grande.png",
                 "patologias previas": [
                     {
@@ -3607,28 +3607,28 @@
                 "emisor": "g1_id_psiquiatra_008",
                 "receptor": "g1_id_familiar_040",
                 "fecha de envio": "13/01/2017",
-                "contenido": "Mireya se niega rotundamente a comer, si no se conciencia de su baja condici\u00f3n f\u00edsica me temo que no podr\u00e9 ayudarla. Estamos intentando convencerla de que es lo mejor para ella pero parece no querer escucharnos"
+                "contenido": "Mireya se niega rotundamente a comer, si no se conciencia de su baja condición física me temo que no podré ayudarla. Estamos intentando convencerla de que es lo mejor para ella pero parece no querer escucharnos"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_008",
                 "nombre": "Lorena",
-                "apellidos": "Gonz\u00e1lez Seco",
+                "apellidos": "González Seco",
                 "dni": "99854121F",
                 "fecha_de_nacimiento": "20/01/1988",
                 "sexo": "Mujer",
                 "email": "lorena_gonz88@gmail.com",
                 "telefono": "639784511",
-                "direccion": "c/Roseta 8, 1\u00baE",
+                "direccion": "c/Roseta 8, 1ºE",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lorena_gonzalez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Murcia (UCAM)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "4",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "4",
                 "numero de pacientes": "4"
             }
         ]
@@ -3636,33 +3636,33 @@
     {
         "_id": "g1_id_familiar_041",
         "nombre": "Antonia",
-        "apellidos": "Vera Ordo\u00f1ez",
+        "apellidos": "Vera Ordoñez",
         "dni": "37909004X",
         "fecha_de_nacimiento": "14/03/1975",
         "sexo": "Mujer",
         "email": "antoniavera75@gmail.com",
         "telefono": "675632066",
-        "direccion": "c/ca\u00f1izos 8, 4\u00baA",
+        "direccion": "c/cañizos 8, 4ºA",
         "codigo postal": "29008",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "antonia_vera.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_041",
                 "nombre": "Jorge",
-                "apellidos": "Ca\u00f1ete Vera",
+                "apellidos": "Cañete Vera",
                 "dni": "12602465W",
                 "fecha_de_nacimiento": "01/07/1999",
                 "sexo": "Hombre",
-                "email": "jorgeca\u00f1ete99@gmail.com",
+                "email": "jorgecañete99@gmail.com",
                 "telefono": "623560731",
-                "direccion": "c/ca\u00f1izos 8, 4\u00baA",
+                "direccion": "c/cañizos 8, 4ºA",
                 "codigo postal": "29008",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
-                "fotografia": "jorge_ca\u00f1ete.png",
-                "patologia actual": "Depresi\u00f3n",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
+                "fotografia": "jorge_cañete.png",
+                "patologia actual": "Depresión",
                 "fecha inicio": "15/09/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_008",
                 "formularios consultas": [
@@ -3685,45 +3685,45 @@
                 "emisor": "g1_id_psiquiatra_008",
                 "receptor": "g1_id_familiar_041",
                 "fecha de envio": "18/10/2020",
-                "contenido": "Jorge afirma haber conocido a alguien que le despierta su alegr\u00eda. A pesar de ser una buena noticia debemos vigilar que no adquiera una dependencia precoz de dicha persona para ser feliz"
+                "contenido": "Jorge afirma haber conocido a alguien que le despierta su alegría. A pesar de ser una buena noticia debemos vigilar que no adquiera una dependencia precoz de dicha persona para ser feliz"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_008",
                 "nombre": "Lorena",
-                "apellidos": "Gonz\u00e1lez Seco",
+                "apellidos": "González Seco",
                 "dni": "99854121F",
                 "fecha_de_nacimiento": "20/01/1988",
                 "sexo": "Mujer",
                 "email": "lorena_gonz88@gmail.com",
                 "telefono": "639784511",
-                "direccion": "c/Roseta 8, 1\u00baE",
+                "direccion": "c/Roseta 8, 1ºE",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lorena_gonzalez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Murcia (UCAM)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "4",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "4",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_042",
-        "nombre": "Sof\u00eda",
-        "apellidos": "Carrasco Ordo\u00f1ez",
+        "nombre": "Sofía",
+        "apellidos": "Carrasco Ordoñez",
         "dni": "37989344X",
         "fecha_de_nacimiento": "14/03/1985",
         "sexo": "Mujer",
         "email": "sofiacarrasco85@gmail.com",
         "telefono": "679632066",
-        "direccion": "c/cerditos 1, 4\u00baA",
+        "direccion": "c/cerditos 1, 4ºA",
         "codigo postal": "29008",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "sofia_carrasco.png",
         "paciente asociado": [
             {
@@ -3735,10 +3735,10 @@
                 "sexo": "Hombre",
                 "email": "miguelcarrasco80@gmail.com",
                 "telefono": "695560131",
-                "direccion": "c/avestruz 1, 6\u00baB",
+                "direccion": "c/avestruz 1, 6ºB",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "miguel_carrasco.png",
                 "patologia actual": "Trastorno de la personalidad",
                 "fecha inicio": "17/09/2020",
@@ -3763,28 +3763,28 @@
                 "emisor": "g1_id_psiquiatra_008",
                 "receptor": "g1_id_familiar_042",
                 "fecha de envio": "20/10/2020",
-                "contenido": "Miguel ha mejorado \u00faltimamente durante las sesiones que hemos tenido, no obstante, no debemos bajar la guardia y seguir pendientes de \u00e9l por si nos necesita"
+                "contenido": "Miguel ha mejorado últimamente durante las sesiones que hemos tenido, no obstante, no debemos bajar la guardia y seguir pendientes de él por si nos necesita"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_008",
                 "nombre": "Lorena",
-                "apellidos": "Gonz\u00e1lez Seco",
+                "apellidos": "González Seco",
                 "dni": "99854121F",
                 "fecha_de_nacimiento": "20/01/1988",
                 "sexo": "Mujer",
                 "email": "lorena_gonz88@gmail.com",
                 "telefono": "639784511",
-                "direccion": "c/Roseta 8, 1\u00baE",
+                "direccion": "c/Roseta 8, 1ºE",
                 "codigo postal": "29007",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "lorena_gonzalez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de Murcia (UCAM)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "4",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "4",
                 "numero de pacientes": "4"
             }
         ]
@@ -3798,10 +3798,10 @@
         "sexo": "Hombre",
         "email": "pacovalverde70@gmail.com",
         "telefono": "679632126",
-        "direccion": "c/vacuna 4, 2\u00baC",
+        "direccion": "c/vacuna 4, 2ºC",
         "codigo postal": "29008",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "paco_valverde.png",
         "paciente asociado": [
             {
@@ -3813,10 +3813,10 @@
                 "sexo": "Hombre",
                 "email": "juanvalverde90@gmail.com",
                 "telefono": "662356189",
-                "direccion": "c/apolo 1, 9\u00baC",
+                "direccion": "c/apolo 1, 9ºC",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "juan_valverde.png",
                 "patologias previas": [
                     {
@@ -3846,14 +3846,14 @@
                 "emisor": "g1_id_psiquiatra_009",
                 "receptor": "g1_id_familiar_043",
                 "fecha de envio": "18/08/2016",
-                "contenido": "Juan ha empeorado respecto a sus alucinaciones y la confusi\u00f3n de la realidad. Le aumentaremos temporalmente la dosis para tratar de mejorar su seguridad"
+                "contenido": "Juan ha empeorado respecto a sus alucinaciones y la confusión de la realidad. Le aumentaremos temporalmente la dosis para tratar de mejorar su seguridad"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_009",
-                "nombre": "Antonio Jes\u00fas",
-                "apellidos": "Ram\u00edrez Loto",
+                "nombre": "Antonio Jesús",
+                "apellidos": "Ramírez Loto",
                 "dni": "55214489X",
                 "fecha_de_nacimiento": "07/07/1977",
                 "sexo": "Hombre",
@@ -3861,30 +3861,30 @@
                 "telefono": "651112887",
                 "direccion": "c/Moreno Villa 29",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "antonio_jesus_ramirez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "7",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "7",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_044",
-        "nombre": "Luc\u00eda",
+        "nombre": "Lucía",
         "apellidos": "Vargas Almodovar",
         "dni": "37982322L",
         "fecha_de_nacimiento": "04/03/1996",
         "sexo": "Mujer",
         "email": "luciavargas96@gmail.com",
         "telefono": "679634126",
-        "direccion": "c/j\u00fapiter 3, 1\u00baC",
+        "direccion": "c/júpiter 3, 1ºC",
         "codigo postal": "29005",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "lucia_vargas.png",
         "paciente asociado": [
             {
@@ -3896,10 +3896,10 @@
                 "sexo": "Hombre",
                 "email": "antoniovargas99@gmail.com",
                 "telefono": "662056089",
-                "direccion": "c/j\u00fapiter 3, 1\u00baC",
+                "direccion": "c/júpiter 3, 1ºC",
                 "codigo postal": "29005",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "antonio_vargas.png",
                 "patologias previas": [
                     {
@@ -3938,8 +3938,8 @@
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_009",
-                "nombre": "Antonio Jes\u00fas",
-                "apellidos": "Ram\u00edrez Loto",
+                "nombre": "Antonio Jesús",
+                "apellidos": "Ramírez Loto",
                 "dni": "55214489X",
                 "fecha_de_nacimiento": "07/07/1977",
                 "sexo": "Hombre",
@@ -3947,13 +3947,13 @@
                 "telefono": "651112887",
                 "direccion": "c/Moreno Villa 29",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "antonio_jesus_ramirez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "7",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "7",
                 "numero de pacientes": "4"
             }
         ]
@@ -3967,10 +3967,10 @@
         "sexo": "Hombre",
         "email": "juansoria93@gmail.com",
         "telefono": "679631126",
-        "direccion": "c/plutarco 2, 2\u00baA",
+        "direccion": "c/plutarco 2, 2ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "juan_soria.png",
         "paciente asociado": [
             {
@@ -3982,12 +3982,12 @@
                 "sexo": "Mujer",
                 "email": "anasoria91@gmail.com",
                 "telefono": "645321987",
-                "direccion": "c/plutarco 2, 2\u00baA",
+                "direccion": "c/plutarco 2, 2ºA",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_soria.png",
-                "patologia actual": "Depresi\u00f3n",
+                "patologia actual": "Depresión",
                 "fecha inicio": "05/07/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_009",
                 "formularios consultas": [
@@ -4000,7 +4000,7 @@
                         "medicamento": "Sertralina"
                     },
                     {
-                        "medicamento": "Lexat\u00edn"
+                        "medicamento": "Lexatín"
                     }
                 ]
             }
@@ -4013,14 +4013,14 @@
                 "emisor": "g1_id_psiquiatra_009",
                 "receptor": "g1_id_familiar_045",
                 "fecha de envio": "18/09/2020",
-                "contenido": "Ana parece empeorar cuando se acerca la fecha de lo sucedido. Recuerda constantemente su pasado y se impide a s\u00ed misma seguir avanzando. Es muy importante que la apoyeis durante estas fechas y que comprendais su dolor."
+                "contenido": "Ana parece empeorar cuando se acerca la fecha de lo sucedido. Recuerda constantemente su pasado y se impide a sí misma seguir avanzando. Es muy importante que la apoyeis durante estas fechas y que comprendais su dolor."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_009",
-                "nombre": "Antonio Jes\u00fas",
-                "apellidos": "Ram\u00edrez Loto",
+                "nombre": "Antonio Jesús",
+                "apellidos": "Ramírez Loto",
                 "dni": "55214489X",
                 "fecha_de_nacimiento": "07/07/1977",
                 "sexo": "Hombre",
@@ -4028,30 +4028,30 @@
                 "telefono": "651112887",
                 "direccion": "c/Moreno Villa 29",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "antonio_jesus_ramirez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "7",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "7",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_046",
-        "nombre": "Jes\u00fas",
+        "nombre": "Jesús",
         "apellidos": "Conejo Cruces",
         "dni": "32103422I",
         "fecha_de_nacimiento": "23/10/1973",
         "sexo": "Hombre",
         "email": "jesusconejo73@gmail.com",
         "telefono": "689631136",
-        "direccion": "c/arist\u00f3teles 3, 1\u00baC",
+        "direccion": "c/aristóteles 3, 1ºC",
         "codigo postal": "29002",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "jesus_conejo.png",
         "paciente asociado": [
             {
@@ -4063,10 +4063,10 @@
                 "sexo": "Mujer",
                 "email": "sandraconejo93@gmail.com",
                 "telefono": "622056049",
-                "direccion": "c/arist\u00f3teles 3, 1\u00baC",
+                "direccion": "c/aristóteles 3, 1ºC",
                 "codigo postal": "29002",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "sandra_conejo.png",
                 "patologias previas": [
                     {
@@ -4096,14 +4096,14 @@
                 "emisor": "g1_id_psiquiatra_009",
                 "receptor": "g1_id_familiar_046",
                 "fecha de envio": "20/01/2019",
-                "contenido": "Sandra ha aprendido a controlar el estr\u00e9s y a organizarse mejor su trabajo. Est\u00e1 claro que ha mejorado enormemente su estado de \u00e1nimo desde la primera vez que acudi\u00f3 al centro y es hora de dejar que ande por si sola. En caso de necesitar nuevamente nuestra ayuda no duden en ponerse en contacto con nosotros"
+                "contenido": "Sandra ha aprendido a controlar el estrés y a organizarse mejor su trabajo. Está claro que ha mejorado enormemente su estado de ánimo desde la primera vez que acudió al centro y es hora de dejar que ande por si sola. En caso de necesitar nuevamente nuestra ayuda no duden en ponerse en contacto con nosotros"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_009",
-                "nombre": "Antonio Jes\u00fas",
-                "apellidos": "Ram\u00edrez Loto",
+                "nombre": "Antonio Jesús",
+                "apellidos": "Ramírez Loto",
                 "dni": "55214489X",
                 "fecha_de_nacimiento": "07/07/1977",
                 "sexo": "Hombre",
@@ -4111,13 +4111,13 @@
                 "telefono": "651112887",
                 "direccion": "c/Moreno Villa 29",
                 "codigo postal": "29012",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "antonio_jesus_ramirez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "7",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "7",
                 "numero de pacientes": "4"
             }
         ]
@@ -4125,33 +4125,33 @@
     {
         "_id": "g1_id_familiar_047",
         "nombre": "Julia",
-        "apellidos": "Saravia S\u00e1nchez",
+        "apellidos": "Saravia Sánchez",
         "dni": "39103412I",
         "fecha_de_nacimiento": "21/07/1992",
         "sexo": "Mujer",
         "email": "juliasaravia92@gmail.com",
         "telefono": "681630136",
-        "direccion": "c/flamenco 3, 7\u00baA",
+        "direccion": "c/flamenco 3, 7ºA",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "julia_saravia.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_047",
-                "nombre": "Roc\u00edo",
-                "apellidos": "Saravia S\u00e1nchez",
+                "nombre": "Rocío",
+                "apellidos": "Saravia Sánchez",
                 "dni": "07053427T",
                 "fecha_de_nacimiento": "14/02/1990",
                 "sexo": "Mujer",
                 "email": "rociosaravia90@gmail.com",
                 "telefono": "662312135",
-                "direccion": "c/flamenco 3, 7\u00baA",
+                "direccion": "c/flamenco 3, 7ºA",
                 "codigo postal": "29001",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "rocio_saravia.png",
-                "patologia actual": "Depresi\u00f3n post-parto",
+                "patologia actual": "Depresión post-parto",
                 "fecha inicio": "17/09/2020",
                 "psiquiatra asignado": "g1_id_psiquiatra_010",
                 "formularios consultas": [
@@ -4164,7 +4164,7 @@
                         "medicamento": "Sertralina"
                     },
                     {
-                        "medicamento": "Lexat\u00edn"
+                        "medicamento": "Lexatín"
                     }
                 ]
             }
@@ -4177,28 +4177,28 @@
                 "emisor": "g1_id_psiquiatra_010",
                 "receptor": "g1_id_familiar_047",
                 "fecha de envio": "20/09/2020",
-                "contenido": "Es normal que Roc\u00edo quiera alejarse temporalmente de su beb\u00e9. Algunas madres necesitan tiempo para procesar la existencia de un nuevo miembro familiar y todo lo que eso conlleva. Durante estos d\u00edas es beneficioso que se tome su tiempo, la carga emocional o imponerle sentimiento de culpa s\u00f3lo prolongar\u00e1 su mal estado."
+                "contenido": "Es normal que Rocío quiera alejarse temporalmente de su bebé. Algunas madres necesitan tiempo para procesar la existencia de un nuevo miembro familiar y todo lo que eso conlleva. Durante estos días es beneficioso que se tome su tiempo, la carga emocional o imponerle sentimiento de culpa sólo prolongará su mal estado."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_010",
                 "nombre": "Miguel",
-                "apellidos": "P\u00e9rez L\u00f3pez",
+                "apellidos": "Pérez López",
                 "dni": "54411228K",
                 "fecha_de_nacimiento": "21/11/1989",
                 "sexo": "Hombre",
                 "email": "miguelperez89@gmail.com",
                 "telefono": "621458992",
-                "direccion": "c/Prado 1, \u00c1tico A",
+                "direccion": "c/Prado 1, Ático A",
                 "codigo postal": "29013",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "miguel_perez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "2",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "2",
                 "numero de pacientes": "4"
             }
         ]
@@ -4206,16 +4206,16 @@
     {
         "_id": "g1_id_familiar_048",
         "nombre": "Antonio",
-        "apellidos": "Ruiz S\u00e1nchez",
+        "apellidos": "Ruiz Sánchez",
         "dni": "39103012D",
         "fecha_de_nacimiento": "21/07/1976",
         "sexo": "Hombre",
         "email": "antonioruiz76@gmail.com",
         "telefono": "671030136",
-        "direccion": "c/arizona 3, 6\u00baC",
+        "direccion": "c/arizona 3, 6ºC",
         "codigo postal": "29001",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "antonio_ruiz.png",
         "paciente asociado": [
             {
@@ -4227,10 +4227,10 @@
                 "sexo": "Hombre",
                 "email": "antonioruiz95@gmail.com",
                 "telefono": "663278968",
-                "direccion": "c/pajaros 1, 6\u00baC",
+                "direccion": "c/pajaros 1, 6ºC",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "antonio_ruiz.png",
                 "patologias previas": [
                     {
@@ -4255,60 +4255,60 @@
                 "emisor": "g1_id_psiquiatra_010",
                 "receptor": "g1_id_familiar_048",
                 "fecha de envio": "19/03/2018",
-                "contenido": "Antonio ha vuelto a beber, no obstante, es importante convencerle de que no tire la toalla y que todo el esfuerzo hehco hasta ahora no se echa a perder tan f\u00e1cilmente en un mal d\u00eda."
+                "contenido": "Antonio ha vuelto a beber, no obstante, es importante convencerle de que no tire la toalla y que todo el esfuerzo hehco hasta ahora no se echa a perder tan fácilmente en un mal día."
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_010",
                 "nombre": "Miguel",
-                "apellidos": "P\u00e9rez L\u00f3pez",
+                "apellidos": "Pérez López",
                 "dni": "54411228K",
                 "fecha_de_nacimiento": "21/11/1989",
                 "sexo": "Hombre",
                 "email": "miguelperez89@gmail.com",
                 "telefono": "621458992",
-                "direccion": "c/Prado 1, \u00c1tico A",
+                "direccion": "c/Prado 1, Ático A",
                 "codigo postal": "29013",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "miguel_perez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "2",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "2",
                 "numero de pacientes": "4"
             }
         ]
     },
     {
         "_id": "g1_id_familiar_049",
-        "nombre": "\u00c1ngela",
-        "apellidos": "S\u00e1nchez Ruiz",
+        "nombre": "Ángela",
+        "apellidos": "Sánchez Ruiz",
         "dni": "39122190Y",
         "fecha_de_nacimiento": "20/07/1973",
         "sexo": "Mujer",
         "email": "angelasanchez73@gmail.com",
         "telefono": "671009136",
-        "direccion": "c/naranjos 6, 7\u00baC",
+        "direccion": "c/naranjos 6, 7ºC",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "angela_sanchez.png",
         "paciente asociado": [
             {
                 "_id": "g1_id_paciente_049",
-                "nombre": "Ana Mar\u00eda",
-                "apellidos": "Nevado S\u00e1nchez",
+                "nombre": "Ana María",
+                "apellidos": "Nevado Sánchez",
                 "dni": "07052127P",
                 "fecha_de_nacimiento": "17/08/1999",
                 "sexo": "Mujer",
                 "email": "anamarianevado99@gmail.com",
                 "telefono": "662122135",
-                "direccion": "c/naranjos 6, 7\u00baC",
+                "direccion": "c/naranjos 6, 7ºC",
                 "codigo postal": "29003",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "ana_maria_nevado.png",
                 "patologia actual": "Ansiedad",
                 "fecha inicio": "15/10/2020",
@@ -4320,7 +4320,7 @@
                 ],
                 "medicamentos asignados": [
                     {
-                        "medicamento": "Lexat\u00edn"
+                        "medicamento": "Lexatín"
                     }
                 ]
             }
@@ -4333,28 +4333,28 @@
                 "emisor": "g1_id_psiquiatra_010",
                 "receptor": "g1_id_familiar_049",
                 "fecha de envio": "10/11/2020",
-                "contenido": "Ana Mar\u00eda ha empeorado su estado y su forma de afrontar las cosas. Le hemos aumentado la dosis hasta que consigamos estabilizarla"
+                "contenido": "Ana María ha empeorado su estado y su forma de afrontar las cosas. Le hemos aumentado la dosis hasta que consigamos estabilizarla"
             }
         ],
         "emisores": [
             {
                 "_id": "g1_id_psiquiatra_010",
                 "nombre": "Miguel",
-                "apellidos": "P\u00e9rez L\u00f3pez",
+                "apellidos": "Pérez López",
                 "dni": "54411228K",
                 "fecha_de_nacimiento": "21/11/1989",
                 "sexo": "Hombre",
                 "email": "miguelperez89@gmail.com",
                 "telefono": "621458992",
-                "direccion": "c/Prado 1, \u00c1tico A",
+                "direccion": "c/Prado 1, Ático A",
                 "codigo postal": "29013",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "miguel_perez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "2",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "2",
                 "numero de pacientes": "4"
             }
         ]
@@ -4368,10 +4368,10 @@
         "sexo": "Hombre",
         "email": "oscarbenitez71@gmail.com",
         "telefono": "691909106",
-        "direccion": "c/granada 8, 9\u00baA",
+        "direccion": "c/granada 8, 9ºA",
         "codigo postal": "29003",
-        "localidad": "M\u00e1laga",
-        "provincia": "M\u00e1laga",
+        "localidad": "Málaga",
+        "provincia": "Málaga",
         "fotografia": "oscar_benitez.png",
         "paciente asociado": [
             {
@@ -4383,14 +4383,14 @@
                 "sexo": "Hombre",
                 "email": "oscarbenitez93@gmail.com",
                 "telefono": "669278960",
-                "direccion": "c/cocodrilo 3, 1\u00baC",
+                "direccion": "c/cocodrilo 3, 1ºC",
                 "codigo postal": "29004",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "oscar_benitez.png",
                 "patologias previas": [
                     {
-                        "patologia": "Drogadicci\u00f3n",
+                        "patologia": "Drogadicción",
                         "fecha inicio": "27/04/2019",
                         "fecha final": "23/10/2019",
                         "psiquiatra asignado": "g1_id_psiquiatra_010",
@@ -4418,21 +4418,21 @@
             {
                 "_id": "g1_id_psiquiatra_010",
                 "nombre": "Miguel",
-                "apellidos": "P\u00e9rez L\u00f3pez",
+                "apellidos": "Pérez López",
                 "dni": "54411228K",
                 "fecha_de_nacimiento": "21/11/1989",
                 "sexo": "Hombre",
                 "email": "miguelperez89@gmail.com",
                 "telefono": "621458992",
-                "direccion": "c/Prado 1, \u00c1tico A",
+                "direccion": "c/Prado 1, Ático A",
                 "codigo postal": "29013",
-                "localidad": "M\u00e1laga",
-                "provincia": "M\u00e1laga",
+                "localidad": "Málaga",
+                "provincia": "Málaga",
                 "fotografia": "miguel_perez.png",
                 "titulacion": "Graduado en Medicina",
                 "universidad": "Universidad de UMA (UMA)",
-                "especialidad": "Psiquiatr\u00eda general",
-                "a\u00f1os antiguedad en centro": "2",
+                "especialidad": "Psiquiatría general",
+                "años antiguedad en centro": "2",
                 "numero de pacientes": "4"
             }
         ]

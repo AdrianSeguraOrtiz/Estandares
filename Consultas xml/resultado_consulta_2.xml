@@ -9,14 +9,14 @@
 		<sexo>Mujer</sexo>
 		<email>martaromero92@gmail.com</email>
 		<telefono>669245569</telefono>
-		<direccion>c/manzano 5, 3ºB</direccion>
+		<direccion>c/manzano 5, 3ÂºB</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>marta_romero.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Trastorno de estrés postraumático (TEPT)</patologia>
+				<patologia>Trastorno de estrÃ©s postraumÃ¡tico (TEPT)</patologia>
 				<fecha_inicio>04/12/2005</fecha_inicio>
 				<fecha_final>18/06/2006</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -43,7 +43,7 @@
 				</pruebas_complementarias>
 			</item>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>23/08/2009</fecha_inicio>
 				<fecha_final>03/02/2010</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -84,12 +84,12 @@
 				<paciente>g1_id_paciente_001</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>24/10/2020</fecha_consulta>
-				<motivo_consulta>Preocupante pérdida de peso</motivo_consulta>
+				<motivo_consulta>Preocupante pÃ©rdida de peso</motivo_consulta>
 				<desencadenante>Padecimiento de desmayos con alta frecuencia</desencadenante>
-				<observaciones>La paciente presenta palidez, falta de energía y delgadez extrema</observaciones>
+				<observaciones>La paciente presenta palidez, falta de energÃ­a y delgadez extrema</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar ciproheptadina para estimular el apetito</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -98,35 +98,35 @@
 				<paciente>g1_id_paciente_001</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>27/12/2005</fecha_consulta>
-				<motivo_consulta>Pesadillas y recuerdos continuos de un hecho traumático</motivo_consulta>
+				<motivo_consulta>Pesadillas y recuerdos continuos de un hecho traumÃ¡tico</motivo_consulta>
 				<desencadenante>Insomnio agudo</desencadenante>
-				<observaciones>Los recuerdos vividos por la paciente además de provocarle insomnio le causan graves episodios de estrés que propician un bajo rendimiento diario</observaciones>
-				<diagnostico>Trastorno de estrés postraumático (TEPT)</diagnostico>
+				<observaciones>Los recuerdos vividos por la paciente ademÃ¡s de provocarle insomnio le causan graves episodios de estrÃ©s que propician un bajo rendimiento diario</observaciones>
+				<diagnostico>Trastorno de estrÃ©s postraumÃ¡tico (TEPT)</diagnostico>
 				<tratamiento>Se recomienda tomar Paroxetina</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_002</_id>
 				<paciente>g1_id_paciente_001</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>14/02/2006</fecha_consulta>
-				<motivo_consulta>Problemas laborales y falta de concentración</motivo_consulta>
-				<desencadenante>Despido laboral y estrés</desencadenante>
-				<observaciones>La paciente sigue reviviendo hechos del pasado que no le dejan avanzar, caída del ánimo debido al despido laboral que puede desencadenar un empeoramiento de su salud mental</observaciones>
-				<diagnostico>Trastorno de estrés postraumático (TEPT)</diagnostico>
+				<motivo_consulta>Problemas laborales y falta de concentraciÃ³n</motivo_consulta>
+				<desencadenante>Despido laboral y estrÃ©s</desencadenante>
+				<observaciones>La paciente sigue reviviendo hechos del pasado que no le dejan avanzar, caÃ­da del Ã¡nimo debido al despido laboral que puede desencadenar un empeoramiento de su salud mental</observaciones>
+				<diagnostico>Trastorno de estrÃ©s postraumÃ¡tico (TEPT)</diagnostico>
 				<tratamiento>Se recomienda tomar Fluoxetina</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_003</_id>
 				<paciente>g1_id_paciente_001</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>16/09/2009</fecha_consulta>
-				<motivo_consulta>Depresión</motivo_consulta>
-				<desencadenante>Mala situación laboral y personal</desencadenante>
-				<observaciones>La paciente no encuentra trabajo y ha empeorado su relación con amigos y familiares. Se detecta un posible inicio de aislamiento social</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda mejorar la alimentación, realizar ejercicio al aire libre y fomentar la aparición de nuevas relaciones personales</tratamiento>
+				<motivo_consulta>DepresiÃ³n</motivo_consulta>
+				<desencadenante>Mala situaciÃ³n laboral y personal</desencadenante>
+				<observaciones>La paciente no encuentra trabajo y ha empeorado su relaciÃ³n con amigos y familiares. Se detecta un posible inicio de aislamiento social</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda mejorar la alimentaciÃ³n, realizar ejercicio al aire libre y fomentar la apariciÃ³n de nuevas relaciones personales</tratamiento>
 				<frecuencia_tratamiento>Perseverar durante 1 mes</frecuencia_tratamiento>
 			</item>
 			<item>
@@ -134,28 +134,28 @@
 				<paciente>g1_id_paciente_001</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>30/01/2010</fecha_consulta>
-				<motivo_consulta>Depresión</motivo_consulta>
-				<desencadenante>Mala situación laboral y personal</desencadenante>
-				<observaciones>El tratamiento anterior no ha resultado ser suficiente, por lo que la paciente continúa depresiva y con falta de autoestima</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina y Lexatín 1.5 mmg</tratamiento>
-				<frecuencia_tratamiento>Sertralina 1 vez al día durante 2 semanas y Lexatín en caso de sufrir ansiedad ocasional</frecuencia_tratamiento>
+				<motivo_consulta>DepresiÃ³n</motivo_consulta>
+				<desencadenante>Mala situaciÃ³n laboral y personal</desencadenante>
+				<observaciones>El tratamiento anterior no ha resultado ser suficiente, por lo que la paciente continÃºa depresiva y con falta de autoestima</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda tomar Sertralina y LexatÃ­n 1.5 mmg</tratamiento>
+				<frecuencia_tratamiento>Sertralina 1 vez al dÃ­a durante 2 semanas y LexatÃ­n en caso de sufrir ansiedad ocasional</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_002</_id>
 		<nombre>Olivia</nombre>
-		<apellidos>Cañete Domínguez</apellidos>
+		<apellidos>CaÃ±ete DomÃ­nguez</apellidos>
 		<dni>74825691Z</dni>
 		<fecha_de_nacimiento>05/12/1990</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>oliviacanete_d90@gmail.com</email>
 		<telefono>695874412</telefono>
-		<direccion>c/Pintor Ruíz 12, 4ºE</direccion>
+		<direccion>c/Pintor RuÃ­z 12, 4ÂºE</direccion>
 		<codigo_postal>29007</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>olivia_canete.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -204,11 +204,11 @@
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>10/10/2020</fecha_consulta>
 				<motivo_consulta>Sentimientos de euforia anormales</motivo_consulta>
-				<desencadenante>Discusión familiar</desencadenante>
-				<observaciones>La paciente presenta cambios en su estado de ánimo frecuentes</observaciones>
+				<desencadenante>DiscusiÃ³n familiar</desencadenante>
+				<observaciones>La paciente presenta cambios en su estado de Ã¡nimo frecuentes</observaciones>
 				<diagnostico>Trastorno bipolar</diagnostico>
-				<tratamiento>Se recomienda tomar Olanzapina para estabilizar el ánimo</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 1 mes semanas</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Olanzapina para estabilizar el Ã¡nimo</tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 1 mes semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -218,28 +218,28 @@
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>21/10/2014</fecha_consulta>
 				<motivo_consulta>Ataque de ansiedad</motivo_consulta>
-				<desencadenante>Estrés por los estudios</desencadenante>
-				<observaciones>La paciente presenta un ritmo cardíaco alto, sudores y dificultad para respirar</observaciones>
+				<desencadenante>EstrÃ©s por los estudios</desencadenante>
+				<observaciones>La paciente presenta un ritmo cardÃ­aco alto, sudores y dificultad para respirar</observaciones>
 				<diagnostico>Trastorno de ansiedad</diagnostico>
-				<tratamiento>Se recomienda tomar Escitalopram para bajar la frecuencia cardíaca</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 1 mes</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Escitalopram para bajar la frecuencia cardÃ­aca</tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_007</_id>
 				<paciente>g1_id_paciente_002</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>30/05/2015</fecha_consulta>
-				<motivo_consulta>Revisión seismesina</motivo_consulta>
-				<observaciones>La paciente presenta una notable mejoría, pero aún debe tomar medicación</observaciones>
+				<motivo_consulta>RevisiÃ³n seismesina</motivo_consulta>
+				<observaciones>La paciente presenta una notable mejorÃ­a, pero aÃºn debe tomar medicaciÃ³n</observaciones>
 				<tratamiento>Se recomienda tomar Duloxetina en caso de ataque de ansiedad</tratamiento>
-				<frecuencia_tratamiento>Cuando sea necesario, máximo una toma al día, durante 6 meses</frecuencia_tratamiento>
+				<frecuencia_tratamiento>Cuando sea necesario, mÃ¡ximo una toma al dÃ­a, durante 6 meses</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_008</_id>
 				<paciente>g1_id_paciente_002</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>08/12/2015</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
 				<observaciones>La paciente se ha recuperado completamente</observaciones>
 			</item>
 		</formularios_previos>
@@ -255,8 +255,8 @@
 		<telefono>632545885</telefono>
 		<direccion>c/Paseo Verde 56</direccion>
 		<codigo_postal>29014</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>lucas_romero.png</fotografia>
 		<patologia_actual>Trastorno de la personalidad</patologia_actual>
 		<fecha_inicio>30/10/2020</fecha_inicio>
@@ -277,12 +277,12 @@
 				<paciente>g1_id_paciente_003</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>30/10/2020</fecha_consulta>
-				<motivo_consulta>Comportamiento extraño e ilógico</motivo_consulta>
-				<desencadenante>Exposición a una situación estresante</desencadenante>
-				<observaciones>El paciente presenta conducta impulsiva, imagen personal inestable y cambios en el estado de ánimo</observaciones>
+				<motivo_consulta>Comportamiento extraÃ±o e ilÃ³gico</motivo_consulta>
+				<desencadenante>ExposiciÃ³n a una situaciÃ³n estresante</desencadenante>
+				<observaciones>El paciente presenta conducta impulsiva, imagen personal inestable y cambios en el estado de Ã¡nimo</observaciones>
 				<diagnostico>Trastorno de la personalidad</diagnostico>
 				<tratamiento>Se recomienda tomar Amitriptilina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 meses, con descansos de 3 dias cada 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 meses, con descansos de 3 dias cada 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -290,7 +290,7 @@
 	<item>
 		<_id>g1_id_paciente_004</_id>
 		<nombre>Mario</nombre>
-		<apellidos>Martín Pérez</apellidos>
+		<apellidos>MartÃ­n PÃ©rez</apellidos>
 		<dni>85457744B</dni>
 		<fecha_de_nacimiento>13/06/1960</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
@@ -298,12 +298,12 @@
 		<telefono>652225874</telefono>
 		<direccion>c/Castilla 39, Bajo B</direccion>
 		<codigo_postal>29007</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>mario_martin.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>19/03/2011</fecha_inicio>
 				<fecha_final>01/02/2012</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
@@ -345,10 +345,10 @@
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>01/11/2020</fecha_consulta>
 				<motivo_consulta>Olvido de la ruta de vuelta a casa</motivo_consulta>
-				<observaciones>El paciente muestra pérdidas de memoria, deficultad para comunicarse y dificultad para manejar tareas complejas</observaciones>
+				<observaciones>El paciente muestra pÃ©rdidas de memoria, deficultad para comunicarse y dificultad para manejar tareas complejas</observaciones>
 				<diagnostico>Demencia</diagnostico>
 				<tratamiento>Se recomienda tomar Donepezilo para mejorar la memoria y Memantina para el aumento de la actividad cerebral</tratamiento>
-				<frecuencia_tratamiento>2 veces al día</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -358,18 +358,18 @@
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>19/03/2011</fecha_consulta>
 				<motivo_consulta>Intento de suicidio</motivo_consulta>
-				<desencadenante>Fallecimiento de su cónyuge</desencadenante>
-				<observaciones>El paciente está decaido y presenta un muy bajo estado de ánimo</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<desencadenante>Fallecimiento de su cÃ³nyuge</desencadenante>
+				<observaciones>El paciente estÃ¡ decaido y presenta un muy bajo estado de Ã¡nimo</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Protriptilina</tratamiento>
-				<frecuencia_tratamiento>1 veces al día durante 12 meses</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 veces al dÃ­a durante 12 meses</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_012</_id>
 				<paciente>g1_id_paciente_004</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>01/02/2012</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
 				<observaciones>El paciente ha superado la enfermedad</observaciones>
 				<tratamiento>Se recomienda ir al psicologo para evitar una recaida</tratamiento>
 				<frecuencia_tratamiento>1 vez a la semana</frecuencia_tratamiento>
@@ -379,16 +379,16 @@
 	<item>
 		<_id>g1_id_paciente_005</_id>
 		<nombre>Silvia</nombre>
-		<apellidos>Román Huerta</apellidos>
+		<apellidos>RomÃ¡n Huerta</apellidos>
 		<dni>65448452F</dni>
 		<fecha_de_nacimiento>08/02/2000</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>silvia_roman00@gmail.com</email>
 		<telefono>698554782</telefono>
-		<direccion>c/Pintor Molina 12, Ático B</direccion>
+		<direccion>c/Pintor Molina 12, Ãtico B</direccion>
 		<codigo_postal>29010</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>silvia_roman.png</fotografia>
 		<patologia_actual>Trastorno obsesivo-compulsivo (TOC)</patologia_actual>
 		<fecha_inicio>22/10/2020</fecha_inicio>
@@ -411,10 +411,10 @@
 				<fecha_consulta>22/10/2020</fecha_consulta>
 				<motivo_consulta>Ataque de nervios</motivo_consulta>
 				<desencadenante>La paciente ha llegado a su casa y estaba todo desordenado</desencadenante>
-				<observaciones>El paciente muestra movimientos cíclicos y reiterados y obsesión con el orden y la limpieza</observaciones>
+				<observaciones>El paciente muestra movimientos cÃ­clicos y reiterados y obsesiÃ³n con el orden y la limpieza</observaciones>
 				<diagnostico>Trastorno obsesivo-compulsivo (TOC)</diagnostico>
 				<tratamiento>Se recomienda tomar Fluvoxamine</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -428,10 +428,10 @@
 		<sexo>Hombre</sexo>
 		<email>pirlo_lucas93@gmail.com</email>
 		<telefono>652748411</telefono>
-		<direccion>c/José Estrada 2</direccion>
+		<direccion>c/JosÃ© Estrada 2</direccion>
 		<codigo_postal>29008</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>lucas_pirlo.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -454,7 +454,7 @@
 				</medicamentos_asignados>
 			</item>
 		</patologias_previas>
-		<patologia_actual>Síndrome de Diógenes</patologia_actual>
+		<patologia_actual>SÃ­ndrome de DiÃ³genes</patologia_actual>
 		<fecha_inicio>31/10/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 		<formularios_consultas>
@@ -473,11 +473,11 @@
 				<paciente>g1_id_paciente_006</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>31/10/2020</fecha_consulta>
-				<motivo_consulta>Colección de basura encontrada en casa del paciente</motivo_consulta>
-				<observaciones>El paciente vive en una reclusión y aislamiento social autoimpuesto y presenta un abandono de la higiene personal</observaciones>
-				<diagnostico>Síndrome de Diógenes</diagnostico>
+				<motivo_consulta>ColecciÃ³n de basura encontrada en casa del paciente</motivo_consulta>
+				<observaciones>El paciente vive en una reclusiÃ³n y aislamiento social autoimpuesto y presenta un abandono de la higiene personal</observaciones>
+				<diagnostico>SÃ­ndrome de DiÃ³genes</diagnostico>
 				<tratamiento>Se recomienda tomar Citalopram</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -488,34 +488,34 @@
 				<fecha_consulta>24/03/2014</fecha_consulta>
 				<motivo_consulta>Ataque de ansiedad</motivo_consulta>
 				<desencadenante>El paciente ha sido despedido de su trabajo</desencadenante>
-				<observaciones>El paciente presenta un ritmo cardíaco alto, sudores y dificultad para respirar</observaciones>
+				<observaciones>El paciente presenta un ritmo cardÃ­aco alto, sudores y dificultad para respirar</observaciones>
 				<diagnostico>Trastorno de la Ansiedad</diagnostico>
-				<tratamiento>Se recomienda tomar Escitalopram para bajar la frecuencia cardíaca</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 8 meses</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Escitalopram para bajar la frecuencia cardÃ­aca</tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 8 meses</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_016</_id>
 				<paciente>g1_id_paciente_006</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>01/11/2014</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
 				<observaciones>El paciente se ha recuperado</observaciones>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_007</_id>
-		<nombre>José Ramón</nombre>
-		<apellidos>López Galiana</apellidos>
+		<nombre>JosÃ© RamÃ³n</nombre>
+		<apellidos>LÃ³pez Galiana</apellidos>
 		<dni>85445577G</dni>
 		<fecha_de_nacimiento>02/03/1984</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>jramon_lg84@gmail.com</email>
 		<telefono>652112332</telefono>
-		<direccion>c/Emiliano 14, Portal 3, 3ºA</direccion>
+		<direccion>c/Emiliano 14, Portal 3, 3ÂºA</direccion>
 		<codigo_postal>29010</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>jose_ramon.png</fotografia>
 		<patologia_actual>Esquizofrenia</patologia_actual>
 		<fecha_inicio>07/11/2020</fecha_inicio>
@@ -540,11 +540,11 @@
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>07/11/2020</fecha_consulta>
 				<motivo_consulta>Alucinaciones</motivo_consulta>
-				<desencadenante>Drogadicción</desencadenante>
-				<observaciones>El paciente presenta habla desorganizada, fantasías, dificultad de atención y falta de memoria</observaciones>
+				<desencadenante>DrogadicciÃ³n</desencadenante>
+				<observaciones>El paciente presenta habla desorganizada, fantasÃ­as, dificultad de atenciÃ³n y falta de memoria</observaciones>
 				<diagnostico>Esquizofrenia</diagnostico>
 				<tratamiento>Se recomienda tomar Aripiprazol y Clozapina</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -558,10 +558,10 @@
 		<sexo>Mujer</sexo>
 		<email>margarita_cr94@gmail.com</email>
 		<telefono>698554771</telefono>
-		<direccion>c/Ruiseñor 25</direccion>
+		<direccion>c/RuiseÃ±or 25</direccion>
 		<codigo_postal>29012</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>margarita_cintrano.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -603,12 +603,12 @@
 				<paciente>g1_id_paciente_008</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>08/11/2020</fecha_consulta>
-				<motivo_consulta>Desaparición repentina</motivo_consulta>
-				<desencadenante>La paciente se sintió acorralado</desencadenante>
-				<observaciones>La paciente presenta movimientos estereotipados, anomalías en la expresión no verbal y anomalías comunicativas</observaciones>
+				<motivo_consulta>DesapariciÃ³n repentina</motivo_consulta>
+				<desencadenante>La paciente se sintiÃ³ acorralado</desencadenante>
+				<observaciones>La paciente presenta movimientos estereotipados, anomalÃ­as en la expresiÃ³n no verbal y anomalÃ­as comunicativas</observaciones>
 				<diagnostico>Trastorno del Espectro Autista</diagnostico>
 				<tratamiento>Se recomienda tomar Risperidona y Aripiprazol</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -619,28 +619,28 @@
 				<fecha_consulta>03/01/2018</fecha_consulta>
 				<motivo_consulta>Ataque de ansiedad</motivo_consulta>
 				<desencadenante>El paciente acaba de ingresar en la Universidad</desencadenante>
-				<observaciones>El paciente presenta temblores, sudoración y sentimiento de mente en blanco</observaciones>
+				<observaciones>El paciente presenta temblores, sudoraciÃ³n y sentimiento de mente en blanco</observaciones>
 				<diagnostico>Trastorno de Ansiedad Social</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina como ansiolítico</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Sertralina como ansiolÃ­tico</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_009</_id>
 		<nombre>Melania</nombre>
-		<apellidos>Castillo del Río</apellidos>
+		<apellidos>Castillo del RÃ­o</apellidos>
 		<dni>54548124K</dni>
 		<fecha_de_nacimiento>12/11/1986</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>melaniacastillo86@gmail.com</email>
 		<telefono>632255891</telefono>
-		<direccion>c/Pereira 3, 6ºA</direccion>
+		<direccion>c/Pereira 3, 6ÂºA</direccion>
 		<codigo_postal>29015</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>melania_castillo.png</fotografia>
-		<patologia_actual>Déficit de Atención e Hiperactividad</patologia_actual>
+		<patologia_actual>DÃ©ficit de AtenciÃ³n e Hiperactividad</patologia_actual>
 		<fecha_inicio>11/11/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 		<formularios_consultas>
@@ -661,10 +661,10 @@
 				<fecha_consulta>11/11/2020</fecha_consulta>
 				<motivo_consulta>Dificultad al concentrarse</motivo_consulta>
 				<desencadenante>Despido en su trabajo</desencadenante>
-				<observaciones>La paciente presenta impulsividad, desorganización, escasa planificación y problemas al realizar múltiples tareas a la vez</observaciones>
-				<diagnostico>Déficit de Atención e Hiperactividad</diagnostico>
-				<tratamiento>Se recomienda tomar Methylphenidate para la estimulación</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 2 meses</frecuencia_tratamiento>
+				<observaciones>La paciente presenta impulsividad, desorganizaciÃ³n, escasa planificaciÃ³n y problemas al realizar mÃºltiples tareas a la vez</observaciones>
+				<diagnostico>DÃ©ficit de AtenciÃ³n e Hiperactividad</diagnostico>
+				<tratamiento>Se recomienda tomar Methylphenidate para la estimulaciÃ³n</tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 2 meses</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -672,18 +672,18 @@
 	<item>
 		<_id>g1_id_paciente_010</_id>
 		<nombre>Pilar</nombre>
-		<apellidos>Rueda Álvarez</apellidos>
+		<apellidos>Rueda Ãlvarez</apellidos>
 		<dni>787445932J</dni>
 		<fecha_de_nacimiento>18/03/1981</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>pilarrueda81@gmail.com</email>
 		<telefono>654228955</telefono>
-		<direccion>c/Leon 15, 2ºA</direccion>
+		<direccion>c/Leon 15, 2ÂºA</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>pilar_rueda.png</fotografia>
-		<patologia_actual>Trastorno de estrés postraumático (TEPT)</patologia_actual>
+		<patologia_actual>Trastorno de estrÃ©s postraumÃ¡tico (TEPT)</patologia_actual>
 		<fecha_inicio>10/11/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_001</psiquiatra_asignado>
 		<formularios_consultas>
@@ -702,12 +702,12 @@
 				<paciente>g1_id_paciente_010</paciente>
 				<psiquiatra>g1_id_psiquiatra_001</psiquiatra>
 				<fecha_consulta>10/11/2020</fecha_consulta>
-				<motivo_consulta>Constante sensación de miedo</motivo_consulta>
+				<motivo_consulta>Constante sensaciÃ³n de miedo</motivo_consulta>
 				<desencadenante>Secuestro</desencadenante>
 				<observaciones>El paciente presenta flashbacks de cuando le secuestraron, pesadillas y alucianciones</observaciones>
-				<diagnostico>Trastorno de estrés postraumático (TEPT)</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina para la estimulación</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<diagnostico>Trastorno de estrÃ©s postraumÃ¡tico (TEPT)</diagnostico>
+				<tratamiento>Se recomienda tomar Sertralina para la estimulaciÃ³n</tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -715,16 +715,16 @@
 	<item>
 		<_id>g1_id_paciente_011</_id>
 		<nombre>David</nombre>
-		<apellidos>Lasa Ordoñez</apellidos>
+		<apellidos>Lasa OrdoÃ±ez</apellidos>
 		<dni>23567210K</dni>
 		<fecha_de_nacimiento>18/01/1996</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>davidlasa96@gmail.com</email>
 		<telefono>662537784</telefono>
-		<direccion>c/aceras 2, 4ºB</direccion>
+		<direccion>c/aceras 2, 4ÂºB</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>david_lasa.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -767,11 +767,11 @@
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>11/09/2020</fecha_consulta>
 				<motivo_consulta>Ataque de ansiedad</motivo_consulta>
-				<desencadenante>Discusión en el trabajo</desencadenante>
-				<observaciones>El paciente presenta un ritmo cardíaco alto, sudores y dificultad para respirar</observaciones>
+				<desencadenante>DiscusiÃ³n en el trabajo</desencadenante>
+				<observaciones>El paciente presenta un ritmo cardÃ­aco alto, sudores y dificultad para respirar</observaciones>
 				<diagnostico>Trastorno de ansiedad</diagnostico>
 				<tratamiento>Se recomienda tomar Lexatin</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -780,23 +780,23 @@
 				<paciente>g1_id_paciente_011</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>22/04/2016</fecha_consulta>
-				<motivo_consulta>Preocupante pérdida de peso</motivo_consulta>
+				<motivo_consulta>Preocupante pÃ©rdida de peso</motivo_consulta>
 				<desencadenante>Padecimiento de desmayos con alta frecuencia</desencadenante>
-				<observaciones>El paciente presenta palidez, falta de energía y delgadez extrema</observaciones>
+				<observaciones>El paciente presenta palidez, falta de energÃ­a y delgadez extrema</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar ciproheptadina para estimular el apetito</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_024</_id>
 				<paciente>g1_id_paciente_011</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>13/05/2016</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
-				<observaciones>El paciente presenta un claro aumento de peso y gran mejoría psicológica</observaciones>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
+				<observaciones>El paciente presenta un claro aumento de peso y gran mejorÃ­a psicolÃ³gica</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar ciproheptadina para estimular el apetito</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -809,14 +809,14 @@
 		<sexo>Mujer</sexo>
 		<email>carmencastro80@gmail.com</email>
 		<telefono>623445237</telefono>
-		<direccion>c/romeros 7, 3ºB</direccion>
+		<direccion>c/romeros 7, 3ÂºB</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>carmen_castro.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>12/10/2009</fecha_inicio>
 				<fecha_final>03/02/2010</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -838,7 +838,7 @@
 				</medicamentos_asignados>
 			</item>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>14/07/2012</fecha_inicio>
 				<fecha_final>15/01/2013</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -881,10 +881,10 @@
 				<fecha_consulta>09/08/2020</fecha_consulta>
 				<motivo_consulta>Ataque de ansiedad</motivo_consulta>
 				<desencadenante>Incidente en el trabajo</desencadenante>
-				<observaciones>La paciente ha sufrido un episodio de pánico durante la terapia</observaciones>
+				<observaciones>La paciente ha sufrido un episodio de pÃ¡nico durante la terapia</observaciones>
 				<diagnostico>Trastorno de ansiedad</diagnostico>
 				<tratamiento>Se recomienda tomar Lexatin</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -893,23 +893,23 @@
 				<paciente>g1_id_paciente_012</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>14/10/2009</fecha_consulta>
-				<motivo_consulta>Despresión</motivo_consulta>
+				<motivo_consulta>DespresiÃ³n</motivo_consulta>
 				<desencadenante>Malestar personal</desencadenante>
 				<observaciones>La paciente presenta falta de autoestima</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_027</_id>
 				<paciente>g1_id_paciente_012</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>30/10/2009</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
-				<observaciones>La paciente continúa igual de depresiva y no presenta mejoría</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
+				<observaciones>La paciente continÃºa igual de depresiva y no presenta mejorÃ­a</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Lexatin</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_028</_id>
@@ -917,11 +917,11 @@
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>14/07/2012</fecha_consulta>
 				<motivo_consulta>Tristeza recurrente</motivo_consulta>
-				<desencadenante>Experiencia personal traumática</desencadenante>
+				<desencadenante>Experiencia personal traumÃ¡tica</desencadenante>
 				<observaciones>La paciente presenta distanciamiento social y falta de autoestima</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_029</_id>
@@ -929,11 +929,11 @@
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>05/09/2012</fecha_consulta>
 				<motivo_consulta>Ataque de ansiedad</motivo_consulta>
-				<desencadenante>Incidente doméstico</desencadenante>
-				<observaciones>La paciente está decaida y se culpabiliza de todo</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<desencadenante>Incidente domÃ©stico</desencadenante>
+				<observaciones>La paciente estÃ¡ decaida y se culpabiliza de todo</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Lexatin</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -946,14 +946,14 @@
 		<sexo>Hombre</sexo>
 		<email>eduardovalderrama97@gmail.com</email>
 		<telefono>662523781</telefono>
-		<direccion>c/palmeros 5, 6ºA</direccion>
+		<direccion>c/palmeros 5, 6ÂºA</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>eduardo_valderrama.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Deficit de atención</patologia>
+				<patologia>Deficit de atenciÃ³n</patologia>
 				<fecha_inicio>15/12/2008</fecha_inicio>
 				<fecha_final>01/04/2009</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
@@ -991,12 +991,12 @@
 				<paciente>g1_id_paciente_013</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>16/07/2020</fecha_consulta>
-				<motivo_consulta>Preocupante pérdida de peso</motivo_consulta>
+				<motivo_consulta>Preocupante pÃ©rdida de peso</motivo_consulta>
 				<desencadenante>Padecimiento de desmayos con alta frecuencia</desencadenante>
-				<observaciones>El paciente presenta palidez, falta de energía y delgadez extrema</observaciones>
+				<observaciones>El paciente presenta palidez, falta de energÃ­a y delgadez extrema</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar Ciproheptadina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -1007,17 +1007,17 @@
 				<fecha_consulta>11/01/2009</fecha_consulta>
 				<motivo_consulta>Dificultad para atender en clase</motivo_consulta>
 				<desencadenante>Malas calificaciones en la Universidad</desencadenante>
-				<observaciones>El paciente presenta falta de atención y falta de capacidad de concentración</observaciones>
-				<diagnostico>Deficit de atención</diagnostico>
+				<observaciones>El paciente presenta falta de atenciÃ³n y falta de capacidad de concentraciÃ³n</observaciones>
+				<diagnostico>Deficit de atenciÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Ritalina</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_032</_id>
 				<paciente>g1_id_paciente_013</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>01/04/2009</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
 				<observaciones>El paciente se ha recuperado</observaciones>
 			</item>
 		</formularios_previos>
@@ -1031,12 +1031,12 @@
 		<sexo>Mujer</sexo>
 		<email>claralabrador00@gmail.com</email>
 		<telefono>624567731</telefono>
-		<direccion>c/aragoneses 2, 1ºA</direccion>
+		<direccion>c/aragoneses 2, 1ÂºA</direccion>
 		<codigo_postal>29004</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>clara_labrador.png</fotografia>
-		<patologia_actual>Depresión</patologia_actual>
+		<patologia_actual>DepresiÃ³n</patologia_actual>
 		<fecha_inicio>11/09/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
 		<formularios_consultas>
@@ -1055,12 +1055,12 @@
 				<paciente>g1_id_paciente_014</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>15/09/2020</fecha_consulta>
-				<motivo_consulta>Sensación de abandono</motivo_consulta>
+				<motivo_consulta>SensaciÃ³n de abandono</motivo_consulta>
 				<desencadenante>Distanciamiento de su pareja sentimental</desencadenante>
 				<observaciones>La paciente presenta falta de autoestima y tristeza continua</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -1074,10 +1074,10 @@
 		<sexo>Mujer</sexo>
 		<email>jimenabenitez86@gmail.com</email>
 		<telefono>672523721</telefono>
-		<direccion>c/cabrero 1, 4ºA</direccion>
+		<direccion>c/cabrero 1, 4ÂºA</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>jimena_benitez.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -1114,7 +1114,7 @@
 				<paciente>g1_id_paciente_015</paciente>
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>08/09/2020</fecha_consulta>
-				<motivo_consulta>Abuso de sustancias alcohólicas</motivo_consulta>
+				<motivo_consulta>Abuso de sustancias alcohÃ³licas</motivo_consulta>
 				<desencadenante>Despido laboral</desencadenante>
 				<observaciones>La paciente presenta un cuadro de ansiedad y insomnio</observaciones>
 				<diagnostico>Alcoholemia</diagnostico>
@@ -1129,10 +1129,10 @@
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>15/08/1996</fecha_consulta>
 				<motivo_consulta>Bajo rendimiento en el colegio</motivo_consulta>
-				<observaciones>La paciente presenta falta de antención y continua inquietud</observaciones>
+				<observaciones>La paciente presenta falta de antenciÃ³n y continua inquietud</observaciones>
 				<diagnostico>Hiperactividad</diagnostico>
 				<tratamiento>Se recomienda tomar Ritalina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 meses</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 meses</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_036</_id>
@@ -1140,28 +1140,28 @@
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>09/12/1997</fecha_consulta>
 				<motivo_consulta>Revision</motivo_consulta>
-				<observaciones>La paciente ha respondido bien al tratamiento, pero aún necesita asistencia</observaciones>
+				<observaciones>La paciente ha respondido bien al tratamiento, pero aÃºn necesita asistencia</observaciones>
 				<diagnostico>Hiperactividad</diagnostico>
 				<tratamiento>Se recomienda tomar Ritalina</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_016</_id>
-		<nombre>Adrián</nombre>
+		<nombre>AdriÃ¡n</nombre>
 		<apellidos>Pacheco Segura</apellidos>
 		<dni>23223319J</dni>
 		<fecha_de_nacimiento>03/12/2000</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>adrianpacheco00@gmail.com</email>
 		<telefono>634167739</telefono>
-		<direccion>c/hernandez 2, 1ºA</direccion>
+		<direccion>c/hernandez 2, 1ÂºA</direccion>
 		<codigo_postal>29006</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>adrian_pacheco.png</fotografia>
-		<patologia_actual>Drogadicción</patologia_actual>
+		<patologia_actual>DrogadicciÃ³n</patologia_actual>
 		<fecha_inicio>13/11/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_002</psiquiatra_asignado>
 		<formularios_consultas>
@@ -1176,9 +1176,9 @@
 				<psiquiatra>g1_id_psiquiatra_002</psiquiatra>
 				<fecha_consulta>13/11/2020</fecha_consulta>
 				<motivo_consulta>Abuso de sustancias cannabicas</motivo_consulta>
-				<desencadenante>Nuevo círculo de amistades</desencadenante>
-				<observaciones>El paciente presenta una leve falta de atención y irritación ocular</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<desencadenante>Nuevo cÃ­rculo de amistades</desencadenante>
+				<observaciones>El paciente presenta una leve falta de atenciÃ³n y irritaciÃ³n ocular</observaciones>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda acudir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
 			</item>
@@ -1188,20 +1188,20 @@
 	<item>
 		<_id>g1_id_paciente_017</_id>
 		<nombre>Gabriela</nombre>
-		<apellidos>Salado San Millán</apellidos>
+		<apellidos>Salado San MillÃ¡n</apellidos>
 		<dni>23788219K</dni>
 		<fecha_de_nacimiento>21/07/1999</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>gabrielasalado99@gmail.com</email>
 		<telefono>674553729</telefono>
-		<direccion>c/capitanes 4, 2ºA</direccion>
+		<direccion>c/capitanes 4, 2ÂºA</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>gabriela_salado.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Ninfomanía</patologia>
+				<patologia>NinfomanÃ­a</patologia>
 				<fecha_inicio>12/03/2020</fecha_inicio>
 				<fecha_final>14/07/2020</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1234,9 +1234,9 @@
 				<paciente>g1_id_paciente_017</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>17/10/2020</fecha_consulta>
-				<motivo_consulta>Preocupante pérdida de peso</motivo_consulta>
+				<motivo_consulta>Preocupante pÃ©rdida de peso</motivo_consulta>
 				<desencadenante>Padecimiento de desmayos con alta frecuencia</desencadenante>
-				<observaciones>La paciente presenta palidez, falta de energía y delgadez extrema</observaciones>
+				<observaciones>La paciente presenta palidez, falta de energÃ­a y delgadez extrema</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda ir a terapia</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 3 semanas</frecuencia_tratamiento>
@@ -1248,23 +1248,23 @@
 				<paciente>g1_id_paciente_017</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>12/03/2020</fecha_consulta>
-				<motivo_consulta>Insatisfacción sexsual</motivo_consulta>
-				<desencadenante>Múltiples relaciones en un corto periodo de tiempo</desencadenante>
-				<observaciones>La paciente presenta obsesión sexual y aumento desmedido del deseo sexual</observaciones>
-				<diagnostico>Ninfomanía</diagnostico>
+				<motivo_consulta>InsatisfacciÃ³n sexsual</motivo_consulta>
+				<desencadenante>MÃºltiples relaciones en un corto periodo de tiempo</desencadenante>
+				<observaciones>La paciente presenta obsesiÃ³n sexual y aumento desmedido del deseo sexual</observaciones>
+				<diagnostico>NinfomanÃ­a</diagnostico>
 				<tratamiento>Se recomienda tomar Naltrexona</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_040</_id>
 				<paciente>g1_id_paciente_017</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>18/05/2020</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
-				<observaciones>La paciente responde bien al tratamiento pero aún así deberá seguir tomándolo</observaciones>
-				<diagnostico>Ninfomanía</diagnostico>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
+				<observaciones>La paciente responde bien al tratamiento pero aÃºn asÃ­ deberÃ¡ seguir tomÃ¡ndolo</observaciones>
+				<diagnostico>NinfomanÃ­a</diagnostico>
 				<tratamiento>Se recomienda tomar Naltrexona</tratamiento>
-				<frecuencia_tratamiento>1 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -1277,14 +1277,14 @@
 		<sexo>Mujer</sexo>
 		<email>irenecarrasco90@gmail.com</email>
 		<telefono>663640389</telefono>
-		<direccion>c/lipezcua 6, 5ºE</direccion>
+		<direccion>c/lipezcua 6, 5ÂºE</direccion>
 		<codigo_postal>29006</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>irene_carracsco.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Síndrome de Asperger</patologia>
+				<patologia>SÃ­ndrome de Asperger</patologia>
 				<fecha_inicio>13/10/2002</fecha_inicio>
 				<fecha_final>28/02/2003</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1312,39 +1312,39 @@
 				<fecha_consulta>13/10/2002</fecha_consulta>
 				<motivo_consulta>Comportamiento inusual</motivo_consulta>
 				<desencadenante>Enfrentamiento en el instituto</desencadenante>
-				<observaciones>La paciente presenta dificultades para conprender el lenguaje corporal, así como problemas para comprender los sentimientos de otras personas y para expresar sus propios sentimientos</observaciones>
-				<diagnostico>Síndrome de Asperger</diagnostico>
+				<observaciones>La paciente presenta dificultades para conprender el lenguaje corporal, asÃ­ como problemas para comprender los sentimientos de otras personas y para expresar sus propios sentimientos</observaciones>
+				<diagnostico>SÃ­ndrome de Asperger</diagnostico>
 				<tratamiento>Se recomienda tomar Risperidal</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_043</_id>
 				<paciente>g1_id_paciente_018</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>28/02/2003</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
-				<observaciones>La paciente presenta claros signos de mejoría y pude dejar la medicación</observaciones>
-				<diagnostico>Síndrome de Asperger</diagnostico>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
+				<observaciones>La paciente presenta claros signos de mejorÃ­a y pude dejar la medicaciÃ³n</observaciones>
+				<diagnostico>SÃ­ndrome de Asperger</diagnostico>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_019</_id>
 		<nombre>Marta</nombre>
-		<apellidos>Cantos Martín</apellidos>
+		<apellidos>Cantos MartÃ­n</apellidos>
 		<dni>16773490C</dni>
 		<fecha_de_nacimiento>23/08/1995</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>martacantos95@gmail.com</email>
 		<telefono>634528965</telefono>
-		<direccion>c/edison 3, 1ºA</direccion>
+		<direccion>c/edison 3, 1ÂºA</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>marta_cantos.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>15/09/2016</fecha_inicio>
 				<fecha_final>03/01/2017</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1382,12 +1382,12 @@
 				<paciente>g1_id_paciente_019</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>10/10/2020</fecha_consulta>
-				<motivo_consulta>Exceso de estrés</motivo_consulta>
+				<motivo_consulta>Exceso de estrÃ©s</motivo_consulta>
 				<desencadenante>Malas calificaciones</desencadenante>
-				<observaciones>La paciente presenta sensación de pánico al creer que no va a tener un buen futuro laboral</observaciones>
+				<observaciones>La paciente presenta sensaciÃ³n de pÃ¡nico al creer que no va a tener un buen futuro laboral</observaciones>
 				<diagnostico>Ansiedad</diagnostico>
-				<tratamiento>Se recomienda tomar Lexatin para la relajación</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Lexatin para la relajaciÃ³n</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -1398,10 +1398,10 @@
 				<fecha_consulta>15/09/2016</fecha_consulta>
 				<motivo_consulta>Decaida emocional</motivo_consulta>
 				<desencadenante>Fallecimiento de la madre</desencadenante>
-				<observaciones>La paciente está decaida y presenta un muy bajo estado de ánimo</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<observaciones>La paciente estÃ¡ decaida y presenta un muy bajo estado de Ã¡nimo</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina para mejorar la estabilidad emocional</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_045</_id>
@@ -1411,9 +1411,9 @@
 				<motivo_consulta>Intento de suicidio</motivo_consulta>
 				<desencadenante>Funeral de la madre</desencadenante>
 				<observaciones>La paciente presenta pensamientos suicidas y poca estabilidad mental</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina en dosis más altas</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda tomar Sertralina en dosis mÃ¡s altas</tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -1426,12 +1426,12 @@
 		<sexo>Hombre</sexo>
 		<email>miguelrodriguez01@gmail.com</email>
 		<telefono>624542731</telefono>
-		<direccion>c/galvez 15, 2ºB</direccion>
+		<direccion>c/galvez 15, 2ÂºB</direccion>
 		<codigo_postal>29007</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>miguel_rodriguez.png</fotografia>
-		<patologia_actual>Drogadicción</patologia_actual>
+		<patologia_actual>DrogadicciÃ³n</patologia_actual>
 		<fecha_inicio>17/11/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
 		<formularios_consultas>
@@ -1447,8 +1447,8 @@
 				<fecha_consulta>17/11/2020</fecha_consulta>
 				<motivo_consulta>Reciente sobredosis</motivo_consulta>
 				<desencadenante>Abandono de los estudios</desencadenante>
-				<observaciones>El paciente presenta claros síntomas de estar bajo los efectos de las drogas, probablemente cocaína</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<observaciones>El paciente presenta claros sÃ­ntomas de estar bajo los efectos de las drogas, probablemente cocaÃ­na</observaciones>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda asistir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
 			</item>
@@ -1457,17 +1457,17 @@
 	</item>
 	<item>
 		<_id>g1_id_paciente_021</_id>
-		<nombre>Álvaro</nombre>
-		<apellidos>Torres Sánchez</apellidos>
+		<nombre>Ãlvaro</nombre>
+		<apellidos>Torres SÃ¡nchez</apellidos>
 		<dni>23499671C</dni>
 		<fecha_de_nacimiento>19/05/1987</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>alvarotorres87@gmail.com</email>
 		<telefono>663456621</telefono>
-		<direccion>c/palomas 2, 3ºB</direccion>
+		<direccion>c/palomas 2, 3ÂºB</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>alvaro_torres.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -1485,7 +1485,7 @@
 				</formularios_consultas>
 			</item>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>13/02/2017</fecha_inicio>
 				<fecha_final>15/08/2017</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_003</psiquiatra_asignado>
@@ -1514,9 +1514,9 @@
 				<paciente>g1_id_paciente_021</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>11/11/2010</fecha_consulta>
-				<motivo_consulta>Reciente coma etílico</motivo_consulta>
+				<motivo_consulta>Reciente coma etÃ­lico</motivo_consulta>
 				<desencadenante>Despido laboral</desencadenante>
-				<observaciones>El paciente presenta claros síntomas de estar bajo los efectos del alcohol</observaciones>
+				<observaciones>El paciente presenta claros sÃ­ntomas de estar bajo los efectos del alcohol</observaciones>
 				<diagnostico>Alcoholismo</diagnostico>
 				<tratamiento>Se recomienda asistir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
@@ -1526,7 +1526,7 @@
 				<paciente>g1_id_paciente_021</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>13/12/2010</fecha_consulta>
-				<motivo_consulta>Revisión tras un mes de terapia</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n tras un mes de terapia</motivo_consulta>
 				<observaciones>El paciente ha respondido bien a la terapia</observaciones>
 				<diagnostico>Alcoholismo</diagnostico>
 				<tratamiento>Se recomienda seguir asistiendo a la terapia grupal</tratamiento>
@@ -1540,36 +1540,36 @@
 				<motivo_consulta>Continuo estado de tristeza</motivo_consulta>
 				<desencadenante>Fallecimiento de su perro</desencadenante>
 				<observaciones>El paciente presenta insomnio y sentimientos de inutilidad</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina para el aumento de la producción de serotonina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 meses</frecuencia_tratamiento>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda tomar Sertralina para el aumento de la producciÃ³n de serotonina</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 meses</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_051</_id>
 				<paciente>g1_id_paciente_021</paciente>
 				<psiquiatra>g1_id_psiquiatra_003</psiquiatra>
 				<fecha_consulta>22/04/2017</fecha_consulta>
-				<motivo_consulta>Revisión post-tratamiento</motivo_consulta>
-				<observaciones>El paciente ha respondido bien al tratamiento, pero aún sigue un poco depresivo</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda tomar Lexatín</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 1 mes</frecuencia_tratamiento>
+				<motivo_consulta>RevisiÃ³n post-tratamiento</motivo_consulta>
+				<observaciones>El paciente ha respondido bien al tratamiento, pero aÃºn sigue un poco depresivo</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda tomar LexatÃ­n</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_022</_id>
 		<nombre>Inmaculada</nombre>
-		<apellidos>Reyes Sánchez</apellidos>
+		<apellidos>Reyes SÃ¡nchez</apellidos>
 		<dni>16213490C</dni>
 		<fecha_de_nacimiento>15/02/1999</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>inmareyes99@gmail.com</email>
 		<telefono>634528215</telefono>
-		<direccion>c/genezaret 3, 1ºA</direccion>
+		<direccion>c/genezaret 3, 1ÂºA</direccion>
 		<codigo_postal>29006</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>inmaculada_reyes.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -1599,12 +1599,12 @@
 				<paciente>g1_id_paciente_022</paciente>
 				<psiquiatra>g1_id_psiquiatra_004</psiquiatra>
 				<fecha_consulta>17/08/2019</fecha_consulta>
-				<motivo_consulta>Aumento de peso en los últimos meses</motivo_consulta>
+				<motivo_consulta>Aumento de peso en los Ãºltimos meses</motivo_consulta>
 				<desencadenante>Ruptura sentimental</desencadenante>
-				<observaciones>La paciente presenta mareos y desmayos contínuos por inanición, debido a que no se encuentra cómoda con su cuerpo</observaciones>
+				<observaciones>La paciente presenta mareos y desmayos contÃ­nuos por inaniciÃ³n, debido a que no se encuentra cÃ³moda con su cuerpo</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar Ciproheptadina para el aumento de apetito</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_053</_id>
@@ -1612,28 +1612,28 @@
 				<psiquiatra>g1_id_psiquiatra_004</psiquiatra>
 				<fecha_consulta>27/09/2019</fecha_consulta>
 				<motivo_consulta>Extrema delgadez</motivo_consulta>
-				<desencadenante>Insatisfacción física</desencadenante>
+				<desencadenante>InsatisfacciÃ³n fÃ­sica</desencadenante>
 				<observaciones>La paciente presenta un temor intenso al sobrepeso</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar Ciproheptadina en mayores dosis</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_023</_id>
 		<nombre>Paula</nombre>
-		<apellidos>Pestaña Cochar</apellidos>
+		<apellidos>PestaÃ±a Cochar</apellidos>
 		<dni>34214469J</dni>
 		<fecha_de_nacimiento>17/09/1999</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>paulapesti99@gmail.com</email>
 		<telefono>633128221</telefono>
-		<direccion>c/aceras 2, 1ºB</direccion>
+		<direccion>c/aceras 2, 1ÂºB</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
-		<fotografia>paula_pestaña.png</fotografia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
+		<fotografia>paula_pestaÃ±a.png</fotografia>
 		<patologias_previas>
 			<item>
 				<patologia>Trastorno bipolar</patologia>
@@ -1662,22 +1662,22 @@
 				<paciente>g1_id_paciente_023</paciente>
 				<psiquiatra>g1_id_psiquiatra_004</psiquiatra>
 				<fecha_consulta>09/01/2019</fecha_consulta>
-				<motivo_consulta>Continuos enfrentamientos domésticos</motivo_consulta>
+				<motivo_consulta>Continuos enfrentamientos domÃ©sticos</motivo_consulta>
 				<observaciones>La paciente presenta irritabilidad excesiva, comportamiento agresivo e impaciencia</observaciones>
 				<diagnostico>Trastorno bipolar</diagnostico>
 				<tratamiento>Se recomienda tomar Olanzapina para la estabilidad mental</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_055</_id>
 				<paciente>g1_id_paciente_023</paciente>
 				<psiquiatra>g1_id_psiquiatra_004</psiquiatra>
 				<fecha_consulta>19/02/2019</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
-				<observaciones>La paciente presenta una lenta recuperación</observaciones>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
+				<observaciones>La paciente presenta una lenta recuperaciÃ³n</observaciones>
 				<diagnostico>Trastorno bipolar</diagnostico>
 				<tratamiento>Se recomienda tomar Olanzapina para la estabilidad mental</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -1690,12 +1690,12 @@
 		<sexo>Mujer</sexo>
 		<email>raquelsutton97@gmail.com</email>
 		<telefono>619565731</telefono>
-		<direccion>c/riverano 19, 2ºE</direccion>
+		<direccion>c/riverano 19, 2ÂºE</direccion>
 		<codigo_postal>29001</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>raquel_sutton.png</fotografia>
-		<patologia_actual>Depresión</patologia_actual>
+		<patologia_actual>DepresiÃ³n</patologia_actual>
 		<fecha_inicio>12/09/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_004</psiquiatra_asignado>
 		<formularios_consultas>
@@ -1714,12 +1714,12 @@
 				<paciente>g1_id_paciente_024</paciente>
 				<psiquiatra>g1_id_psiquiatra_004</psiquiatra>
 				<fecha_consulta>12/09/2020</fecha_consulta>
-				<motivo_consulta>Depresión</motivo_consulta>
-				<desencadenante>Accidente de tráfico</desencadenante>
-				<observaciones>La paciente tuvo un accidente reciente que la dejó paralitica y no quiere salir de su domicilio</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<motivo_consulta>DepresiÃ³n</motivo_consulta>
+				<desencadenante>Accidente de trÃ¡fico</desencadenante>
+				<observaciones>La paciente tuvo un accidente reciente que la dejÃ³ paralitica y no quiere salir de su domicilio</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -1733,10 +1733,10 @@
 		<sexo>Mujer</sexo>
 		<email>palomatrinidad96@gmail.com</email>
 		<telefono>621321780</telefono>
-		<direccion>c/trinidad 2, 1ºB</direccion>
+		<direccion>c/trinidad 2, 1ÂºB</direccion>
 		<codigo_postal>29004</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>paloma_trinidad.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -1774,36 +1774,36 @@
 				<observaciones>La paciente presenta pensamientos desordenados y delirios</observaciones>
 				<diagnostico>Psicosis</diagnostico>
 				<tratamiento>Se recomienda tomar Aripiprazol</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 4 meses</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 4 meses</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_058</_id>
 				<paciente>g1_id_paciente_025</paciente>
 				<psiquiatra>g1_id_psiquiatra_004</psiquiatra>
 				<fecha_consulta>28/12/2016</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
-				<observaciones>La paciente no diferencia la realidad de su imaginación</observaciones>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
+				<observaciones>La paciente no diferencia la realidad de su imaginaciÃ³n</observaciones>
 				<diagnostico>Psicosis</diagnostico>
 				<tratamiento>Se recomienda tomar Asenapina</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_026</_id>
 		<nombre>Fernando</nombre>
-		<apellidos>Sánchez Rodriguez</apellidos>
+		<apellidos>SÃ¡nchez Rodriguez</apellidos>
 		<dni>19932189D</dni>
 		<fecha_de_nacimiento>27/03/2000</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>fernandosanchez00@gmail.com</email>
 		<telefono>622564731</telefono>
-		<direccion>c/ristori 12, 4ºE</direccion>
+		<direccion>c/ristori 12, 4ÂºE</direccion>
 		<codigo_postal>29001</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>fernando_sanchez.png</fotografia>
-		<patologia_actual>Drogadicción</patologia_actual>
+		<patologia_actual>DrogadicciÃ³n</patologia_actual>
 		<fecha_inicio>01/12/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_005</psiquiatra_asignado>
 		<formularios_consultas>
@@ -1817,10 +1817,10 @@
 				<paciente>g1_id_paciente_026</paciente>
 				<psiquiatra>g1_id_psiquiatra_005</psiquiatra>
 				<fecha_consulta>02/12/2020</fecha_consulta>
-				<motivo_consulta>Sus padres lo vieron fumando hachís</motivo_consulta>
+				<motivo_consulta>Sus padres lo vieron fumando hachÃ­s</motivo_consulta>
 				<desencadenante>Asistencia a fiestas repetidas veces a la semana</desencadenante>
-				<observaciones>El paciente presenta claros síntomas de estar bajo los efectos de las drogas y no presenta iniciativa para dejarlas</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<observaciones>El paciente presenta claros sÃ­ntomas de estar bajo los efectos de las drogas y no presenta iniciativa para dejarlas</observaciones>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda asistir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
 			</item>
@@ -1830,20 +1830,20 @@
 	<item>
 		<_id>g1_id_paciente_027</_id>
 		<nombre>Alberto</nombre>
-		<apellidos>Álvarez Martín</apellidos>
+		<apellidos>Ãlvarez MartÃ­n</apellidos>
 		<dni>16773430C</dni>
 		<fecha_de_nacimiento>11/06/1995</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>albertoalvarez95@gmail.com</email>
 		<telefono>634548965</telefono>
-		<direccion>c/martinez 3, 1ºA</direccion>
+		<direccion>c/martinez 3, 1ÂºA</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>alberto_alvarez.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Depresión</patologia>
+				<patologia>DepresiÃ³n</patologia>
 				<fecha_inicio>18/08/2018</fecha_inicio>
 				<fecha_final>02/01/2019</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_005</psiquiatra_asignado>
@@ -1881,12 +1881,12 @@
 				<paciente>g1_id_paciente_027</paciente>
 				<psiquiatra>g1_id_psiquiatra_005</psiquiatra>
 				<fecha_consulta>03/10/2020</fecha_consulta>
-				<motivo_consulta>Agobio académico</motivo_consulta>
-				<desencadenante>Semana de exámenes en la Universidad</desencadenante>
+				<motivo_consulta>Agobio acadÃ©mico</motivo_consulta>
+				<desencadenante>Semana de exÃ¡menes en la Universidad</desencadenante>
 				<observaciones>El paciente se encuentra muy agobiado con las calificaciones de la Universidad y es muy autoexigente. Se bloquea cuando estudia a causa del agobio</observaciones>
 				<diagnostico>Ansiedad</diagnostico>
 				<tratamiento>Se recomienda tomar Lexatin</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos>
@@ -1895,12 +1895,12 @@
 				<paciente>g1_id_paciente_027</paciente>
 				<psiquiatra>g1_id_psiquiatra_005</psiquiatra>
 				<fecha_consulta>18/08/2018</fecha_consulta>
-				<motivo_consulta>Depresión</motivo_consulta>
-				<desencadenante>Mala situación personal</desencadenante>
-				<observaciones>El paciente ha empeorado su relación con amigos y familiares. Se detecta un posible inicio de aislamiento social</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina en pequeñas dosis</tratamiento>
-				<frecuencia_tratamiento>1 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<motivo_consulta>DepresiÃ³n</motivo_consulta>
+				<desencadenante>Mala situaciÃ³n personal</desencadenante>
+				<observaciones>El paciente ha empeorado su relaciÃ³n con amigos y familiares. Se detecta un posible inicio de aislamiento social</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda tomar Sertralina en pequeÃ±as dosis</tratamiento>
+				<frecuencia_tratamiento>1 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_061</_id>
@@ -1908,10 +1908,10 @@
 				<psiquiatra>g1_id_psiquiatra_005</psiquiatra>
 				<fecha_consulta>13/09/2018</fecha_consulta>
 				<motivo_consulta>Seguimiento</motivo_consulta>
-				<observaciones>El paciente no presenta mejoría tras el tratamiento, sigue con depresión</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<observaciones>El paciente no presenta mejorÃ­a tras el tratamiento, sigue con depresiÃ³n</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina en altas dosis</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -1924,10 +1924,10 @@
 		<sexo>Hombre</sexo>
 		<email>carlospuga00@gmail.com</email>
 		<telefono>621322680</telefono>
-		<direccion>c/puganos 2, 1ºB</direccion>
+		<direccion>c/puganos 2, 1ÂºB</direccion>
 		<codigo_postal>29001</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>carlos_puga.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -1963,8 +1963,8 @@
 				<paciente>g1_id_paciente_028</paciente>
 				<psiquiatra>g1_id_psiquiatra_005</psiquiatra>
 				<fecha_consulta>18/08/2017</fecha_consulta>
-				<motivo_consulta>Supervisión de la terapia ocupacional recomendada</motivo_consulta>
-				<observaciones>El paciente presenta una ligera mejoría respecto al desarrollo de sus habilidades motoras, pero no responde bien debido a que piensa que debe mejorar su inteligencia con el tratamiento</observaciones>
+				<motivo_consulta>SupervisiÃ³n de la terapia ocupacional recomendada</motivo_consulta>
+				<observaciones>El paciente presenta una ligera mejorÃ­a respecto al desarrollo de sus habilidades motoras, pero no responde bien debido a que piensa que debe mejorar su inteligencia con el tratamiento</observaciones>
 				<diagnostico>Retraso mental severo</diagnostico>
 				<tratamiento>Se recomienda ir a terapia ocupacional</tratamiento>
 				<frecuencia_tratamiento>3 veces a la semana durante 4 meses</frecuencia_tratamiento>
@@ -1974,16 +1974,16 @@
 	<item>
 		<_id>g1_id_paciente_029</_id>
 		<nombre>Martina</nombre>
-		<apellidos>Sánchez Rodriguez</apellidos>
+		<apellidos>SÃ¡nchez Rodriguez</apellidos>
 		<dni>11932989D</dni>
 		<fecha_de_nacimiento>10/09/1965</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>martinasanchez65@gmail.com</email>
 		<telefono>622564831</telefono>
-		<direccion>c/árboles 6, 4ºE</direccion>
+		<direccion>c/Ã¡rboles 6, 4ÂºE</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>martina_sanchez.png</fotografia>
 		<patologia_actual>Demencia</patologia_actual>
 		<fecha_inicio>10/11/2020</fecha_inicio>
@@ -2009,10 +2009,10 @@
 				<fecha_consulta>10/11/2020</fecha_consulta>
 				<motivo_consulta>Crisis existencial</motivo_consulta>
 				<desencadenante>No ha acudido al trabajo en 1 semana</desencadenante>
-				<observaciones>La paciente presenta pequeñas pérdidas de memoria, así como dificultad para razonar y para comunicarse</observaciones>
+				<observaciones>La paciente presenta pequeÃ±as pÃ©rdidas de memoria, asÃ­ como dificultad para razonar y para comunicarse</observaciones>
 				<diagnostico>Demencia</diagnostico>
-				<tratamiento>Se recomienda tomar Donepezilo para las pérdidas de memoria y Memantina para la estabilidad mental</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Donepezilo para las pÃ©rdidas de memoria y Memantina para la estabilidad mental</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2026,10 +2026,10 @@
 		<sexo>Hombre</sexo>
 		<email>pepejimenez85@gmail.com</email>
 		<telefono>629564831</telefono>
-		<direccion>c/alameda 1, 4ºA</direccion>
+		<direccion>c/alameda 1, 4ÂºA</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>pepe_jimenez.png</fotografia>
 		<patologia_actual>Alcoholismo</patologia_actual>
 		<fecha_inicio>13/10/2020</fecha_inicio>
@@ -2045,7 +2045,7 @@
 				<paciente>g1_id_paciente_030</paciente>
 				<psiquiatra>g1_id_psiquiatra_006</psiquiatra>
 				<fecha_consulta>13/10/2020</fecha_consulta>
-				<motivo_consulta>Adicción al alcohol</motivo_consulta>
+				<motivo_consulta>AdicciÃ³n al alcohol</motivo_consulta>
 				<desencadenante>Fallecimiento reciente de un ser querido</desencadenante>
 				<observaciones>El paciente presenta fuertes deseos de beber alcohol</observaciones>
 				<diagnostico>Alcoholismo</diagnostico>
@@ -2057,21 +2057,21 @@
 	</item>
 	<item>
 		<_id>g1_id_paciente_031</_id>
-		<nombre>Lucía</nombre>
+		<nombre>LucÃ­a</nombre>
 		<apellidos>Sanchez Lasa</apellidos>
 		<dni>34716242J</dni>
 		<fecha_de_nacimiento>14/03/1999</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>luciasanchez99@gmail.com</email>
 		<telefono>621322670</telefono>
-		<direccion>c/tulipanes 2, 1ºB</direccion>
+		<direccion>c/tulipanes 2, 1ÂºB</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>lucia_sanchez.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Drogadicción</patologia>
+				<patologia>DrogadicciÃ³n</patologia>
 				<fecha_inicio>02/01/2019</fecha_inicio>
 				<fecha_final>20/08/2019</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_006</psiquiatra_asignado>
@@ -2095,7 +2095,7 @@
 				<motivo_consulta>Dependencia de MDMA</motivo_consulta>
 				<desencadenante>Viaje Erasmus</desencadenante>
 				<observaciones>La paciente presenta problemas de conducta y pupilas dilatadas</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda acudir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
 			</item>
@@ -2105,8 +2105,8 @@
 				<psiquiatra>g1_id_psiquiatra_006</psiquiatra>
 				<fecha_consulta>04/03/2019</fecha_consulta>
 				<motivo_consulta>Seguimiento despues de 2 meses de terapia</motivo_consulta>
-				<observaciones>La paciente presenta mejoras gracias a la terapia grupal, así como sumo interés en dsintoxicarse.</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<observaciones>La paciente presenta mejoras gracias a la terapia grupal, asÃ­ como sumo interÃ©s en dsintoxicarse.</observaciones>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda acudir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
 			</item>
@@ -2121,10 +2121,10 @@
 		<sexo>Mujer</sexo>
 		<email>cristinachamizo95@gmail.com</email>
 		<telefono>621300670</telefono>
-		<direccion>c/pistolas 2, 5ºC</direccion>
+		<direccion>c/pistolas 2, 5ÂºC</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>cristina_chamizo.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2155,10 +2155,10 @@
 				<psiquiatra>g1_id_psiquiatra_006</psiquiatra>
 				<fecha_consulta>15/05/2015</fecha_consulta>
 				<motivo_consulta>Comportamientos incoherentes</motivo_consulta>
-				<observaciones>La paciente presenta conducta impulsiva, imagen personal inestable y cambios en el estado de ánimo</observaciones>
+				<observaciones>La paciente presenta conducta impulsiva, imagen personal inestable y cambios en el estado de Ã¡nimo</observaciones>
 				<diagnostico>Trastorno de la personalidad</diagnostico>
 				<tratamiento>Se recomienda tomar Amitriptilina para estabilizarla</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_070</_id>
@@ -2166,11 +2166,11 @@
 				<psiquiatra>g1_id_psiquiatra_006</psiquiatra>
 				<fecha_consulta>26/06/2015</fecha_consulta>
 				<motivo_consulta>Ataque de nervios</motivo_consulta>
-				<desencadenante>Pensamiento de no mejoría</desencadenante>
-				<observaciones>La paciente presenta desmotivación y mal estar al creer que no va a mejorar</observaciones>
+				<desencadenante>Pensamiento de no mejorÃ­a</desencadenante>
+				<observaciones>La paciente presenta desmotivaciÃ³n y mal estar al creer que no va a mejorar</observaciones>
 				<diagnostico>Trastorno de la personalidad</diagnostico>
 				<tratamiento>Se recomienda tomar Amitriptilina para estabilizarla</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -2183,12 +2183,12 @@
 		<sexo>Hombre</sexo>
 		<email>alejandroortiz98@gmail.com</email>
 		<telefono>620564131</telefono>
-		<direccion>c/ortega 1, 2ºF</direccion>
+		<direccion>c/ortega 1, 2ÂºF</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>alejandro_ortiz.png</fotografia>
-		<patologia_actual>Drogadicción</patologia_actual>
+		<patologia_actual>DrogadicciÃ³n</patologia_actual>
 		<fecha_inicio>07/10/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_006</psiquiatra_asignado>
 		<formularios_consultas>
@@ -2204,8 +2204,8 @@
 				<fecha_consulta>07/10/2020</fecha_consulta>
 				<motivo_consulta>Constante consumo de drogas</motivo_consulta>
 				<desencadenante>Ruptura sentimental</desencadenante>
-				<observaciones>El paciente presenta una fuerte dependencia de las drogas, sufriendo sudoración y nerviosismo al llevar tiempo sin tomarlas</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<observaciones>El paciente presenta una fuerte dependencia de las drogas, sufriendo sudoraciÃ³n y nerviosismo al llevar tiempo sin tomarlas</observaciones>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda ir a terapia grupal</tratamiento>
 				<frecuencia_tratamiento>3 veces a la semana durante 6 mes</frecuencia_tratamiento>
 			</item>
@@ -2215,16 +2215,16 @@
 	<item>
 		<_id>g1_id_paciente_034</_id>
 		<nombre>Oswaldo</nombre>
-		<apellidos>Otrelles Martín</apellidos>
+		<apellidos>Otrelles MartÃ­n</apellidos>
 		<dni>02056250G</dni>
 		<fecha_de_nacimiento>18/07/1960</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>oswaldootrelles60@gmail.com</email>
 		<telefono>621355670</telefono>
-		<direccion>c/estufas 2, 1ºC</direccion>
+		<direccion>c/estufas 2, 1ÂºC</direccion>
 		<codigo_postal>29007</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>oswaldo_otrelles.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2257,39 +2257,39 @@
 				<paciente>g1_id_paciente_034</paciente>
 				<psiquiatra>g1_id_psiquiatra_006</psiquiatra>
 				<fecha_consulta>02/12/2016</fecha_consulta>
-				<motivo_consulta>Se olvidó de su lugar de trabajo</motivo_consulta>
+				<motivo_consulta>Se olvidÃ³ de su lugar de trabajo</motivo_consulta>
 				<desencadenante>Edad avanzada</desencadenante>
-				<observaciones>El paciente presenta muestra pérdidas de memoria, deficultad para comunicarse y dificultad para manejar tareas complejas</observaciones>
+				<observaciones>El paciente presenta muestra pÃ©rdidas de memoria, deficultad para comunicarse y dificultad para manejar tareas complejas</observaciones>
 				<diagnostico>Demencia</diagnostico>
-				<tratamiento>Se recomienda tomar Donepezilo para combatir las pérdidas de memoria</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Donepezilo para combatir las pÃ©rdidas de memoria</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_073</_id>
 				<paciente>g1_id_paciente_034</paciente>
 				<psiquiatra>g1_id_psiquiatra_006</psiquiatra>
 				<fecha_consulta>21/03/2017</fecha_consulta>
-				<motivo_consulta>Revisión</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n</motivo_consulta>
 				<observaciones>El paciente presenta un gran deterioro de su actividad cerebral, llegando a tener dificultad con las habilidades visuales</observaciones>
 				<diagnostico>Demencia</diagnostico>
-				<tratamiento>Se recomienda tomar Donepezilo para combatir las pérdidas de memoria y Memantina para la mejora de la función cerebral</tratamiento>
-				<frecuencia_tratamiento>Donepezilo 2 veces al día durante 3 semanas y Memantina 1 vez al día durante 3 semanas, con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Donepezilo para combatir las pÃ©rdidas de memoria y Memantina para la mejora de la funciÃ³n cerebral</tratamiento>
+				<frecuencia_tratamiento>Donepezilo 2 veces al dÃ­a durante 3 semanas y Memantina 1 vez al dÃ­a durante 3 semanas, con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_035</_id>
-		<nombre>Raúl</nombre>
+		<nombre>RaÃºl</nombre>
 		<apellidos>Manzano Olivares</apellidos>
 		<dni>23410093F</dni>
 		<fecha_de_nacimiento>01/01/1997</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>raulmanzano97@gmail.com</email>
 		<telefono>626743980</telefono>
-		<direccion>c/olivares 1, 5ºF</direccion>
+		<direccion>c/olivares 1, 5ÂºF</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>raul_manzano.png</fotografia>
 		<patologia_actual>Alcoholismo</patologia_actual>
 		<fecha_inicio>13/10/2020</fecha_inicio>
@@ -2305,9 +2305,9 @@
 				<paciente>g1_id_paciente_035</paciente>
 				<psiquiatra>g1_id_psiquiatra_007</psiquiatra>
 				<fecha_consulta>15/10/2020</fecha_consulta>
-				<motivo_consulta>Varios años de constante consumo de alcohol</motivo_consulta>
+				<motivo_consulta>Varios aÃ±os de constante consumo de alcohol</motivo_consulta>
 				<desencadenante>Vida laboral complicada</desencadenante>
-				<observaciones>El paciente presenta incapacidad para limitar la cantidad de alcohol que consume, así como comportamiento agresivo</observaciones>
+				<observaciones>El paciente presenta incapacidad para limitar la cantidad de alcohol que consume, asÃ­ como comportamiento agresivo</observaciones>
 				<diagnostico>Alcoholismo</diagnostico>
 				<tratamiento>Se recomienda asistir a terapia grupal</tratamiento>
 				<frecuencia_tratamiento>3 veces a la semana durante 5 meses</frecuencia_tratamiento>
@@ -2318,16 +2318,16 @@
 	<item>
 		<_id>g1_id_paciente_036</_id>
 		<nombre>Rosa</nombre>
-		<apellidos>Cuevas Martín</apellidos>
+		<apellidos>Cuevas MartÃ­n</apellidos>
 		<dni>02032250G</dni>
 		<fecha_de_nacimiento>23/12/1990</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>rosacuevas90@gmail.com</email>
 		<telefono>624955670</telefono>
-		<direccion>c/olivos 2, 5ºC</direccion>
+		<direccion>c/olivos 2, 5ÂºC</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>rosa_cuevas.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2360,23 +2360,23 @@
 				<paciente>g1_id_paciente_036</paciente>
 				<psiquiatra>g1_id_psiquiatra_007</psiquiatra>
 				<fecha_consulta>25/10/2018</fecha_consulta>
-				<motivo_consulta>Creencias falsas que no están basadas en la realidad</motivo_consulta>
-				<desencadenante>Reciente maltrato psicológico conyugal</desencadenante>
-				<observaciones>La paciente presenta pensamientos desordenados y delirios, así como alucinaciones</observaciones>
+				<motivo_consulta>Creencias falsas que no estÃ¡n basadas en la realidad</motivo_consulta>
+				<desencadenante>Reciente maltrato psicolÃ³gico conyugal</desencadenante>
+				<observaciones>La paciente presenta pensamientos desordenados y delirios, asÃ­ como alucinaciones</observaciones>
 				<diagnostico>Psicosis</diagnostico>
 				<tratamiento>Se recomienda tomar Aripiprazol y Asenapina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 meses (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 meses (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 			<item>
 				<_id>g1_id_form_076</_id>
 				<paciente>g1_id_paciente_036</paciente>
 				<psiquiatra>g1_id_psiquiatra_007</psiquiatra>
 				<fecha_consulta>12/12/2018</fecha_consulta>
-				<motivo_consulta>Revisión tras 2 meses de medicación</motivo_consulta>
+				<motivo_consulta>RevisiÃ³n tras 2 meses de medicaciÃ³n</motivo_consulta>
 				<observaciones>La paciente presenta una mejora progresiva. Responde bien al tratamiento</observaciones>
 				<diagnostico>Psicosis</diagnostico>
 				<tratamiento>Se recomienda tomar Aripiprazol y Asenapina</tratamiento>
-				<frecuencia_tratamiento>1 vez al día durante 3 semanas (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<frecuencia_tratamiento>1 vez al dÃ­a durante 3 semanas (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -2389,10 +2389,10 @@
 		<sexo>Mujer</sexo>
 		<email>lolaflores86@gmail.com</email>
 		<telefono>622055670</telefono>
-		<direccion>c/flores 2, 1ºC</direccion>
+		<direccion>c/flores 2, 1ÂºC</direccion>
 		<codigo_postal>29001</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>lola_flores.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2420,29 +2420,29 @@
 				<psiquiatra>g1_id_psiquiatra_007</psiquiatra>
 				<fecha_consulta>16/08/2016</fecha_consulta>
 				<motivo_consulta>Cambios extremos de actitud</motivo_consulta>
-				<desencadenante>Malestar doméstico continuado</desencadenante>
+				<desencadenante>Malestar domÃ©stico continuado</desencadenante>
 				<observaciones>La paciente presenta irritabilidad excesiva, comportamiento agresivo e impaciencia</observaciones>
 				<diagnostico>Trastorno bipolar</diagnostico>
 				<tratamiento>Se recomienda tomar Olanzapina para mejorar la estabilidad emocional</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_038</_id>
 		<nombre>Jorge</nombre>
-		<apellidos>Vázquez Rivera</apellidos>
+		<apellidos>VÃ¡zquez Rivera</apellidos>
 		<dni>12632100V</dni>
 		<fecha_de_nacimiento>29/03/1980</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
 		<email>jorgevazquez80@gmail.com</email>
 		<telefono>619507301</telefono>
-		<direccion>c/riverano 2, 2ºA</direccion>
+		<direccion>c/riverano 2, 2ÂºA</direccion>
 		<codigo_postal>29001</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>jorge_vazquez.png</fotografia>
-		<patologia_actual>Depresión</patologia_actual>
+		<patologia_actual>DepresiÃ³n</patologia_actual>
 		<fecha_inicio>12/11/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_007</psiquiatra_asignado>
 		<formularios_consultas>
@@ -2462,10 +2462,10 @@
 				<psiquiatra>g1_id_psiquiatra_007</psiquiatra>
 				<fecha_consulta>12/11/2020</fecha_consulta>
 				<motivo_consulta>Constante sentimiento de culpa inexplicable</motivo_consulta>
-				<observaciones>El paciente asegura sentirse mal constantemente consigo mismo sin saber por qué</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<observaciones>El paciente asegura sentirse mal constantemente consigo mismo sin saber por quÃ©</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2479,14 +2479,14 @@
 		<sexo>Mujer</sexo>
 		<email>rebecaortiz96@gmail.com</email>
 		<telefono>602155690</telefono>
-		<direccion>c/macetas 2, 1ºC</direccion>
+		<direccion>c/macetas 2, 1ÂºC</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>rebeca_ortiz.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Drogadicción</patologia>
+				<patologia>DrogadicciÃ³n</patologia>
 				<fecha_inicio>13/01/2018</fecha_inicio>
 				<fecha_final>02/08/2018</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_008</psiquiatra_asignado>
@@ -2507,7 +2507,7 @@
 				<motivo_consulta>Consumo de cannabis diario</motivo_consulta>
 				<desencadenante>Mala influencia de sus amistades</desencadenante>
 				<observaciones>La paciente presenta cambios de conducta y la necesidad de estar consumiendo marihuana constantemente</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda asistir a terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 3 meses</frecuencia_tratamiento>
 			</item>
@@ -2522,10 +2522,10 @@
 		<sexo>Mujer</sexo>
 		<email>mireyagrande90@gmail.com</email>
 		<telefono>622012670</telefono>
-		<direccion>c/plazas 3, 4ºC</direccion>
+		<direccion>c/plazas 3, 4ÂºC</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>mireya_grande.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2552,30 +2552,30 @@
 				<paciente>g1_id_paciente_040</paciente>
 				<psiquiatra>g1_id_psiquiatra_008</psiquiatra>
 				<fecha_consulta>17/09/2016</fecha_consulta>
-				<motivo_consulta>Inanición voluntaria</motivo_consulta>
+				<motivo_consulta>InaniciÃ³n voluntaria</motivo_consulta>
 				<desencadenante>Mala influencia de las redes sociales</desencadenante>
-				<observaciones>La paciente asegura que hasta que no tenga el cuerpo de las modelos que ve en redes sociales no comerá</observaciones>
+				<observaciones>La paciente asegura que hasta que no tenga el cuerpo de las modelos que ve en redes sociales no comerÃ¡</observaciones>
 				<diagnostico>Trastorno alimenticio</diagnostico>
 				<tratamiento>Se recomienda tomar Ciproheptadina para estimular el apetito</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_041</_id>
 		<nombre>Jorge</nombre>
-		<apellidos>Cañete Vera</apellidos>
+		<apellidos>CaÃ±ete Vera</apellidos>
 		<dni>12602465W</dni>
 		<fecha_de_nacimiento>01/07/1999</fecha_de_nacimiento>
 		<sexo>Hombre</sexo>
-		<email>jorgecañete99@gmail.com</email>
+		<email>jorgecaÃ±ete99@gmail.com</email>
 		<telefono>623560731</telefono>
-		<direccion>c/cañizos 8, 4ºA</direccion>
+		<direccion>c/caÃ±izos 8, 4ÂºA</direccion>
 		<codigo_postal>29008</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
-		<fotografia>jorge_cañete.png</fotografia>
-		<patologia_actual>Depresión</patologia_actual>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
+		<fotografia>jorge_caÃ±ete.png</fotografia>
+		<patologia_actual>DepresiÃ³n</patologia_actual>
 		<fecha_inicio>15/09/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_008</psiquiatra_asignado>
 		<formularios_consultas>
@@ -2596,10 +2596,10 @@
 				<fecha_consulta>18/09/2020</fecha_consulta>
 				<motivo_consulta>Confinamiento voluntario</motivo_consulta>
 				<desencadenante>Ruptura sentimental</desencadenante>
-				<observaciones>La paciente asegura que no tiene ganas de levantarse de la cama, ni ir a la Universidad. Presenta estado de ánimo irritable e insomnio</observaciones>
-				<diagnostico>Depresión</diagnostico>
+				<observaciones>La paciente asegura que no tiene ganas de levantarse de la cama, ni ir a la Universidad. Presenta estado de Ã¡nimo irritable e insomnio</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina para mejorar su estabilidad emocional</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2613,10 +2613,10 @@
 		<sexo>Hombre</sexo>
 		<email>miguelcarrasco80@gmail.com</email>
 		<telefono>695560131</telefono>
-		<direccion>c/avestruz 1, 6ºB</direccion>
+		<direccion>c/avestruz 1, 6ÂºB</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>miguel_carrasco.png</fotografia>
 		<patologia_actual>Trastorno de la personalidad</patologia_actual>
 		<fecha_inicio>17/09/2020</fecha_inicio>
@@ -2637,11 +2637,11 @@
 				<paciente>g1_id_paciente_042</paciente>
 				<psiquiatra>g1_id_psiquiatra_008</psiquiatra>
 				<fecha_consulta>18/09/2020</fecha_consulta>
-				<motivo_consulta>Comportamientos extraños</motivo_consulta>
-				<observaciones>El paciente conducta impulsiva, imagen personal inestable y cambios en el estado de ánimo</observaciones>
+				<motivo_consulta>Comportamientos extraÃ±os</motivo_consulta>
+				<observaciones>El paciente conducta impulsiva, imagen personal inestable y cambios en el estado de Ã¡nimo</observaciones>
 				<diagnostico>Trastorno de la personalidad</diagnostico>
 				<tratamiento>Se recomienda tomar Amitriptilina para mejorar su estabilidad mental</tratamiento>
-				<frecuencia_tratamiento>3 veces al día durante 1 mes</frecuencia_tratamiento>
+				<frecuencia_tratamiento>3 veces al dÃ­a durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2655,10 +2655,10 @@
 		<sexo>Hombre</sexo>
 		<email>juanvalverde90@gmail.com</email>
 		<telefono>662356189</telefono>
-		<direccion>c/apolo 1, 9ºC</direccion>
+		<direccion>c/apolo 1, 9ÂºC</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>juan_valverde.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2685,12 +2685,12 @@
 				<paciente>g1_id_paciente_043</paciente>
 				<psiquiatra>g1_id_psiquiatra_009</psiquiatra>
 				<fecha_consulta>07/05/2016</fecha_consulta>
-				<motivo_consulta>Comportamientos extraños</motivo_consulta>
-				<desencadenante>Drogadicción pasada sin tratar</desencadenante>
+				<motivo_consulta>Comportamientos extraÃ±os</motivo_consulta>
+				<desencadenante>DrogadicciÃ³n pasada sin tratar</desencadenante>
 				<observaciones>El paciente conducta impulsiva, alucinaciones y delirios</observaciones>
 				<diagnostico>Psicosis</diagnostico>
-				<tratamiento>Se recomienda tomar Asenapina para evitar ataques psicóticos</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Asenapina para evitar ataques psicÃ³ticos</tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -2703,10 +2703,10 @@
 		<sexo>Hombre</sexo>
 		<email>antoniovargas99@gmail.com</email>
 		<telefono>662056089</telefono>
-		<direccion>c/júpiter 3, 1ºC</direccion>
+		<direccion>c/jÃºpiter 3, 1ÂºC</direccion>
 		<codigo_postal>29005</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>antonio_vargas.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2737,11 +2737,11 @@
 				<psiquiatra>g1_id_psiquiatra_009</psiquiatra>
 				<fecha_consulta>29/07/2013</fecha_consulta>
 				<motivo_consulta>Dificultad en las habilidades sociales</motivo_consulta>
-				<desencadenante>Infancia traumática con aislamiento social</desencadenante>
-				<observaciones>El paciente presenta movimientos estereotipados, anomalías en la expresión no verbal y anomalías comunicativas</observaciones>
+				<desencadenante>Infancia traumÃ¡tica con aislamiento social</desencadenante>
+				<observaciones>El paciente presenta movimientos estereotipados, anomalÃ­as en la expresiÃ³n no verbal y anomalÃ­as comunicativas</observaciones>
 				<diagnostico>Trastorno del Espectro Autista</diagnostico>
 				<tratamiento>Se recomienda tomar Risperidona y Aripiprazol</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 1 mes (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 1 mes (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
@@ -2754,12 +2754,12 @@
 		<sexo>Mujer</sexo>
 		<email>anasoria91@gmail.com</email>
 		<telefono>645321987</telefono>
-		<direccion>c/plutarco 2, 2ºA</direccion>
+		<direccion>c/plutarco 2, 2ÂºA</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>ana_soria.png</fotografia>
-		<patologia_actual>Depresión</patologia_actual>
+		<patologia_actual>DepresiÃ³n</patologia_actual>
 		<fecha_inicio>05/07/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_009</psiquiatra_asignado>
 		<formularios_consultas>
@@ -2772,7 +2772,7 @@
 				<medicamento>Sertralina</medicamento>
 			</item>
 			<item>
-				<medicamento>Lexatín</medicamento>
+				<medicamento>LexatÃ­n</medicamento>
 			</item>
 		</medicamentos_asignados>
 		<formularios_actuales>
@@ -2782,11 +2782,11 @@
 				<psiquiatra>g1_id_psiquiatra_009</psiquiatra>
 				<fecha_consulta>05/07/2020</fecha_consulta>
 				<motivo_consulta>Constantes ganas de llorar y aislamiento social</motivo_consulta>
-				<desencadenante>Experiencia traumática en el pasado</desencadenante>
-				<observaciones>La paciente presenta está decaida y presenta un muy bajo estado de ánimo</observaciones>
-				<diagnostico>Depresión</diagnostico>
-				<tratamiento>Se recomienda tomar Sertralina para estabilizarla y Lexatín en caso de ataque de nervios</tratamiento>
-				<frecuencia_tratamiento>Sertralina 2 veces al día durante 3 semanas y Lexatín máximo 1 al día, con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<desencadenante>Experiencia traumÃ¡tica en el pasado</desencadenante>
+				<observaciones>La paciente presenta estÃ¡ decaida y presenta un muy bajo estado de Ã¡nimo</observaciones>
+				<diagnostico>DepresiÃ³n</diagnostico>
+				<tratamiento>Se recomienda tomar Sertralina para estabilizarla y LexatÃ­n en caso de ataque de nervios</tratamiento>
+				<frecuencia_tratamiento>Sertralina 2 veces al dÃ­a durante 3 semanas y LexatÃ­n mÃ¡ximo 1 al dÃ­a, con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2800,10 +2800,10 @@
 		<sexo>Mujer</sexo>
 		<email>sandraconejo93@gmail.com</email>
 		<telefono>622056049</telefono>
-		<direccion>c/aristóteles 3, 1ºC</direccion>
+		<direccion>c/aristÃ³teles 3, 1ÂºC</direccion>
 		<codigo_postal>29002</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>sandra_conejo.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2830,30 +2830,30 @@
 				<paciente>g1_id_paciente_046</paciente>
 				<psiquiatra>g1_id_psiquiatra_009</psiquiatra>
 				<fecha_consulta>30/09/2018</fecha_consulta>
-				<motivo_consulta>Estrés continuo</motivo_consulta>
-				<desencadenante>Realización de múltiples actividades laborales</desencadenante>
+				<motivo_consulta>EstrÃ©s continuo</motivo_consulta>
+				<desencadenante>RealizaciÃ³n de mÃºltiples actividades laborales</desencadenante>
 				<observaciones>La paciente tiene 3 trabajos distintos y se siente agobiada por ello, de manera que no sabe organizarse para dejar tiempo para su salud mental</observaciones>
 				<diagnostico>Ansiedad</diagnostico>
 				<tratamiento>Se recomienda tomar Lexatin</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 3 semanas</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 3 semanas</frecuencia_tratamiento>
 			</item>
 		</formularios_previos>
 	</item>
 	<item>
 		<_id>g1_id_paciente_047</_id>
-		<nombre>Rocío</nombre>
-		<apellidos>Saravia Sánchez</apellidos>
+		<nombre>RocÃ­o</nombre>
+		<apellidos>Saravia SÃ¡nchez</apellidos>
 		<dni>07053427T</dni>
 		<fecha_de_nacimiento>14/02/1990</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>rociosaravia90@gmail.com</email>
 		<telefono>662312135</telefono>
-		<direccion>c/flamenco 3, 7ºA</direccion>
+		<direccion>c/flamenco 3, 7ÂºA</direccion>
 		<codigo_postal>29001</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>rocio_saravia.png</fotografia>
-		<patologia_actual>Depresión post-parto</patologia_actual>
+		<patologia_actual>DepresiÃ³n post-parto</patologia_actual>
 		<fecha_inicio>17/09/2020</fecha_inicio>
 		<psiquiatra_asignado>g1_id_psiquiatra_010</psiquiatra_asignado>
 		<formularios_consultas>
@@ -2866,7 +2866,7 @@
 				<medicamento>Sertralina</medicamento>
 			</item>
 			<item>
-				<medicamento>Lexatín</medicamento>
+				<medicamento>LexatÃ­n</medicamento>
 			</item>
 		</medicamentos_asignados>
 		<formularios_actuales>
@@ -2875,12 +2875,12 @@
 				<paciente>g1_id_paciente_047</paciente>
 				<psiquiatra>g1_id_psiquiatra_010</psiquiatra>
 				<fecha_consulta>20/09/2020</fecha_consulta>
-				<motivo_consulta>Sentimiento de incapacidad para criar a un bebé</motivo_consulta>
+				<motivo_consulta>Sentimiento de incapacidad para criar a un bebÃ©</motivo_consulta>
 				<desencadenante>Parto reciente</desencadenante>
 				<observaciones>La paciente se siente agobiada y no se ve capaz de que una persona dependa de ella. Cree que no va a saber cuidarlo y se distancia de el constantemente</observaciones>
-				<diagnostico>Depresión post-parto</diagnostico>
+				<diagnostico>DepresiÃ³n post-parto</diagnostico>
 				<tratamiento>Se recomienda tomar Sertralina y Lexatin</tratamiento>
-				<frecuencia_tratamiento>2 veces al día durante 2 semanas (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
+				<frecuencia_tratamiento>2 veces al dÃ­a durante 2 semanas (ambas), con una diferencia de 4 horas entre una y otra</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2894,10 +2894,10 @@
 		<sexo>Hombre</sexo>
 		<email>antonioruiz95@gmail.com</email>
 		<telefono>663278968</telefono>
-		<direccion>c/pajaros 1, 6ºC</direccion>
+		<direccion>c/pajaros 1, 6ÂºC</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>antonio_ruiz.png</fotografia>
 		<patologias_previas>
 			<item>
@@ -2919,7 +2919,7 @@
 				<paciente>g1_id_paciente_048</paciente>
 				<psiquiatra>g1_id_psiquiatra_010</psiquiatra>
 				<fecha_consulta>05/01/2018</fecha_consulta>
-				<motivo_consulta>Dependencia de bebidas alcohólicas</motivo_consulta>
+				<motivo_consulta>Dependencia de bebidas alcohÃ³licas</motivo_consulta>
 				<desencadenante>Ruptura sentimental</desencadenante>
 				<observaciones>El paciente siente una fuerte necesidad de consumir alcohol, oues asegura que cuando no esta bajos los efectos de este, se siente deprimido</observaciones>
 				<diagnostico>Alcoholismo</diagnostico>
@@ -2930,17 +2930,17 @@
 	</item>
 	<item>
 		<_id>g1_id_paciente_049</_id>
-		<nombre>Ana María</nombre>
-		<apellidos>Nevado Sánchez</apellidos>
+		<nombre>Ana MarÃ­a</nombre>
+		<apellidos>Nevado SÃ¡nchez</apellidos>
 		<dni>07052127P</dni>
 		<fecha_de_nacimiento>17/08/1999</fecha_de_nacimiento>
 		<sexo>Mujer</sexo>
 		<email>anamarianevado99@gmail.com</email>
 		<telefono>662122135</telefono>
-		<direccion>c/naranjos 6, 7ºC</direccion>
+		<direccion>c/naranjos 6, 7ÂºC</direccion>
 		<codigo_postal>29003</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>ana_maria_nevado.png</fotografia>
 		<patologia_actual>Ansiedad</patologia_actual>
 		<fecha_inicio>15/10/2020</fecha_inicio>
@@ -2952,7 +2952,7 @@
 		</formularios_consultas>
 		<medicamentos_asignados>
 			<item>
-				<medicamento>Lexatín</medicamento>
+				<medicamento>LexatÃ­n</medicamento>
 			</item>
 		</medicamentos_asignados>
 		<formularios_actuales>
@@ -2963,10 +2963,10 @@
 				<fecha_consulta>15/10/2020</fecha_consulta>
 				<motivo_consulta>Ataques de ansiedad constantes</motivo_consulta>
 				<desencadenante>La paciente sufre cancer de mama</desencadenante>
-				<observaciones>La paciente al no creer que va a superar la enfermedad, presenta insomnio y sensación de pánico</observaciones>
+				<observaciones>La paciente al no creer que va a superar la enfermedad, presenta insomnio y sensaciÃ³n de pÃ¡nico</observaciones>
 				<diagnostico>Ansiedad</diagnostico>
-				<tratamiento>Se recomienda tomar Lexatin para evitar los ataques de ansiedad, así como asistir a terapia grupal</tratamiento>
-				<frecuencia_tratamiento>Lexatin 2 veces al día durante 2 semanas y acudir a terapia grupal 2 veces a la semana durante 1 mes</frecuencia_tratamiento>
+				<tratamiento>Se recomienda tomar Lexatin para evitar los ataques de ansiedad, asÃ­ como asistir a terapia grupal</tratamiento>
+				<frecuencia_tratamiento>Lexatin 2 veces al dÃ­a durante 2 semanas y acudir a terapia grupal 2 veces a la semana durante 1 mes</frecuencia_tratamiento>
 			</item>
 		</formularios_actuales>
 		<formularios_previos/>
@@ -2980,14 +2980,14 @@
 		<sexo>Hombre</sexo>
 		<email>oscarbenitez93@gmail.com</email>
 		<telefono>669278960</telefono>
-		<direccion>c/cocodrilo 3, 1ºC</direccion>
+		<direccion>c/cocodrilo 3, 1ÂºC</direccion>
 		<codigo_postal>29004</codigo_postal>
-		<localidad>Málaga</localidad>
-		<provincia>Málaga</provincia>
+		<localidad>MÃ¡laga</localidad>
+		<provincia>MÃ¡laga</provincia>
 		<fotografia>oscar_benitez.png</fotografia>
 		<patologias_previas>
 			<item>
-				<patologia>Drogadicción</patologia>
+				<patologia>DrogadicciÃ³n</patologia>
 				<fecha_inicio>27/04/2019</fecha_inicio>
 				<fecha_final>23/10/2019</fecha_final>
 				<psiquiatra_asignado>g1_id_psiquiatra_010</psiquiatra_asignado>
@@ -3005,10 +3005,10 @@
 				<paciente>g1_id_paciente_090</paciente>
 				<psiquiatra>g1_id_psiquiatra_010</psiquiatra>
 				<fecha_consulta>28/04/2019</fecha_consulta>
-				<motivo_consulta>Abuso de sustancias tóxicas</motivo_consulta>
-				<desencadenante>Nuevo círculo de amistades</desencadenante>
+				<motivo_consulta>Abuso de sustancias tÃ³xicas</motivo_consulta>
+				<desencadenante>Nuevo cÃ­rculo de amistades</desencadenante>
 				<observaciones>El paciente cambios de conducta y la necesidad de estar consumiendo marihuana constantemente</observaciones>
-				<diagnostico>Drogadicción</diagnostico>
+				<diagnostico>DrogadicciÃ³n</diagnostico>
 				<tratamiento>Se recomienda acudir a la terapia grupal</tratamiento>
 				<frecuencia_tratamiento>2 veces a la semana durante 6 meses</frecuencia_tratamiento>
 			</item>

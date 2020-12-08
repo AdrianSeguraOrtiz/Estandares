@@ -7,9 +7,7 @@ Created on Tue Nov 24 17:15:05 2020
 
 import pymongo
 import json
-from bson import json_util
 from json2xml import json2xml
-from json2xml.utils import readfromurl, readfromstring, readfromjson
 from pprint import pprint
 import lxml.etree as ET
 
@@ -119,7 +117,7 @@ def Consulta_3():
     return result
 
 def GuardaArchivo(cadena, nombre_archivo):
-    f = open(nombre_archivo, "w")
+    f = open(nombre_archivo, "w", encoding="utf-8")
     f.write(cadena)
     f.close()
 
@@ -144,8 +142,9 @@ def GeneraVista(num_consulta, guardar_json, guardar_xml):
         json_docs.append(doc)
     
     if(guardar_json):
-        with open('Consultas json/resultado_consulta_' + str(num_consulta) + '.json', 'w') as file:
-            json.dump(json_docs, file, indent=4)
+        with open('Consultas json/resultado_consulta_' + str(num_consulta) + '.json', 'w', encoding="utf-8") as file:
+            str(json_docs).encode('utf-8')
+            json.dump(json_docs, file, indent=4, ensure_ascii=False)
     
     res_consulta_xml_string = json2xml.Json2xml(json_docs, attr_type=False).to_xml()
     
