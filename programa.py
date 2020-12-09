@@ -8,6 +8,7 @@ Created on Tue Nov 24 17:15:05 2020
 import pymongo
 import json
 from json2xml import json2xml
+from json2xml.utils import readfromstring
 from pprint import pprint
 import lxml.etree as ET
 
@@ -116,6 +117,50 @@ def Consulta_3():
     ])
     return result
 
+def Consulta_4():
+    result1 = pacientes.aggregate([
+        {
+            '$unwind': '$patologias previas'
+        },
+        {
+            '$group': {
+                '_id' : '$patologias previas.patologia',
+                'count': { '$sum': 1 }
+            }
+        }
+    ])
+    result2 = pacientes.aggregate([
+        {
+            '$group': {
+                '_id' : '$patologia actual',
+                'count': { '$sum': 1 }
+
+            }
+        }
+    ])
+    json_res = '['
+    lista_enfermedades = list()
+    docs = list()
+    for doc in result1:
+        if (doc['_id'] != None):
+            docs.append(doc)
+            lista_enfermedades.append(doc['_id'])
+    for doc in result2:
+        if (doc['_id'] != None):
+            docs.append(doc)
+            lista_enfermedades.append(doc['_id'])
+    lista_enfermedades = list(set(lista_enfermedades))
+    vector_count = list((0,)*len(lista_enfermedades))
+    for i in range(0,len(lista_enfermedades)):
+        for doc in docs:
+            if(doc['_id'] == lista_enfermedades[i]):
+                vector_count[i] += int(doc['count'])
+        json_res = json_res + '{"enfermedad":"'+lista_enfermedades[i]+'","total":"'+str(vector_count[i])+'"},'
+    json_res = json_res[0:-1] + ']'
+    result = json.loads(json_res)
+    return result
+    
+
 def GuardaArchivo(cadena, nombre_archivo):
     f = open(nombre_archivo, "w", encoding="utf-8")
     f.write(cadena)
@@ -134,6 +179,8 @@ def GeneraVista(num_consulta, guardar_json, guardar_xml):
         res_consulta_json = Consulta_2()
     elif(num_consulta == 3):
         res_consulta_json = Consulta_3()
+    elif(num_consulta == 4):
+        res_consulta_json = Consulta_4()
     else:
         return "consulta no implementada"
 
@@ -155,7 +202,9 @@ def GeneraVista(num_consulta, guardar_json, guardar_xml):
     
     html = AplicaXSLT(res_consulta_xml, "Consultas xsl/vista_" + str(num_consulta) + ".xsl")
     GuardaArchivo(str(html), "Vistas html/vista_" + str(num_consulta) + ".html")
-   
+
+ 
 GeneraVista(1, True, True)
 GeneraVista(2, True, True)
 GeneraVista(3, True, True)
+GeneraVista(4, True, True)
