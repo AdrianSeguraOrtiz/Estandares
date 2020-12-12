@@ -892,9 +892,6 @@
         "psiquiatra asignado" : "id_psiquiatra_005",
         "formularios consultas" : [
             {"formulario" : "g1_id_form_059"}
-        ],
-        "pruebas complementarias" : [
-            {"prueba" : "Analítica de orina"}
         ]
     },
     {
