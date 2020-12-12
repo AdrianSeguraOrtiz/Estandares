@@ -131,6 +131,11 @@
             {
                 "medicamento": "Olanzapina"
             }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Analítica de sangre vitamina B12"
+            }
         ]
     },
     {
@@ -193,6 +198,11 @@
                     {
                         "medicamento": "Protriptilina"
                     }
+                ],
+                "pruebas complementarias" : [
+                    {
+                        "prueba" : "Prueba función tiroidea"
+                    }
                 ]
             }
         ],
@@ -210,6 +220,11 @@
             },
             {
                 "medicamento": "Memantina"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de estimulación con TRH"
             }
         ]
     },
@@ -238,6 +253,11 @@
         "medicamentos asignados": [
             {
                 "medicamento": "Fluvoxamine"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de glicemia postpandrial"
             }
         ]
     },
@@ -288,6 +308,11 @@
             {
                 "medicamento": "Citalopram"
             }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de función tiroidea"
+            }
         ]
     },
     {
@@ -318,6 +343,11 @@
             },
             {
                 "medicamento": "Clozapina"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de variación de la prolactina"
             }
         ]
     },
@@ -396,6 +426,11 @@
             {
                 "medicamento": "Methylphenidate "
             }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de glicemia postpandrial"
+            }
         ]
     },
     {
@@ -473,6 +508,11 @@
             {
                 "medicamento": "Lexatin"
             }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de función tiroidea"
+            }
         ]
     },
     {
@@ -532,6 +572,11 @@
                     {
                         "medicamento": "Lexatin"
                     }
+                ],
+                "pruebas complementarias" : [
+                    {
+                        "prueba" : "Prueba de estimulación con TRH"
+                    }
                 ]
             }
         ],
@@ -546,6 +591,11 @@
         "medicamentos asignados": [
             {
                 "medicamento": "Lexatin"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de función tiroidea"
             }
         ]
     },
@@ -624,6 +674,11 @@
             {
                 "medicamento": "Sertralina"
             }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Prueba de función tiroidea"
+            }
         ]
     },
     {
@@ -658,6 +713,11 @@
                     {
                         "medicamento": "Ritalina"
                     }
+                ],
+                "pruebas complementarias" : [
+                    {
+                        "prueba" : "Prueba de glicemia postpandrial"
+                    }
                 ]
             }
         ],
@@ -690,6 +750,11 @@
         "formularios consultas": [
             {
                 "formulario": "g1_id_form_038"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Analítica de orina"
             }
         ]
     },
@@ -842,6 +907,11 @@
         "formularios consultas": [
             {
                 "formulario": "g1_id_form_047"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Analítica de orina"
             }
         ]
     },
@@ -1221,6 +1291,11 @@
                     {
                         "formulario": "g1_id_form_068"
                     }
+                ],
+                "pruebas complementarias" : [
+                    {
+                        "prueba" : "Analítica de orina"
+                    }
                 ]
             }
         ]
@@ -1281,6 +1356,11 @@
         "formularios consultas": [
             {
                 "formulario": "g1_id_form_071"
+            }
+        ],
+        "pruebas complementarias" : [
+            {
+                "prueba" : "Analítica de orina"
             }
         ]
     },
@@ -1806,6 +1886,11 @@
                 "formularios consultas": [
                     {
                         "formulario": "g1_id_form_090"
+                    }
+                ],
+                "pruebas complementarias" : [
+                    {
+                        "prueba" : "Analítica de orina"
                     }
                 ]
             }
