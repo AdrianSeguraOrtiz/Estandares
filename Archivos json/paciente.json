@@ -26,6 +26,9 @@
                 "medicamentos asignados" : [
                     {"medicamento" : "Paroxetina"},
                     {"medicamento" : "Fluoxetina"}
+                ],
+                "pruebas complementarias" : [
+                    {"prueba" : "Prueba de glicemia postpandrial"}
                 ]
             },
             {
@@ -41,6 +44,7 @@
                     {"medicamento" : "Sertralina"},
                     {"medicamento" : "Lexatin"}
                 ]
+        ]
             }
         ],
         "patologia actual" : "Trastorno alimenticio",
@@ -51,6 +55,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Ciproheptadina"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Analítica de sangre"}
         ]
     },
     {
@@ -92,6 +99,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Olanzapina"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Analítica de sangre vitamina B12"}
         ]
     },
     {
@@ -156,6 +166,10 @@
         "medicamentos asignados" : [
             {"medicamento" : "Donepezilo"},
             {"medicamento" : "Memantina"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba función tiroidea"},
+            {"prueba" : "Prueba de estimulación con TRH"}
         ]
     },
     {
@@ -180,6 +194,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Fluvoxamine"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de glicemia postpandrial"}
         ]
     },
     {
@@ -219,6 +236,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Citalopram"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de función tiroidea"}
         ]
     },
     {
@@ -244,6 +264,9 @@
         "medicamentos asignados" : [
             {"medicamento" : "Aripiprazol"},
             {"medicamento" : "Clozapina"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de variación de la prolactina"}
         ]
     },
     {
@@ -306,6 +329,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Methylphenidate "}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de glicemia postpandrial"}
         ]
     },
     {
@@ -369,6 +395,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Lexatin"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de función tiroidea"}
         ]
     },
     {
@@ -412,6 +441,9 @@
                 "medicamentos asignados" : [
                     {"medicamento" : "Sertralina"},
                     {"medicamento" : "Lexatin"}
+                ],
+                "pruebas complementarias" : [
+                    {"prueba" : "Prueba de estimulación con TRH"}
                 ]
             }
         ],
@@ -423,6 +455,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Lexatin"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de función tiroidea"}
         ]
     },
     {
@@ -486,6 +521,9 @@
         ],
         "medicamentos asignados" : [
             {"medicamento" : "Sertralina"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Prueba de función tiroidea"}
         ]
     },
     {
@@ -514,6 +552,9 @@
                 ],
                 "medicamentos asignados" : [
                     {"medicamento" : "Ritalina"}
+                ],
+                "pruebas complementarias" : [
+                    {"prueba" : "Prueba de glicemia postpandrial"}
                 ]
             }
         ],
@@ -543,6 +584,9 @@
         "psiquiatra asignado" : "id_psiquiatra_002",
         "formularios consultas" : [
             {"formulario" : "g1_id_form_38"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Analítica de orina"}
         ]
     },
     {
@@ -669,6 +713,9 @@
         "psiquiatra asignado" : "id_psiquiatra_003",
         "formularios consultas" : [
             {"formulario" : "g1_id_form_47"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Analítica de orina"}
         ]
     },
     {
@@ -846,6 +893,9 @@
         "psiquiatra asignado" : "id_psiquiatra_005",
         "formularios consultas" : [
             {"formulario" : "g1_id_form_059"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Analítica de orina"}
         ]
     },
     {
@@ -983,6 +1033,9 @@
                 "formularios consultas" : [
                     {"formulario" : "g1_id_form_067"},
                     {"formulario" : "g1_id_form_068"}
+                ],
+                "pruebas complementarias" : [
+                    {"prueba" : "Analítica de orina"}
                 ]
             }
         ]
@@ -1036,6 +1089,9 @@
         "psiquiatra asignado" : "id_psiquiatra_006",
         "formularios consultas" : [
             {"formulario" : "g1_id_form_071"}
+        ],
+        "pruebas complementarias" : [
+            {"prueba" : "Analítica de orina"}
         ]
     },
     {
