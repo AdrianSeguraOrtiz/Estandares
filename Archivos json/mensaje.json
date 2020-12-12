@@ -652,10 +652,10 @@
     },
     {
         "_id" : "g1_id_mensaje_094",
-        "emisor" : "g1_id_psiquiatra_005",
+        "emisor" : "g1_id_psiquiatra_001",
         "receptor" : "g1_id_admin_001",
-        "fecha de envio" : "20/12/2020",
-        "contenido" : "Analítica de orina para Fernando Sánchez"
+        "fecha de envio" : "12/01/2006",
+        "contenido" : "Prueba de glicemia postpandrial para Marta Romero"
     },
     {
         "_id" : "g1_id_mensaje_095",
