@@ -1029,7 +1029,7 @@
     },
     {
         "_id" : "g1_id_form_090",
-        "paciente" : "g1_id_paciente_090",
+        "paciente" : "g1_id_paciente_050",
         "psiquiatra" : "g1_id_psiquiatra_010",
         "fecha consulta" : "28/04/2019",
         "motivo consulta" : "Abuso de sustancias tóxicas",
